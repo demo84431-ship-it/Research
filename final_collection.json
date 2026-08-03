@@ -1,0 +1,1930 @@
+[
+  {
+    "doi": "10.1191/1478088706qp063oa",
+    "title": "Using thematic analysis in psychology",
+    "year": 2006,
+    "cited_by": 187585,
+    "pdf_url": "https://www.tandfonline.com/doi/abs/10.1191/1478088706qp063oa",
+    "authors": [
+      "Virginia Braun",
+      "Victoria Clarke"
+    ],
+    "journal": "Qualitative Research in Psychology",
+    "category": "03_methodology"
+  },
+  {
+    "doi": "10.3758/bf03193146",
+    "title": "G*Power 3: A flexible statistical power analysis program for the social, behavioral, and biomedical sciences",
+    "year": 2007,
+    "cited_by": 64922,
+    "pdf_url": "https://link.springer.com/content/pdf/10.3758%2FBF03193146.pdf",
+    "authors": [
+      "Franz Faul",
+      "Edgar Erdfelder",
+      "Albert-Georg Lang",
+      "Axel Buchner"
+    ],
+    "journal": "Behavior Research Methods",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1109/5.726791",
+    "title": "Gradient-based learning applied to document recognition",
+    "year": 1998,
+    "cited_by": 58790,
+    "pdf_url": "https://hal.science/hal-03926082/document",
+    "authors": [
+      "Yann LeCun",
+      "L\u00e9on Bottou",
+      "Yoshua Bengio",
+      "Patrick Haffner"
+    ],
+    "journal": "Proceedings of the IEEE",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1177/014662167700100306",
+    "title": "The CES-D Scale",
+    "year": 1977,
+    "cited_by": 53548,
+    "pdf_url": "https://conservancy.umn.edu/bitstreams/048971e8-d975-4685-8b22-d5f57231a77f/download",
+    "authors": [
+      "Lenore Sawyer Radloff"
+    ],
+    "journal": "Applied Psychological Measurement",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.7326/m18-0850",
+    "title": "PRISMA Extension for Scoping Reviews (PRISMA-ScR): Checklist and Explanation",
+    "year": 2018,
+    "cited_by": 41837,
+    "pdf_url": "https://eprints.whiterose.ac.uk/136633/1/PRISMA_ScR_Manuscript_July6th_clean_1_.pdf",
+    "authors": [
+      "Andrea C. Tricco",
+      "Erin Lillie",
+      "Wasifa Zarin",
+      "Kelly K. O\u2019Brien",
+      "Heather Colquhoun",
+      "Danielle Levac"
+    ],
+    "journal": "Annals of Internal Medicine",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1007/bf00994018",
+    "title": "Support-vector networks",
+    "year": 1995,
+    "cited_by": 40658,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/BF00994018.pdf",
+    "authors": [
+      "Corinna Cortes",
+      "Vladimir Vapnik"
+    ],
+    "journal": "Machine Learning",
+    "category": "04_ai_psychology"
+  },
+  {
+    "doi": "10.1038/s41592-019-0686-2",
+    "title": "SciPy 1.0: fundamental algorithms for scientific computing in Python",
+    "year": 2020,
+    "cited_by": 38760,
+    "pdf_url": "https://doi.org/10.1038/s41592-019-0686-2",
+    "authors": [
+      "Pauli Virtanen",
+      "Ralf Gommers",
+      "Travis E. Oliphant",
+      "Matt Haberland",
+      "Tyler Reddy",
+      "David Cournapeau"
+    ],
+    "journal": "Nature Methods",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1080/1364557032000119616",
+    "title": "Scoping studies: towards a methodological framework",
+    "year": 2005,
+    "cited_by": 36330,
+    "pdf_url": "https://eprints.whiterose.ac.uk/id/eprint/1618/1/Scopingstudies.pdf",
+    "authors": [
+      "Hilary Arksey",
+      "Lisa O\u2019Malley"
+    ],
+    "journal": "International Journal of Social Research Methodology",
+    "category": "03_methodology"
+  },
+  {
+    "doi": "10.1007/s11747-014-0403-8",
+    "title": "A new criterion for assessing discriminant validity in variance-based structural equation modeling",
+    "year": 2014,
+    "cited_by": 34935,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11747-014-0403-8.pdf",
+    "authors": [
+      "J\u00f6rg Henseler",
+      "Christian M. Ringle",
+      "Marko Sarstedt"
+    ],
+    "journal": "Journal of the Academy of Marketing Science",
+    "category": "03_methodology"
+  },
+  {
+    "doi": "10.1023/a:1022627411411",
+    "title": "Support-Vector Networks",
+    "year": 1995,
+    "cited_by": 33429,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1023/A:1022627411411.pdf",
+    "authors": [
+      "Corinna Cortes",
+      "Vladimir Vapnik"
+    ],
+    "journal": "Machine Learning",
+    "category": "04_ai_psychology"
+  },
+  {
+    "doi": "10.1212/wnl.34.7.939",
+    "title": "Clinical diagnosis of Alzheimer's disease",
+    "year": 1984,
+    "cited_by": 28014,
+    "pdf_url": "https://n.neurology.org/content/neurology/34/7/939.full.pdf",
+    "authors": [
+      "Guy M. McKhann",
+      "David A. Drachman",
+      "Marshall Folstein",
+      "Robert Katzman",
+      "Donald D. Price",
+      "Emanuel M. Stadlan"
+    ],
+    "journal": "Neurology",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1111/j.1365-2648.2007.04569.x",
+    "title": "The qualitative content analysis process",
+    "year": 2008,
+    "cited_by": 22533,
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1365-2648.2007.04569.x",
+    "authors": [
+      "Satu Elo",
+      "Helvi Kyng\u00e4s"
+    ],
+    "journal": "Journal of Advanced Nursing",
+    "category": "03_methodology"
+  },
+  {
+    "doi": "10.1159/000353441",
+    "title": "Special Care Units and Traditional Care in Dementia: Relationship with Behavior, Cognition, Functional Status and Quality of Life - A Review",
+    "year": 2013,
+    "cited_by": 20660,
+    "pdf_url": "https://karger.com/dee/article-pdf/3/1/360/2562810/000353441.pdf",
+    "authors": [
+      "Jeroen S. Kok",
+      "Ina J. Berg",
+      "Erik Scherder"
+    ],
+    "journal": "Dementia and Geriatric Cognitive Disorders Extra",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1006/nimg.2001.0978",
+    "title": "Automated Anatomical Labeling of Activations in SPM Using a Macroscopic Anatomical Parcellation of the MNI MRI Single-Subject Brain",
+    "year": 2002,
+    "cited_by": 16897,
+    "pdf_url": "https://normandie-univ.hal.science/hal-05462925/document",
+    "authors": [
+      "N. Tzourio-Mazoyer",
+      "Brigitte Landeau",
+      "Dimitri Papathanassiou",
+      "Fabrice Crivello",
+      "Olivier Etard",
+      "Nicolas Delcroix"
+    ],
+    "journal": "NeuroImage",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1111/j.1540-6261.1997.tb04820.x",
+    "title": "A Survey of Corporate Governance",
+    "year": 1997,
+    "cited_by": 16297,
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1540-6261.1997.tb04820.x",
+    "authors": [
+      "Andrei Shleifer",
+      "Robert W. Vishny"
+    ],
+    "journal": "The Journal of Finance",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1186/1748-5908-5-69",
+    "title": "Scoping studies: advancing the methodology",
+    "year": 2010,
+    "cited_by": 15066,
+    "pdf_url": "https://implementationscience.biomedcentral.com/counter/pdf/10.1186/1748-5908-5-69",
+    "authors": [
+      "Danielle Levac",
+      "Heather Colquhoun",
+      "Kelly K. O\u2019Brien"
+    ],
+    "journal": "Implementation Science",
+    "category": "03_methodology"
+  },
+  {
+    "doi": "10.1111/j.1469-7610.1997.tb01545.x",
+    "title": "The Strengths and Difficulties Questionnaire: A Research Note",
+    "year": 1997,
+    "cited_by": 14950,
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1469-7610.1997.tb01545.x",
+    "authors": [
+      "Robert Goodman"
+    ],
+    "journal": "Journal of Child Psychology and Psychiatry",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1023/a:1022643204877",
+    "title": "Induction of Decision Trees",
+    "year": 1986,
+    "cited_by": 14924,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1023%2FA%3A1022643204877.pdf",
+    "authors": [
+      "J. R. Quinlan"
+    ],
+    "journal": "Machine Learning",
+    "category": "04_ai_psychology"
+  },
+  {
+    "doi": "10.1186/1748-5908-6-42",
+    "title": "The behaviour change wheel: A new method for characterising and designing behaviour change interventions",
+    "year": 2011,
+    "cited_by": 13934,
+    "pdf_url": "https://implementationscience.biomedcentral.com/counter/pdf/10.1186/1748-5908-6-42",
+    "authors": [
+      "Susan Michie",
+      "Maartje M. van Stralen",
+      "Robert West"
+    ],
+    "journal": "Implementation Science",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1177/1609406917733847",
+    "title": "Thematic Analysis",
+    "year": 2017,
+    "cited_by": 13225,
+    "pdf_url": "https://journals.sagepub.com/doi/pdf/10.1177/1609406917733847",
+    "authors": [
+      "Lorelli Nowell",
+      "Jill M. Norris",
+      "Deborah White",
+      "Nancy J. Moules"
+    ],
+    "journal": "International Journal of Qualitative Methods",
+    "category": "03_methodology"
+  },
+  {
+    "doi": "10.3102/0013189x018001032",
+    "title": "Situated Cognition and the Culture of Learning",
+    "year": 1989,
+    "cited_by": 13036,
+    "pdf_url": "https://www.ideals.illinois.edu/items/18064/bitstreams/64664/data.pdf",
+    "authors": [
+      "John Seely Brown",
+      "Allan Collins",
+      "Paul Duguid"
+    ],
+    "journal": "Educational Researcher",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1186/s40537-019-0197-0",
+    "title": "A survey on Image Data Augmentation for Deep Learning",
+    "year": 2019,
+    "cited_by": 12670,
+    "pdf_url": "https://journalofbigdata.springeropen.com/track/pdf/10.1186/s40537-019-0197-0",
+    "authors": [
+      "Connor Shorten",
+      "Taghi M. Khoshgoftaar"
+    ],
+    "journal": "Journal Of Big Data",
+    "category": "04_ai_psychology"
+  },
+  {
+    "doi": "10.1007/bf00116251",
+    "title": "Induction of decision trees",
+    "year": 1986,
+    "cited_by": 12405,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/BF00116251.pdf",
+    "authors": [
+      "J. R. Quinlan"
+    ],
+    "journal": "Machine Learning",
+    "category": "04_ai_psychology"
+  },
+  {
+    "doi": "10.1108/02683940710733115",
+    "title": "The Job Demands\u2010Resources model: state of the art",
+    "year": 2007,
+    "cited_by": 12198,
+    "pdf_url": "https://repositorio.usil.edu.pe/bitstreams/530498b6-1981-4214-b414-01b61994038e/download",
+    "authors": [
+      "Arnold B. Bakker",
+      "Evangelia Demerouti"
+    ],
+    "journal": "Journal of Managerial Psychology",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1002/1098-240x(200008)23:4<334::aid-nur9>3.0.co;2-g",
+    "title": "Whatever happened to qualitative description?",
+    "year": 2000,
+    "cited_by": 12055,
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/1098-240X%28200008%2923%3A4%3C334%3A%3AAID-NUR9%3E3.0.CO%3B2-G",
+    "authors": [
+      "Margarete Sandelowski"
+    ],
+    "journal": "Research in Nursing & Health",
+    "category": "03_methodology"
+  },
+  {
+    "doi": "10.1037/0021-9010.86.3.499",
+    "title": "The job demands-resources model of burnout.",
+    "year": 2001,
+    "cited_by": 11922,
+    "pdf_url": "https://hdl.handle.net/2027.42/176893",
+    "authors": [
+      "Evangelia Demerouti",
+      "Arnold B. Bakker",
+      "Friedhelm Nachreiner",
+      "Wilmar B. Schaufeli"
+    ],
+    "journal": "Journal of Applied Psychology",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1007/s11135-017-0574-8",
+    "title": "Saturation in qualitative research: exploring its conceptualization and operationalization",
+    "year": 2017,
+    "cited_by": 11869,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11135-017-0574-8.pdf",
+    "authors": [
+      "Benjamin Saunders",
+      "Julius Sim",
+      "Tom Kingstone",
+      "Shula Baker",
+      "Jackie Waterfield",
+      "Bernadette Bartlam"
+    ],
+    "journal": "Quality & Quantity",
+    "category": "03_methodology"
+  },
+  {
+    "doi": "10.17863/cam.64134",
+    "title": "SciPy 1.0: fundamental algorithms for scientific computing in Python",
+    "year": 2019,
+    "cited_by": 11591,
+    "pdf_url": "https://research.monash.edu/en/publications/464a6409-5bd7-4b1b-ae73-686ced5a3b68",
+    "authors": [
+      "Pauli Virtanen",
+      "Ralf Gommers",
+      "Travis E. Oliphant",
+      "Matt Haberland",
+      "Tyler Reddy",
+      "David Cournapeau"
+    ],
+    "journal": "Monash University Research Portal (Monash University)",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1111/j.2044-8325.1990.tb00506.x",
+    "title": "The measurement and antecedents of affective, continuance and normative commitment to the organization",
+    "year": 1990,
+    "cited_by": 11562,
+    "pdf_url": "https://ir.uitm.edu.my/id/eprint/100993/1/100993.pdf",
+    "authors": [
+      "Natalie J. Allen",
+      "John P. Meyer"
+    ],
+    "journal": "Journal of Occupational Psychology",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1002/da.10113",
+    "title": "Development of a new resilience scale: The Connor-Davidson Resilience Scale (CD-RISC)",
+    "year": 2003,
+    "cited_by": 11546,
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/da.10113",
+    "authors": [
+      "Kathryn M. Connor",
+      "Jonathan Davidson"
+    ],
+    "journal": "Depression and Anxiety",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1136/bmj.a1655",
+    "title": "Developing and evaluating complex interventions: the new Medical Research Council guidance",
+    "year": 2008,
+    "cited_by": 11414,
+    "pdf_url": "https://www.bmj.com/content/bmj/337/bmj.a1655.full.pdf",
+    "authors": [
+      "Peter Craig",
+      "Paul Dieppe",
+      "Sally MacIntyre",
+      "Susan Michie",
+      "Irwin Nazareth",
+      "Mark Petticrew"
+    ],
+    "journal": "BMJ",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1155/2011/156869",
+    "title": "FieldTrip: Open Source Software for Advanced Analysis of MEG, EEG, and Invasive Electrophysiological Data",
+    "year": 2010,
+    "cited_by": 11394,
+    "pdf_url": "https://downloads.hindawi.com/journals/cin/2011/156869.pdf",
+    "authors": [
+      "Robert Oostenveld",
+      "Pascal Fries",
+      "Eric Maris",
+      "Jan\u2010Mathijs Schoffelen"
+    ],
+    "journal": "Computational Intelligence and Neuroscience",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1002/14651858.cd010628.pub2",
+    "title": "Pharmacological interventions for somatoform disorders in adults",
+    "year": 2014,
+    "cited_by": 11360,
+    "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11023023",
+    "authors": [
+      "Maria Kleinst\u00e4uber",
+      "Michael Witth\u00f6ft",
+      "Andr\u00e9s Steffanowski",
+      "Harm van Marwijk",
+      "Wolfgang Hiller",
+      "Michael J. Lambert"
+    ],
+    "journal": "Cochrane Database of Systematic Reviews",
+    "category": "03_methodology"
+  },
+  {
+    "doi": "10.1186/1471-2288-13-117",
+    "title": "Using the framework method for the analysis of qualitative data in multi-disciplinary health research",
+    "year": 2013,
+    "cited_by": 11345,
+    "pdf_url": "https://bmcmedresmethodol.biomedcentral.com/counter/pdf/10.1186/1471-2288-13-117",
+    "authors": [
+      "Nicola Gale",
+      "Gemma Heath",
+      "Elaine Cameron",
+      "Sabina Faiz Rashid",
+      "Sabi Redwood"
+    ],
+    "journal": "BMC Medical Research Methodology",
+    "category": "03_methodology"
+  },
+  {
+    "doi": "10.1037/h0040957",
+    "title": "Construct validity in psychological tests.",
+    "year": 1955,
+    "cited_by": 10950,
+    "pdf_url": "https://conservancy.umn.edu/bitstreams/1531d762-af5a-4515-95f3-90c01ac994be/download",
+    "authors": [
+      "Lee J. Cronbach",
+      "Paul E. Meehl"
+    ],
+    "journal": "Psychological Bulletin",
+    "category": "03_methodology"
+  },
+  {
+    "doi": "10.29333/ajqr/12085",
+    "title": "The Coding Manual for Qualitative Researchers",
+    "year": 2022,
+    "cited_by": 10930,
+    "pdf_url": "https://www.ajqr.org/download/the-coding-manual-for-qualitative-researchers-12085.pdf",
+    "authors": [
+      "Maria Lungu"
+    ],
+    "journal": "American Journal of Qualitative Research",
+    "category": "03_methodology"
+  },
+  {
+    "doi": "10.1016/j.jalz.2018.02.018",
+    "title": "NIA\u2010AA Research Framework: Toward a biological definition of Alzheimer's disease",
+    "year": 2018,
+    "cited_by": 10580,
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1016/j.jalz.2018.02.018",
+    "authors": [
+      "Clifford R. Jack",
+      "David A. Bennett",
+      "Kaj Blennow",
+      "Mar\u00eda C. Carrillo",
+      "Billy Dunn",
+      "Samantha Budd Haeberlein"
+    ],
+    "journal": "Alzheimer s & Dementia",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1016/s0140-6736(20)30367-6",
+    "title": "Dementia prevention, intervention, and care: 2020 report of the Lancet Commission",
+    "year": 2020,
+    "cited_by": 10421,
+    "pdf_url": "http://www.thelancet.com/article/S0140673620303676/pdf",
+    "authors": [
+      "Gill Livingston",
+      "Jonathan Huntley",
+      "Andrew Sommerlad",
+      "David Ames",
+      "Clive Ballard",
+      "Sube Banerjee"
+    ],
+    "journal": "The Lancet",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.3390/ijerph17051729",
+    "title": "Immediate Psychological Responses and Associated Factors during the Initial Stage of the 2019 Coronavirus Disease (COVID-19) Epidemic among the General Population in China",
+    "year": 2020,
+    "cited_by": 10276,
+    "pdf_url": "https://www.mdpi.com/1660-4601/17/5/1729/pdf?version=1583494840",
+    "authors": [
+      "Cuiyan Wang",
+      "Riyu Pan",
+      "Xiaoyang Wan",
+      "Yilin Tan",
+      "Linkang Xu",
+      "Cyrus S. H. Ho"
+    ],
+    "journal": "International Journal of Environmental Research and Public Health",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.3389/fpsyg.2013.00863",
+    "title": "Calculating and reporting effect sizes to facilitate cumulative science: a practical primer for t-tests and ANOVAs",
+    "year": 2013,
+    "cited_by": 10075,
+    "pdf_url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2013.00863/pdf",
+    "authors": [
+      "Dani\u00ebl Lakens"
+    ],
+    "journal": "Frontiers in Psychology",
+    "category": "06_writing"
+  },
+  {
+    "doi": "10.1016/j.inffus.2019.12.012",
+    "title": "Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI",
+    "year": 2019,
+    "cited_by": 9321,
+    "pdf_url": "https://arxiv.org/pdf/1910.10045",
+    "authors": [
+      "Alejandro Barredo Arrieta",
+      "Natalia D\u00edaz-Rodr\u00edguez",
+      "Javier Del Ser",
+      "Adrien Bennetot",
+      "Siham Tabik",
+      "Alberto Barbado"
+    ],
+    "journal": "Information Fusion",
+    "category": "04_ai_psychology"
+  },
+  {
+    "doi": "10.1007/s10488-010-0319-7",
+    "title": "Outcomes for Implementation Research: Conceptual Distinctions, Measurement Challenges, and Research Agenda",
+    "year": 2010,
+    "cited_by": 9014,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10488-010-0319-7.pdf",
+    "authors": [
+      "Enola K. Proctor",
+      "Hiie Silmere",
+      "Ramesh Raghavan",
+      "Peter S. Hovmand",
+      "Greg Aarons",
+      "Alicia C. Bunger"
+    ],
+    "journal": "Administration and Policy in Mental Health and Mental Health Services Research",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1613/jair.301",
+    "title": "Reinforcement Learning: A Survey",
+    "year": 1996,
+    "cited_by": 8882,
+    "pdf_url": "https://www.jair.org/index.php/jair/article/download/10166/24110",
+    "authors": [
+      "Leslie Pack Kaelbling",
+      "Michael L. Littman",
+      "Andrew Moore"
+    ],
+    "journal": "Journal of Artificial Intelligence Research",
+    "category": "04_ai_psychology"
+  },
+  {
+    "doi": "10.1126/science.aac4716",
+    "title": "Estimating the reproducibility of psychological science",
+    "year": 2015,
+    "cited_by": 8751,
+    "pdf_url": "https://research.rug.nl/en/publications/46975794-601d-425b-becb-3d7137cccfcb",
+    "authors": [
+      "Open Science Collaboration"
+    ],
+    "journal": "Science",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1017/s0140525x00076512",
+    "title": "Does the chimpanzee have a theory of mind?",
+    "year": 1978,
+    "cited_by": 8619,
+    "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/1E96B02CD9850016B7C93BC6D2FEF1D0/S0140525X00076512a.pdf/div-class-title-does-the-chimpanzee-have-a-theory-of-mind-div.pdf",
+    "authors": [
+      "David Premack",
+      "Guy Woodruff"
+    ],
+    "journal": "Behavioral and Brain Sciences",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1093/eurheartj/ehs092",
+    "title": "European Guidelines on cardiovascular disease prevention in clinical practice (version 2012): The Fifth Joint Task Force of the European Society of Cardiology and Other Societies on Cardiovascular Disease Prevention in Clinical Practice (constituted by representatives of nine societies and by invited experts) * Developed with the special contribution of the European Association for Cardiovascular Prevention &amp; Rehabilitation (EACPR)",
+    "year": 2012,
+    "cited_by": 8524,
+    "pdf_url": "https://academic.oup.com/eurheartj/article-pdf/33/13/1635/17893548/ehs092.pdf",
+    "authors": [
+      "Authors/Task Force Members:",
+      "Joep Perk",
+      "Guy De Backer",
+      "H. Gohlke",
+      "Ian Graham",
+      "\u017deljko Reiner"
+    ],
+    "journal": "European Heart Journal",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1111/nhs.12048",
+    "title": "Content analysis and thematic analysis: Implications for conducting a qualitative descriptive study",
+    "year": 2013,
+    "cited_by": 8472,
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/nhs.12048",
+    "authors": [
+      "Mojtaba Vaismoradi",
+      "Hannele Turunen",
+      "Terese Bondas"
+    ],
+    "journal": "Nursing and Health Sciences",
+    "category": "03_methodology"
+  },
+  {
+    "doi": "10.1038/nature13595",
+    "title": "Biological insights from 108 schizophrenia-associated genetic loci",
+    "year": 2014,
+    "cited_by": 8159,
+    "pdf_url": "https://www.nature.com/articles/nature13595.pdf",
+    "authors": [
+      "Stephan Ripke",
+      "B M Neale",
+      "Kai-How Farh",
+      "Phil Lee",
+      "Brendan Bulik\u2010Sullivan",
+      "H Huang"
+    ],
+    "journal": "Nature",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1007/s12160-013-9486-6",
+    "title": "The Behavior Change Technique Taxonomy (v1) of 93 Hierarchically Clustered Techniques: Building an International Consensus for the Reporting of Behavior Change Interventions",
+    "year": 2013,
+    "cited_by": 8111,
+    "pdf_url": "https://academic.oup.com/abm/article-pdf/46/1/81/21982931/12160_2013_article_9486.pdf",
+    "authors": [
+      "Susan Michie",
+      "Michelle Richardson",
+      "Marie Johnston",
+      "Charles Abraham",
+      "Jill Francis",
+      "Wendy Hardeman"
+    ],
+    "journal": "Annals of Behavioral Medicine",
+    "category": "06_writing"
+  },
+  {
+    "doi": "10.1038/nrn3475",
+    "title": "Power failure: why small sample size undermines the reliability of neuroscience",
+    "year": 2013,
+    "cited_by": 7937,
+    "pdf_url": "https://www.nature.com/articles/nrn3475.pdf",
+    "authors": [
+      "Katherine S. Button",
+      "John P. A. Ioannidis",
+      "Claire Mokrysz",
+      "Brian A. Nosek",
+      "Jonathan Flint",
+      "Emma Robinson"
+    ],
+    "journal": "Nature reviews. Neuroscience",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1111/j.1540-5915.2008.00192.x",
+    "title": "Technology Acceptance Model 3 and a Research Agenda on Interventions",
+    "year": 2008,
+    "cited_by": 7909,
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1540-5915.2008.00192.x",
+    "authors": [
+      "Viswanath Venkatesh",
+      "Hillol Bala"
+    ],
+    "journal": "Decision Sciences",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1207/s15327906mbr3901_4",
+    "title": "Confidence Limits for the Indirect Effect: Distribution of the Product and Resampling Methods",
+    "year": 2004,
+    "cited_by": 7677,
+    "pdf_url": "https://www.tandfonline.com/doi/abs/10.1207/s15327906mbr3901_4",
+    "authors": [
+      "David P. MacKinnon",
+      "Chondra M. Lockwood",
+      "Jason Williams"
+    ],
+    "journal": "Multivariate Behavioral Research",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.2105/ajph.89.9.1322",
+    "title": "Evaluating the public health impact of health promotion interventions: the RE-AIM framework.",
+    "year": 1999,
+    "cited_by": 7391,
+    "pdf_url": "http://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.89.9.1322",
+    "authors": [
+      "Russell E. Glasgow",
+      "Thomas Vogt",
+      "Shawn M. Boles"
+    ],
+    "journal": "American Journal of Public Health",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1016/s1364-6613(00)01538-2",
+    "title": "The episodic buffer: a new component of working memory?",
+    "year": 2000,
+    "cited_by": 7220,
+    "pdf_url": "http://www.cell.com/article/S1364661300015382/pdf",
+    "authors": [
+      "Alan Baddeley"
+    ],
+    "journal": "Trends in Cognitive Sciences",
+    "category": "02_classics"
+  },
+  {
+    "doi": "10.1176/appi.ajp.2010.09091379",
+    "title": "Research Domain Criteria (RDoC): Toward a New Classification Framework for Research on Mental Disorders",
+    "year": 2010,
+    "cited_by": 7110,
+    "pdf_url": "https://works.bepress.com/charles_sanislow/2/download/",
+    "authors": [
+      "Thomas R. Insel",
+      "Bruce N. Cuthbert",
+      "Marjorie A. Garvey",
+      "Robert Heinssen",
+      "Daniel S. Pine",
+      "Kevin J. Quinn"
+    ],
+    "journal": "American Journal of Psychiatry",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1017/s0140525x01003922",
+    "title": "The magical number 4 in short-term memory: A reconsideration of mental storage capacity",
+    "year": 2001,
+    "cited_by": 6837,
+    "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/44023F1147D4A1D44BDC0AD226838496/S0140525X01003922a.pdf/div-class-title-the-magical-number-4-in-short-term-memory-a-reconsideration-of-mental-storage-capacity-div.pdf",
+    "authors": [
+      "Nelson Cowan"
+    ],
+    "journal": "Behavioral and Brain Sciences",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1037/ocp0000056",
+    "title": "Job demands\u2013resources theory: Taking stock and looking forward.",
+    "year": 2016,
+    "cited_by": 6317,
+    "pdf_url": "https://pure.eur.nl/ws/files/176689432/Job_Demands-Resources_theory.pdf",
+    "authors": [
+      "Arnold B. Bakker",
+      "Evangelia Demerouti"
+    ],
+    "journal": "Journal of Occupational Health Psychology",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1016/s2215-0366(20)30168-1",
+    "title": "Multidisciplinary research priorities for the COVID-19 pandemic: a call for action for mental health science",
+    "year": 2020,
+    "cited_by": 6067,
+    "pdf_url": "http://www.thelancet.com/article/S2215036620301681/pdf",
+    "authors": [
+      "Emily A. Holmes",
+      "Rory C. O\u2019Connor",
+      "V. Hugh Perry",
+      "Irene Tracey",
+      "Simon Wessely",
+      "Louise Arseneault"
+    ],
+    "journal": "The Lancet Psychiatry",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1017/s0140525x12000477",
+    "title": "Whatever next? Predictive brains, situated agents, and the future of cognitive science",
+    "year": 2013,
+    "cited_by": 5981,
+    "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/33542C736E17E3D1D44E8D03BE5F4CD9/S0140525X12000477a.pdf/div-class-title-whatever-next-predictive-brains-situated-agents-and-the-future-of-cognitive-science-div.pdf",
+    "authors": [
+      "Andy Clark"
+    ],
+    "journal": "Behavioral and Brain Sciences",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1111/0022-1082.00077",
+    "title": "Investor Psychology and Security Market Under\u2010 and Overreactions",
+    "year": 1998,
+    "cited_by": 5768,
+    "pdf_url": "http://deepblue.lib.umich.edu/bitstream/2027.42/73431/1/0022-1082.00077.pdf",
+    "authors": [
+      "Kent Daniel",
+      "David Hirshleifer",
+      "Avanidhar Subrahmanyam"
+    ],
+    "journal": "The Journal of Finance",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1056/nejmoa1706442",
+    "title": "Thrombectomy 6 to 24 Hours after Stroke with a Mismatch between Deficit and Infarct",
+    "year": 2017,
+    "cited_by": 5600,
+    "pdf_url": "https://www.nejm.org/doi/pdf/10.1056/NEJMoa1706442?articleTools=true",
+    "authors": [
+      "Raul G. Nogueira",
+      "Ashutosh P. Jadhav",
+      "Diogo C Haussen",
+      "Alain Bonaf\u00e9",
+      "Ronald F. Budzik",
+      "Parita Bhuva"
+    ],
+    "journal": "New England Journal of Medicine",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1177/109019818801500203",
+    "title": "Social Learning Theory and the Health Belief Model",
+    "year": 1988,
+    "cited_by": 5539,
+    "pdf_url": "http://deepblue.lib.umich.edu/bitstream/2027.42/67783/2/10.1177_109019818801500203.pdf",
+    "authors": [
+      "Irwin M. Rosenstock",
+      "Victor J. Strecher",
+      "Marshall H. Becker"
+    ],
+    "journal": "Health Education Quarterly",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1177/146879410100100307",
+    "title": "Thematic networks: an analytic tool for qualitative research",
+    "year": 2001,
+    "cited_by": 5520,
+    "pdf_url": "https://doi.org/10.1177/146879410100100307",
+    "authors": [
+      "Jennifer Attride\u2010Stirling"
+    ],
+    "journal": "Qualitative Research",
+    "category": "03_methodology"
+  },
+  {
+    "doi": "10.1016/j.clinph.2009.08.016",
+    "title": "Safety, ethical considerations, and application guidelines for the use of transcranial magnetic stimulation in clinical practice and research",
+    "year": 2009,
+    "cited_by": 5490,
+    "pdf_url": "http://hdl.handle.net/11572/145680",
+    "authors": [
+      "S\u00edmone Rossi",
+      "Mark Hallett",
+      "Paolo Maria Rossini",
+      "\u00c1lvaro Pascual\u2010Leone"
+    ],
+    "journal": "Clinical Neurophysiology",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1111/j.1745-6924.2008.00088.x",
+    "title": "Rethinking Rumination",
+    "year": 2008,
+    "cited_by": 5086,
+    "pdf_url": "https://escholarship.org/uc/item/8544f7w2",
+    "authors": [
+      "Susan Nolen\u2013Hoeksema",
+      "Blair E. Wisco",
+      "Sonja Lyubomirsky"
+    ],
+    "journal": "Perspectives on Psychological Science",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.18637/jss.v048.i04",
+    "title": "<b>qgraph</b>: Network Visualizations of Relationships in Psychometric Data",
+    "year": 2012,
+    "cited_by": 4846,
+    "pdf_url": "https://doi.org/10.18637/jss.v048.i04",
+    "authors": [
+      "Sacha Epskamp",
+      "Ang\u00e9lique O. J. Cramer",
+      "Lourens Waldorp",
+      "Verena D. Schmittmann",
+      "Denny Borsboom"
+    ],
+    "journal": "Journal of Statistical Software",
+    "category": "03_methodology"
+  },
+  {
+    "doi": "10.1145/3236009",
+    "title": "A survey of methods for explaining black box models",
+    "year": 2019,
+    "cited_by": 4829,
+    "pdf_url": "https://openportal.isti.cnr.it/doc?id=people______::59c23a947c3ae79b5c331dedba7a295e",
+    "authors": [
+      "Riccardo Guidotti",
+      "Anna Monreale",
+      "Salvatore Ruggieri",
+      "Franco Turini",
+      "Fosca Giannotti",
+      "Dino Pedreschi"
+    ],
+    "journal": "ISTI Open Portal",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1002/mpr.168",
+    "title": "The World Mental Health (WMH) Survey Initiative version of the World Health Organization (WHO) Composite International Diagnostic Interview (CIDI)",
+    "year": 2004,
+    "cited_by": 4821,
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/mpr.168",
+    "authors": [
+      "Ronald C. Kessler",
+      "T. Bedirhan \u00dcst\u00fcn"
+    ],
+    "journal": "International Journal of Methods in Psychiatric Research",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1007/s12160-010-9210-8",
+    "title": "Loneliness Matters: A Theoretical and Empirical Review of Consequences and Mechanisms",
+    "year": 2010,
+    "cited_by": 4707,
+    "pdf_url": "https://academic.oup.com/abm/article-pdf/40/2/218/22068635/12160_2010_article_9210.pdf",
+    "authors": [
+      "Louise C. Hawkley",
+      "John T. Cacioppo"
+    ],
+    "journal": "Annals of Behavioral Medicine",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1289/ehp.99107s6907",
+    "title": "Pharmaceuticals and personal care products in the environment: agents of subtle change?",
+    "year": 1999,
+    "cited_by": 4460,
+    "pdf_url": "https://ehp.niehs.nih.gov/doi/epdf/10.1289/ehp.99107s6907",
+    "authors": [
+      "Christian G. Daughton",
+      "Thomas A. Ternes"
+    ],
+    "journal": "Environmental Health Perspectives",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1016/j.ijinfomgt.2019.08.002",
+    "title": "Artificial Intelligence (AI): Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",
+    "year": 2019,
+    "cited_by": 4163,
+    "pdf_url": "https://www.sciencedirect.com/science/article/pii/S026840121930917X",
+    "authors": [
+      "Yogesh K. Dwivedi",
+      "Laurie Hughes",
+      "Elvira Ismagilova",
+      "Gert Aarts",
+      "Crispin Coombs",
+      "Tom Crick"
+    ],
+    "journal": "International Journal of Information Management",
+    "category": "04_ai_psychology"
+  },
+  {
+    "doi": "10.1186/s12913-017-2031-8",
+    "title": "Acceptability of healthcare interventions: an overview of reviews and development of a theoretical framework",
+    "year": 2017,
+    "cited_by": 4131,
+    "pdf_url": "https://bmchealthservres.biomedcentral.com/track/pdf/10.1186/s12913-017-2031-8",
+    "authors": [
+      "Mandeep Sekhon",
+      "Martin Cartwright",
+      "Jill Francis"
+    ],
+    "journal": "BMC Health Services Research",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.9707/2307-0919.1116",
+    "title": "An Overview of the Schwartz Theory of Basic Values",
+    "year": 2012,
+    "cited_by": 4017,
+    "pdf_url": "https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=1116&context=orpc",
+    "authors": [
+      "Shalom H. Schwartz"
+    ],
+    "journal": "Online Readings in Psychology and Culture",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1111/j.2044-8295.1986.tb02199.x",
+    "title": "Understanding face recognition",
+    "year": 1986,
+    "cited_by": 3963,
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.2044-8295.1986.tb02199.x",
+    "authors": [
+      "Vicki Bruce",
+      "Andy Young"
+    ],
+    "journal": "British Journal of Psychology",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1146/annurev-psych-120709-145346",
+    "title": "Heuristic Decision Making",
+    "year": 2010,
+    "cited_by": 3962,
+    "pdf_url": "https://pure.mpg.de/pubman/item/item_2099042_6/component/file_2099041/GG_Heuristic_2011.pdf",
+    "authors": [
+      "Gerd Gigerenzer",
+      "Wolfgang Gaissmaier"
+    ],
+    "journal": "Annual Review of Psychology",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1111/j.1542-4774.2011.01015.x",
+    "title": "INDIVIDUAL RISK ATTITUDES: MEASUREMENT, DETERMINANTS, AND BEHAVIORAL CONSEQUENCES",
+    "year": 2011,
+    "cited_by": 3956,
+    "pdf_url": "https://academic.oup.com/jeea/article-pdf/9/3/522/10314305/jeea0522.pdf",
+    "authors": [
+      "Thomas Dohmen",
+      "Armin Falk",
+      "David Huffman",
+      "Uwe Sunde",
+      "J\u00fcrgen Schupp",
+      "Gert G. Wagner"
+    ],
+    "journal": "Journal of the European Economic Association",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1002/wps.20311",
+    "title": "Understanding the burnout experience: recent research and its implications for psychiatry",
+    "year": 2016,
+    "cited_by": 3925,
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/wps.20311",
+    "authors": [
+      "Christina Maslach",
+      "Michael P. Leiter"
+    ],
+    "journal": "World Psychiatry",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1207/s15326985ep3702_4",
+    "title": "Academic Emotions in Students' Self-Regulated Learning and Achievement: A Program of Qualitative and Quantitative Research",
+    "year": 2002,
+    "cited_by": 3884,
+    "pdf_url": "https://kops.uni-konstanz.de/server/api/core/bitstreams/b280b399-2642-4080-8693-6d8234b8f6c0/content",
+    "authors": [
+      "Reinhard Pekrun",
+      "Thomas Goetz",
+      "Wolfram Titz",
+      "Raymond P. Perry"
+    ],
+    "journal": "Educational Psychologist",
+    "category": "03_methodology"
+  },
+  {
+    "doi": "10.1037/a0038889",
+    "title": "A critique of the cross-lagged panel model.",
+    "year": 2015,
+    "cited_by": 3764,
+    "pdf_url": "https://pure.uva.nl/ws/files/2688454/168970_Hamaker_Kuiper_Grasman_2015_A_Critique_of_Cross_Lagged_Panel_Model.pdf",
+    "authors": [
+      "Ellen L. Hamaker",
+      "Rebecca M. Kuiper",
+      "Raoul P. P. P. Grasman"
+    ],
+    "journal": "Psychological Methods",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1080/00461520.1991.9653133",
+    "title": "Self-Efficacy and Academic Motivation",
+    "year": 1991,
+    "cited_by": 3763,
+    "pdf_url": "https://www.tandfonline.com/doi/abs/10.1080/00461520.1991.9653133",
+    "authors": [
+      "Dale H. Schunk"
+    ],
+    "journal": "Educational Psychologist",
+    "category": "02_classics"
+  },
+  {
+    "doi": "10.7861/futurehosp.6-2-94",
+    "title": "The potential for artificial intelligence in healthcare",
+    "year": 2019,
+    "cited_by": 3707,
+    "pdf_url": "https://www.rcpjournals.org/content/futurehosp/6/2/94.full.pdf",
+    "authors": [
+      "Thomas H. Davenport",
+      "Ravi Kalakota"
+    ],
+    "journal": "Future Healthcare Journal",
+    "category": "04_ai_psychology"
+  },
+  {
+    "doi": "10.1136/qshc.2004.011155",
+    "title": "Making psychological theory useful for implementing evidence based practice: a consensus approach",
+    "year": 2005,
+    "cited_by": 3633,
+    "pdf_url": "https://qualitysafety.bmj.com/content/qhc/14/1/26.full.pdf",
+    "authors": [
+      "Susan Michie"
+    ],
+    "journal": "BMJ Quality & Safety",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1016/s0140-6736(18)31612-x",
+    "title": "The Lancet Commission on global mental health and sustainable development",
+    "year": 2018,
+    "cited_by": 3546,
+    "pdf_url": "https://kclpure.kcl.ac.uk/ws/files/102654274/The_Lancet_Commission_on_PATEL_Firstonline16October2018_GREEN_AAM_CC_BY_NC_ND_.pdf",
+    "authors": [
+      "Vikram Patel",
+      "Shekhar Saxena",
+      "Crick Lund",
+      "Graham Thornicroft",
+      "Florence Baingana",
+      "Paul Bolton"
+    ],
+    "journal": "The Lancet",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.2307/3094912",
+    "title": "The Ripple Effect: Emotional Contagion and its Influence on Group Behavior",
+    "year": 2002,
+    "cited_by": 3318,
+    "pdf_url": "https://repository.upenn.edu/bitstreams/031164e3-33ca-4d04-8959-a62cfc13ab56/download",
+    "authors": [
+      "Sigal G. Barsade"
+    ],
+    "journal": "Administrative Science Quarterly",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1073/pnas.1211286109",
+    "title": "Science faculty\u2019s subtle gender biases favor male students",
+    "year": 2012,
+    "cited_by": 3146,
+    "pdf_url": "https://www.pnas.org/content/pnas/109/41/16474.full.pdf",
+    "authors": [
+      "Corinne A. Moss\u2010Racusin",
+      "John F. Dovidio",
+      "Victoria L. Brescoll",
+      "Mark Graham",
+      "Jo Handelsman"
+    ],
+    "journal": "Proceedings of the National Academy of Sciences",
+    "category": "05_subdomains"
+  },
+  {
+    "doi": "10.1016/s0140-6736(24)00367-2",
+    "title": "Global burden of 288 causes of death and life expectancy decomposition in 204 countries and territories and 811 subnational locations, 1990\u20132021: a systematic analysis for the Global Burden of Disease Study 2021",
+    "year": 2024,
+    "cited_by": 2645,
+    "pdf_url": "http://www.thelancet.com/article/S0140673624003672/pdf",
+    "authors": [
+      "Masayuki Teramoto",
+      "Kanyin Liane Ong",
+      "Amirali Aali",
+      "Hazim Ababneh",
+      "Yohannes Abate",
+      "Cristiana Abbafati"
+    ],
+    "journal": "The Lancet",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.1257/jep.14.4.49",
+    "title": "Does the \u201cNew Economy\u201d Measure up to the Great Inventions of the Past?",
+    "year": 2000,
+    "cited_by": 1226,
+    "pdf_url": "https://www.aeaweb.org/articles/pdf/doi/10.1257/jep.14.4.49",
+    "authors": [
+      "Robert J. Gordon"
+    ],
+    "journal": "The Journal of Economic Perspectives",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.1016/s0140-6736(24)00476-8",
+    "title": "Global age-sex-specific mortality, life expectancy, and population estimates in 204 countries and territories and 811 subnational locations, 1950\u20132021, and the impact of the COVID-19 pandemic: a comprehensive demographic analysis for the Global Burden of Disease Study 2021",
+    "year": 2024,
+    "cited_by": 995,
+    "pdf_url": "https://doi.org/10.1016/s0140-6736(24)00476-8",
+    "authors": [
+      "Masayuki Teramoto",
+      "Hmwe Hmwe Kyu",
+      "Amirali Aali",
+      "Cristiana Abbafati",
+      "Jaffar Abbas",
+      "Rouzbeh Abbasgholizadeh"
+    ],
+    "journal": "The Lancet",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.1007/s10639-021-10523-1",
+    "title": "Impact of online classes on the satisfaction and performance of students during the pandemic period of COVID 19",
+    "year": 2021,
+    "cited_by": 612,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10639-021-10523-1.pdf",
+    "authors": [
+      "Ram Gopal",
+      "Varsha Singh",
+      "Arun Aggarwal"
+    ],
+    "journal": "Education and Information Technologies",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.37074/jalt.2023.6.1.29",
+    "title": "The role of ChatGPT in higher education: Benefits, challenges, and future research directions",
+    "year": 2023,
+    "cited_by": 536,
+    "pdf_url": "https://journals.sfu.ca/jalt/index.php/jalt/article/download/787/583",
+    "authors": [
+      "Tareq Rasul",
+      "Sumesh Nair",
+      "Diane Robyn Kalendra",
+      "Mulyadi Robin",
+      "Fernando de Oliveira Santini",
+      "Wagner J\u00fanior Ladeira"
+    ],
+    "journal": "Journal of Applied Learning & Teaching",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.1257/aer.20140481",
+    "title": "Poverty and Economic Decision-Making: Evidence from Changes in Financial Resources at Payday",
+    "year": 2016,
+    "cited_by": 510,
+    "pdf_url": "https://www.aeaweb.org/articles/pdf/doi/10.1257/aer.20140481",
+    "authors": [
+      "Leandro Carvalho",
+      "Stephan Meier",
+      "Stephanie W. Wang"
+    ],
+    "journal": "American Economic Review",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.3389/fpubh.2020.577018",
+    "title": "Stigma and Discrimination During COVID-19 Pandemic",
+    "year": 2021,
+    "cited_by": 397,
+    "pdf_url": "https://www.frontiersin.org/articles/10.3389/fpubh.2020.577018/pdf",
+    "authors": [
+      "Divya Bhanot",
+      "Tushar Singh",
+      "Sunil K. Verma",
+      "Shivantika Sharad"
+    ],
+    "journal": "Frontiers in Public Health",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.1002/widm.1520",
+    "title": "Deepfake detection using deep learning methods: A systematic and comprehensive review",
+    "year": 2023,
+    "cited_by": 303,
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/widm.1520",
+    "authors": [
+      "Arash Heidari",
+      "Nima Jafari Navimipour",
+      "Hasan Da\u011f",
+      "Mehmet \u00dcnal"
+    ],
+    "journal": "Wiley Interdisciplinary Reviews Data Mining and Knowledge Discovery",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.3390/s21051709",
+    "title": "6G Enabled Smart Infrastructure for Sustainable Society: Opportunities, Challenges, and Research Roadmap",
+    "year": 2021,
+    "cited_by": 275,
+    "pdf_url": "https://www.mdpi.com/1424-8220/21/5/1709/pdf?version=1614837829",
+    "authors": [
+      "Agbotiname Lucky Imoize",
+      "Oluwadara Adedeji",
+      "Nistha Tandiya",
+      "Sachin Shetty"
+    ],
+    "journal": "Sensors",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.1007/s10567-021-00358-0",
+    "title": "Telehealth and Autism Prior to and in the Age of COVID-19: A Systematic and Critical Review of the Last Decade",
+    "year": 2021,
+    "cited_by": 198,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10567-021-00358-0.pdf",
+    "authors": [
+      "Kimberly Ellison",
+      "Jerrica Guidry",
+      "Paige Picou",
+      "Paige Adenuga",
+      "Thompson E. Davis"
+    ],
+    "journal": "Clinical Child and Family Psychology Review",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.9734/jerr/2023/v25i3893",
+    "title": "Rise of Artificial Intelligence in Business and Industry",
+    "year": 2023,
+    "cited_by": 125,
+    "pdf_url": "https://journaljerr.com/index.php/JERR/article/download/893/1776",
+    "authors": [
+      "Jasmin Praful Bharadiya",
+      "Reji Kurien Thomas",
+      "Farhan Ahmed"
+    ],
+    "journal": "Journal of Engineering Research and Reports",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.1186/s40359-020-00428-y",
+    "title": "Mindfulness in primary school children as a route to enhanced life satisfaction, positive outlook and effective emotion regulation",
+    "year": 2020,
+    "cited_by": 61,
+    "pdf_url": "https://bmcpsychology.biomedcentral.com/track/pdf/10.1186/s40359-020-00428-y",
+    "authors": [
+      "R. Amundsen",
+      "Leigh M. Riby",
+      "Colin Hamilton",
+      "Meredith O. Hope",
+      "Deborah McGann"
+    ],
+    "journal": "BMC Psychology",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.1007/s11846-025-00839-4",
+    "title": "Artificial intelligence technologies and entrepreneurship: a hybrid literature review",
+    "year": 2025,
+    "cited_by": 53,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11846-025-00839-4.pdf",
+    "authors": [
+      "Sebasti\u00e1n Uriarte",
+      "Hugo Baier-Fuentes",
+      "Jorge Espinoza Benavides",
+      "William Inzunza-Mendoza"
+    ],
+    "journal": "Review of Managerial Science",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.1371/journal.pone.0266008",
+    "title": "\u2018Unheard,\u2019 \u2018uncared for\u2019 and \u2018unsupported\u2019: The mental health impact of Covid -19 on healthcare workers in KwaZulu-Natal Province, South Africa",
+    "year": 2022,
+    "cited_by": 50,
+    "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0266008&type=printable",
+    "authors": [
+      "Bilkis Dawood",
+      "Andrew Tomita",
+      "Suvira Ramlall"
+    ],
+    "journal": "PLoS ONE",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.15561/26649837.2023.0304",
+    "title": "Analysis of differences in physical fitness levels of extracurricular futsal students: Survey studies on urban and rural environments",
+    "year": 2023,
+    "cited_by": 48,
+    "pdf_url": "https://sportpedagogy.org.ua/index.php/ppcs/article/download/2249/991",
+    "authors": [
+      "Rubiyatno Rubiyatno",
+      "Rahmat Putra Perdana",
+      "Ilham Surya Fallo",
+      "Zainal Arifin",
+      "Ardi Nusri",
+      "Didi Suryadi"
+    ],
+    "journal": "Pedagogy of Physical Culture and Sports",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.1186/s12877-021-02352-1",
+    "title": "A national survey on COVID-19\u00a0second-wave lockdowns on older adults\u2019 mental wellbeing, health-seeking behaviours and social outcomes across Australia",
+    "year": 2021,
+    "cited_by": 44,
+    "pdf_url": "https://bmcgeriatr.biomedcentral.com/counter/pdf/10.1186/s12877-021-02352-1",
+    "authors": [
+      "Joyce Siette",
+      "Karla Seaman",
+      "Laura Dodds",
+      "Kristiana Ludlow",
+      "Carly Johnco",
+      "Viviana M. Wuthrich"
+    ],
+    "journal": "BMC Geriatrics",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.1007/s10571-023-01330-y",
+    "title": "Advanced Overview of Biomarkers and Techniques for Early Diagnosis of Alzheimer\u2019s Disease",
+    "year": 2023,
+    "cited_by": 43,
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11410160/pdf/10571_2023_Article_1330.pdf",
+    "authors": [
+      "Shital Rani",
+      "Sudhrita Basu Dhar",
+      "Akhil Khajuria",
+      "Dikshi Gupta",
+      "Pradeep Jaiswal",
+      "Neha Singla"
+    ],
+    "journal": "Cellular and Molecular Neurobiology",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.11607/ofph.3010",
+    "title": "Psychologic Impact of Chronic Orofacial Pain: A Critical Review",
+    "year": 2022,
+    "cited_by": 34,
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10586586/pdf/ofph-36-103.pdf",
+    "authors": [
+      "Aalia Karamat",
+      "Jared Smith",
+      "Lydia Melek",
+      "Tara Renton"
+    ],
+    "journal": "Journal of Oral & Facial Pain and Headache",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.4018/jgim.332861",
+    "title": "Exploring Digital Agility and Digital Transformation Leadership",
+    "year": 2023,
+    "cited_by": 30,
+    "pdf_url": "https://www.igi-global.com/ViewTitle.aspx?TitleId=332861&isxn=9798369311769",
+    "authors": [
+      "Anugamini Priya Srivastava",
+      "Mohit Yadav",
+      "Rohit Yadav",
+      "Bindu Singh",
+      "Narayanage Jayantha Dewasiri"
+    ],
+    "journal": "Journal of Global Information Management",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.1145/3653711",
+    "title": "FairSNA: Algorithmic Fairness in Social Network Analysis",
+    "year": 2024,
+    "cited_by": 28,
+    "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3653711",
+    "authors": [
+      "Akrati Saxena",
+      "George Fletcher",
+      "Mykola Pechenizkiy"
+    ],
+    "journal": "ACM Computing Surveys",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.1371/journal.pone.0196391",
+    "title": "The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS): A dynamic, multimodal set of facial and vocal expressions in North American English",
+    "year": 2018,
+    "cited_by": 1838,
+    "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0196391&type=printable",
+    "authors": [
+      "Steven R. Livingstone",
+      "Frank Russo"
+    ],
+    "journal": "PLoS ONE",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.1371/journal.pone.0212356",
+    "title": "Applications of artificial neural networks in health care organizational decision-making: A scoping review",
+    "year": 2019,
+    "cited_by": 534,
+    "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0212356&type=printable",
+    "authors": [
+      "Nida Shahid",
+      "Tim Rappon",
+      "Whitney Berta"
+    ],
+    "journal": "PLoS ONE",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.1016/j.neuroscience.2013.11.026",
+    "title": "Disconnected aging: Cerebral white matter integrity and age-related differences in cognition",
+    "year": 2013,
+    "cited_by": 509,
+    "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4032380",
+    "authors": [
+      "Ilana J. Bennett",
+      "David J. Madden"
+    ],
+    "journal": "Neuroscience",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.1016/s0140-6736(21)01207-1",
+    "title": "Global, regional, and national progress towards Sustainable Development Goal 3.2 for neonatal and child health: all-cause and cause-specific mortality findings from the Global Burden of Disease Study 2019",
+    "year": 2021,
+    "cited_by": 494,
+    "pdf_url": "http://www.thelancet.com/article/S0140673621012071/pdf",
+    "authors": [
+      "Katherine Paulson",
+      "Aruna M. Kamath",
+      "Shazia Alam",
+      "Kelly Bienhoff",
+      "Gdiom Gebreheat Abady",
+      "Jaffar Abbas"
+    ],
+    "journal": "The Lancet",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.36076/ppj.2008/11/s5",
+    "title": "Opioids in the Management of ChronicNon-Cancer Pain: An Update of AmericanSociety of the Interventional Pain Physicians\u2019(ASIPP) Guidelines",
+    "year": 2008,
+    "cited_by": 436,
+    "pdf_url": "https://doi.org/10.36076/ppj.2008/11/s5",
+    "authors": [
+      "Laxmaiah Manchikanti"
+    ],
+    "journal": "Pain Physician",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.1002/sd.3221",
+    "title": "<scp>AI</scp>\u2010driven adaptive learning for sustainable educational transformation",
+    "year": 2024,
+    "cited_by": 430,
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/sd.3221",
+    "authors": [
+      "Wadim Strie\u0142kowski",
+      "\u0412\u0435\u0440\u043e\u043d\u0438\u043a\u0430 \u0413\u0440\u0435\u0431\u0435\u043d\u043d\u0438\u043a\u043e\u0432\u0430",
+      "Alexander Lisovskiy",
+      "Guzalbegim Rakhimova",
+      "Tatiana Vasileva"
+    ],
+    "journal": "Sustainable Development",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.1371/journal.pmed.1002615",
+    "title": "Neurodevelopmental disorders in children aged 2\u20139 years: Population-based burden estimates across five regions in India",
+    "year": 2018,
+    "cited_by": 339,
+    "pdf_url": "https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.1002615&type=printable",
+    "authors": [
+      "Narendra K. Arora",
+      "M. K. C. Nair",
+      "Sheffali Gulati",
+      "Vaishali Deshmukh",
+      "Archisman Mohapatra",
+      "Devendra Mishra"
+    ],
+    "journal": "PLoS Medicine",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.1111/j.1365-2133.2008.08881.x",
+    "title": "Guideline for the diagnosis and management of vitiligo",
+    "year": 2008,
+    "cited_by": 335,
+    "pdf_url": "https://academic.oup.com/bjd/article-pdf/159/5/1051/47493221/bjd1051.pdf",
+    "authors": [
+      "David J. Gawkrodger",
+      "Anthony D. Ormerod",
+      "Lindsay Shaw",
+      "I. Mauri-Sole",
+      "Maxine E Whitton",
+      "MJ Watts"
+    ],
+    "journal": "British Journal of Dermatology",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.1146/annurev-psych-122216-011613",
+    "title": "Depression's Unholy Trinity: Dysregulated Stress, Immunity, and the Microbiome",
+    "year": 2019,
+    "cited_by": 319,
+    "pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-psych-122216-011613",
+    "authors": [
+      "Joana S. Cruz-Pereira",
+      "Kieran Rea",
+      "Yvonne M. Nolan",
+      "Olivia F. O\u2019Leary",
+      "Timothy G. Dinan",
+      "John F. Cryan"
+    ],
+    "journal": "Annual Review of Psychology",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.1016/s0140-6736(24)01296-0",
+    "title": "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission",
+    "year": 2024,
+    "cited_by": 3240,
+    "pdf_url": "https://discovery.ucl.ac.uk/id/eprint/10196488/3/Livingston_Table%20file%20after%20revision%202.pdf",
+    "authors": [
+      "Gill Livingston",
+      "Jonathan Huntley",
+      "Kathy Liu",
+      "Sergi G. Costafreda",
+      "Geir Selb\u00e6k",
+      "Suvarna Alladi"
+    ],
+    "journal": "The Lancet",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.1257/jep.14.3.115",
+    "title": "Economic Analysis of Social Interactions",
+    "year": 2000,
+    "cited_by": 2093,
+    "pdf_url": "https://www.aeaweb.org/articles/pdf/doi/10.1257/jep.14.3.115",
+    "authors": [
+      "Charles F. Manski"
+    ],
+    "journal": "The Journal of Economic Perspectives",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.1257/aer.90.4.715",
+    "title": "Orchestrating Impartiality: The Impact of \u201cBlind\u201d Auditions on Female Musicians",
+    "year": 2000,
+    "cited_by": 1769,
+    "pdf_url": "https://www.aeaweb.org/articles/pdf/doi/10.1257/aer.90.4.715",
+    "authors": [
+      "Claudia Goldin",
+      "Cecilia Elena Rouse"
+    ],
+    "journal": "American Economic Review",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.15585/mmwr.su7102a1",
+    "title": "Mental Health Surveillance Among Children \u2014 United States, 2013\u20132019",
+    "year": 2022,
+    "cited_by": 1716,
+    "pdf_url": "https://www.cdc.gov/mmwr/volumes/71/su/pdfs/su7102a1-H.pdf",
+    "authors": [
+      "Rebecca H. Bitsko",
+      "Angelika H. Claussen",
+      "Jesse C. Lichstein",
+      "Lindsey I Black",
+      "Sherry Everett Jones",
+      "Melissa L. Danielson"
+    ],
+    "journal": "MMWR Supplements",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.1002/wps.21160",
+    "title": "The social determinants of mental health and disorder: evidence, prevention and recommendations",
+    "year": 2024,
+    "cited_by": 1128,
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/wps.21160",
+    "authors": [
+      "James B. Kirkbride",
+      "Deidre M. Anglin",
+      "Ian Colman",
+      "Jennifer Dykxhoorn",
+      "Peter B. Jones",
+      "Praveetha Patalay"
+    ],
+    "journal": "World Psychiatry",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.1016/s2215-0366(21)00025-0",
+    "title": "COVID-19 mental health impact and responses in low-income and middle-income countries: reimagining global mental health",
+    "year": 2021,
+    "cited_by": 849,
+    "pdf_url": "http://www.thelancet.com/article/S2215036621000250/pdf",
+    "authors": [
+      "Lola Kola",
+      "Brandon A. Kohrt",
+      "Charlotte Hanlon",
+      "John A. Naslund",
+      "Siham Sikander",
+      "Madhumitha Balaji"
+    ],
+    "journal": "The Lancet Psychiatry",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.1161/circresaha.121.319811",
+    "title": "Social Determinants of Cardiovascular Disease",
+    "year": 2022,
+    "cited_by": 807,
+    "pdf_url": "https://www.ahajournals.org/doi/pdf/10.1161/CIRCRESAHA.121.319811",
+    "authors": [
+      "Tiffany M. Powell-Wiley",
+      "Yvonne Baumer",
+      "Foster Osei Baah",
+      "Andrew S. Baez",
+      "Nicole Farmer",
+      "Christa T. Mahlobo"
+    ],
+    "journal": "Circulation Research",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.1016/s2589-7500(20)30315-0",
+    "title": "What social media told us in the time of COVID-19: a scoping review",
+    "year": 2021,
+    "cited_by": 703,
+    "pdf_url": "http://www.thelancet.com/article/S2589750020303150/pdf",
+    "authors": [
+      "Shu-Feng Tsao",
+      "Helen Chen",
+      "Therese Tisseverasinghe",
+      "Yang Yang",
+      "Lianghua Li",
+      "Zahid A Butt"
+    ],
+    "journal": "The Lancet Digital Health",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.1257/jep.14.4.141",
+    "title": "Women's Work and Economic Development",
+    "year": 2000,
+    "cited_by": 691,
+    "pdf_url": "https://www.aeaweb.org/articles/pdf/doi/10.1257/jep.14.4.141",
+    "authors": [
+      "Kristin Mammen",
+      "Christina Paxson"
+    ],
+    "journal": "The Journal of Economic Perspectives",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.1186/1471-2458-13-482",
+    "title": "Modified social ecological model: a tool to guide the assessment of the risks and risk contexts of HIV epidemics",
+    "year": 2013,
+    "cited_by": 650,
+    "pdf_url": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/1471-2458-13-482",
+    "authors": [
+      "Stefan Baral",
+      "Carmen H. Logie",
+      "Ashley Grosso",
+      "Andrea L. Wirtz",
+      "Chris Beyrer"
+    ],
+    "journal": "BMC Public Health",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.1016/s0140-6736(24)00757-8",
+    "title": "Global incidence, prevalence, years lived with disability (YLDs), disability-adjusted life-years (DALYs), and healthy life expectancy (HALE) for 371 diseases and injuries in 204 countries and territories and 811 subnational locations, 1990\u20132021: a systematic analysis for the Global Burden of Disease Study 2021",
+    "year": 2024,
+    "cited_by": 4663,
+    "pdf_url": "http://www.thelancet.com/article/S0140673624007578/pdf",
+    "authors": [
+      "Masayuki Teramoto",
+      "Damian Santomauro",
+      "Amirali Aali",
+      "Yohannes Abate",
+      "Cristiana Abbafati",
+      "Hedayat Abbastabar"
+    ],
+    "journal": "The Lancet",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.1001/jamapediatrics.2021.2482",
+    "title": "Global Prevalence of Depressive and Anxiety Symptoms in Children and Adolescents During COVID-19",
+    "year": 2021,
+    "cited_by": 2815,
+    "pdf_url": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/2782796/jamapediatrics_racine_2021_oi_210043_1635371730.30932.pdf",
+    "authors": [
+      "Nicole Racine",
+      "Brae Anne McArthur",
+      "Jessica E. Cooke",
+      "Rachel Eirich",
+      "Jenney Zhu",
+      "Sheri Madigan"
+    ],
+    "journal": "Archives of Pediatrics and Adolescent Medicine",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.1257/jep.3.4.99",
+    "title": "Social Norms and Economic Theory",
+    "year": 1989,
+    "cited_by": 2044,
+    "pdf_url": "https://www.aeaweb.org/articles/pdf/doi/10.1257/jep.3.4.99",
+    "authors": [
+      "Jon Elster"
+    ],
+    "journal": "The Journal of Economic Perspectives",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.1016/s0140-6736(20)32290-x",
+    "title": "The 2020 report of The Lancet Countdown on health and climate change: responding to converging crises",
+    "year": 2020,
+    "cited_by": 1902,
+    "pdf_url": "https://centaur.reading.ac.uk/94739/8/The%202020%20Report%20of%20the%20Lancet%20Countdown-revised-clean.pdf",
+    "authors": [
+      "Nick Watts",
+      "Markus Amann",
+      "Nigel W. Arnell",
+      "Sonja Ayeb\u2010Karlsson",
+      "Jessica Beagley",
+      "Kristine Belesova"
+    ],
+    "journal": "The Lancet",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.1257/jep.25.4.191",
+    "title": "When and Why Incentives (Don't) Work to Modify Behavior",
+    "year": 2011,
+    "cited_by": 1751,
+    "pdf_url": "https://www.aeaweb.org/articles/pdf/doi/10.1257/jep.25.4.191",
+    "authors": [
+      "Uri Gneezy",
+      "Stephan Meier",
+      "Pedro Rey\u2010Biel"
+    ],
+    "journal": "The Journal of Economic Perspectives",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.1257/jep.21.1.141",
+    "title": "The Economic Lives of the Poor",
+    "year": 2007,
+    "cited_by": 1596,
+    "pdf_url": "https://www.aeaweb.org/articles/pdf/doi/10.1257/jep.21.1.141",
+    "authors": [
+      "Abhijit V Banerjee",
+      "Esther Duflo"
+    ],
+    "journal": "The Journal of Economic Perspectives",
+    "category": "01_professor"
+  },
+  {
+    "doi": "10.1016/j.psychres.2020.113264",
+    "title": "Adolescent psychiatric disorders during the COVID-19 pandemic and lockdown",
+    "year": 2020,
+    "cited_by": 1059,
+    "pdf_url": "https://www.sciencedirect.com/science/article/am/pii/S0165178120318382?via%3Dihub",
+    "authors": [
+      "S\u00e9lim Benjamin Guessoum",
+      "Jonathan Lachal",
+      "Rahmeth Radjack",
+      "\u00c9milie Carretier",
+      "Sevan Minassian",
+      "Laelia Benoit"
+    ],
+    "journal": "Psychiatry Research",
+    "category": "01_professor"
+  }
+]

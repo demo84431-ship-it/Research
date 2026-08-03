@@ -1,0 +1,2085 @@
+# Chapter 4: The Scientific Revolution
+
+> **Source:** A Conceptual History of Psychology
+> **Author:** John Greenwood
+> **Publisher:** McGraw-Hill, 2009
+> **Pages in original:** 125–173 (49 pages)
+
+---
+
+C H A P T E R 4
+The Scientifi c Revolution
+O
+N OCTOBER 11, 1572, THE DANISH ASTRONOMER TYCHO BRAHE
+(1546–1601) observed a bright new object in the evening sky. This was “a
+miracle indeed,” since this object did not move against the background of fi xed
+stars and must itself have been a star. Yet Aristotle had taught that everything in
+the celestial region, the sphere of fi xed stars, was perfect and unchanging. Brahe’s
+observation of what we now believe to have been a supernova (a new star) was one
+of the many developments that led to the eventual overthrow of the Aristotelian
+geocentric (Earth-centered) astronomical system and the medieval worldview based
+upon it.
+By the 14th century, the social, political, and intellectual order of the medieval
+world had begun to break down. Increased urbanization and the return to a money
+economy eroded the structure of the feudal system, and the rise of nation-states
+undermined the political authority of the papacy. Intermittent wars between the
+emerging nation-states led to a severe economic depression. This was followed by
+the plague of 1348–1350, later known as the “Black Death,” which decimated the
+European population and bred doubt and resentment against the medieval Church,
+the dominant authority. Although the Church embraced Aristotle’s philosophy, the
+threat posed by its naturalism and rationalism generated dissent and division, lead-
+ing initially to attempts to divorce the separate realms of faith and reason and then
+to the autonomous emergence of naturalistic empirical science.
+Various developments contributed to the transformation of the intellec-
+tual landscape. Marco Polo’s (1254–1324) exploration of China, Christopher
+Columbus’s (1451–1506) discovery of America in 1492, and Magellan’s (1480–
+1521) circumnavigation of the globe expanded the horizons of the known world.
+Perhaps the most signifi cant development was the invention of printing and the
+consequent transformation of communication. In the city of Mainz in south-
+ern Germany, Johann Gutenberg (c. 1397–1468) created movable type and pub-
+lished an edition of the Bible in 1450. The consequent explosion in printed works
+expanded intellectual horizons by broadening access to the Bible and classical
+works. By 1500, about 8 million volumes had been printed (Pyenson & Sheets-
+Pyenson, 1999); by 1600, about 20 million, with over a dozen presses e stablished
+in European cities (Foote, 1991). The critical interpretation of these works by
+ggrree5588662244__cchh0044..iinndddd 110000 1122//1144//0077 22::5555::2244 PPMM
+
+<!-- Page 125 -->
+
+RENAISSANCE AND REFORMATION 101
+humanist s cholars encouraged a more secular—and more skeptical—approach to
+the classical tradition and scriptural authority, and the reliable reproduction of
+works in physics, astronomy, and medicine transformed science into a public
+enterprise. In earlier centuries the works of Aristotle, Ptolemy, and Galen had
+been transcribed by hand by monastic clerics, with errors compounded over
+generations, and read only by the educated elite. From the mid-15th century
+onwards multiple copies of scientifi c works were critically scrutinized by the
+scientifi c community and educated members of the lay public.
+Critical questioning of the classical tradition and scriptural authority was par-
+alleled by the critical and empirical evaluation of the theories of Aristotle, Ptolemy,
+and Galen during the period of the 16th and 17th centuries in Europe known as
+the scientifi c revolution. As their theories were displaced by those of Nicholaus
+Copernicus (1473–1543), Johannes Kepler (1571–1630), Galileo, Newton, and
+Vesalius, empirical evaluation displaced the authority of tradition as the mark of
+modern science. Quantifi ed effi cient causal explanation of matter in motion dis-
+placed fi nal causal explanation in the new physics, and eventually these mecha-
+nistic forms of explanation were extended to the realm of biology and psychology
+by theorists such as Gomez Pereira (1500–c. 1558), William Harvey (1578–1657),
+Descartes, Julien Offroy de La Mettrie (1709–1751), Thomas Hobbes (1588–1679),
+and Robert Whytt (1714–1766).
+RENAISSANCE AND REFORMATION
+The Renaissance, meaning “rebirth,” originated in southern Italy in the 14th
+century, eventually spreading to Northern Europe. It promoted innovative devel-
+opments in art, literature, architecture, music, mathematics, and—e ventually—
+religion and science. Humanistic thinkers such as Francesco Petrarch (1304–1374),
+Giovanni Pico della Mirandola (1463–1494), and Desiderius Erasmus (c. 1466–
+1536) were highly critical of the institutional hierarchy and dogmatism of the
+established church and recommended a return to a more personal relationship
+with God. With greater access to classical literature, Renaissance humanists redis-
+covered the ancient Greek theorists and found much to admire in their focus
+upon the psychology of human life. They rediscovered Plato, who came to rival
+Aristotle as the classical authority, although Aristotle continued to be admired
+for his original works, as opposed to the sterile appropriations of his natural phi-
+losophy that had become fossilized as church dogma. Indeed, the Renaissance
+deserves to be characterized as a period of rediscovery as much as rebirth, since
+it was largely grounded in the recovery and retranslation of classical texts, which
+came to be admired for their intrinsic merits and celebration of humanity.
+Petrarch is often treated as the founder of Renaissance humanism, insofar as
+his writings heralded the increased focus on the psychology of human individuals,
+ggrree5588662244__cchh0044..iinndddd 110011 1122//2244//0077 55::2299::5511 PPMM
+
+<!-- Page 126 -->
+
+102 CHAPTER 4: THE SCIENTIFIC REVOLUTION
+including their place in the social and political order. Petrarch was critical of the
+sterility of scholastic thought and particularly the overly rigid Aristotelianism at
+the heart of Christian dogma. He celebrated the critical and naturalistic thought of
+the ancients and their focus on human capacities and potential. In religion, he rec-
+ommended a return to the more personal and spiritual form of religion practiced
+by Augustine, presaging the later Protestant Reformation.
+The Renaissance commitment to human potential was expressed in Pico’s
+famous oration on the dignity of humanity, in which he located humankind as
+poised between the lower animals and the angels: capable of degenerating to bes-
+tiality, but also endowed with almost unlimited potential for creative intellectual,
+moral, and spiritual development. According to Pico, God had allowed humans to
+determine the limits of their own nature.
+Somewhat paradoxically, in Renaissance humanism faith in the potential
+of humanity went hand in hand with skepticism about human pretensions to
+knowledge. Erasmus, in The Praise of Folly (1512), caricatured the dogmatic and
+superstitious beliefs of medieval scholasticism and contrasted the pretentious cer-
+emony and hierarchy of the Church with the simple humility and humanity of
+Christ. Paracelsus rejected the classical authority of Galen and Avicenna in the
+realm of medicine, which he claimed should be founded upon empirical learning,
+although his own practice was heavily infused with astrology and mysticism.
+The cautious skepticism of earlier humanists was eclipsed by the radical skep-
+ticism of Michel de Montaigne (1533–1592), who resurrected the arguments of
+Greek skeptics such as Pyrrho. He maintained that neither sense experience nor
+reason could yield knowledge of the natural and spiritual world. While few shared
+Montaigne’s depth of skepticism, his advocacy of such an extreme position stimu-
+lated later defenses of autonomous rationality and the scientifi c method, notably
+those advanced by Descartes and Bacon.
+The Renaissance promoted pioneering explorations of human nature in the art
+and anatomy of Leonardo da Vinci (1452–1519), the political writings of N iccolò
+Machiavelli (1469–1527), and the poetry and drama of William S hakespeare
+(1564–1616), but did little to advance the systematic scientifi c study of human
+psychology. However, it did witness the fi rst attempts to apply medical and psy-
+chological theories to the development of education, most notably in the work of
+the Spanish humanist Juan Luis Vives (1492–1540). Born in Valencia, Vives was
+educated at the universities of Paris and Louvain, where he befriended E rasmus. His
+reputation as a teacher and scholar in the Netherlands later earned him a position
+at Oxford University (from 1523–1528), where he was supported by Thomas More
+and Henry VIII. After Henry’s dispute with More over his divorce from Catherine
+of Aragon and More’s subsequent execution, Vives returned to the Netherlands.
+There he completed De Anima et Vita (1538), in which he argued that knowledge
+of human physiology and psychology should be applied to the improvement of
+educational practice and the humane treatment of the insane.
+ggrree5588662244__cchh0044..iinndddd 110022 1122//1144//0077 22::5555::2244 PPMM
+
+<!-- Page 127 -->
+
+RENAISSANCE AND REFORMATION 103
+Vives is best remembered for his comprehensive treatment of the associative
+principles of similarity, contrast, and contiguity (Brett, 1912–1921), which has led
+some to characterize him as the “father of modern psychology” (C lemens, 1967).
+Although his treatment of association followed Aristotle’s general account, Vives
+tried to link the operation of memory to humoral physiology and cited many
+more examples of associationist principles than Aristotle. In many respects, Vives
+was a transitional fi gure, who retained great respect for classical authorities and
+deviated little from them in practice, but also conceived of the study of human
+psychology as a form of naturalistic knowledge grounded in observation:
+The study of man’s soul exercises a most helpful infl uence on all kinds of knowl-
+edge. . . . This treatment of the development of knowledge within our souls will
+proceed parallel with the natural order.
+—(De Disciplinis, cited in Clemens, 1967, p. 221)
+Reformation
+Dissatisfaction with the sterility, pomp, and hierarchy of the medieval Church
+eventually produced the religious movement known as the Reformation, spear-
+headed by Martin Luther (1483–1546), the Augustinian monk and professor at
+Wittenberg University who initiated the movement by nailing his 95 objections
+to the door of Wittenberg Cathedral in 1517. Luther’s revolt was motivated by his
+objections to the Church’s sale of indulgences (papal pardons for sins), a form of
+fund-raising promoted by the revolution in printing, which also enabled Luther’s
+objections to be rapidly disseminated throughout Europe. Luther advocated a sim-
+pler and more spiritual approach to God and initially hoped for internal reform
+within the Church. However, he later rejected the philosophy of Aristotle and the
+authority of the pope, which led to his excommunication in 1521.
+The form of Protestant religion originally developed by Luther, who empha-
+sized individual faith, conscience, and attention to scripture in contrast to the
+hierarchical pomp and ritual of the established Church, represented an intellec-
+tual liberation of sorts. However, it very quickly rigidifi ed into its own forms of
+institutionalized dogma as Protestantism spread throughout Europe. The ideal of
+individual conscience was converted into the ideal of conscience in obedience to
+scripture as interpreted by Luther and John Calvin (1509–1564), whose uncom-
+promising doctrines about predestination exemplifi ed a harsh and unforgiving
+attitude to sin. As the reformers attained positions of authority and power in Prot-
+estant states and provinces, they were at least as zealous in their persecution of
+heretics and dissenters as the traditional medieval Church.
+One consequence of the Protestant Reformation was the institutional con-
+fi rmation of the Aristotelian theories of Aquinas as the doctrinal foundation of
+ggrree5588662244__cchh0044..iinndddd 110033 1122//1144//0077 22::5555::2255 PPMM
+
+<!-- Page 128 -->
+
+104 CHAPTER 4: THE SCIENTIFIC REVOLUTION
+Roman Catholicism, as affi rmed by the Council of Trent (1545–1563). It also seems
+to have encouraged a more vigorous and violent response to heretics, witches, and
+other dissenters by the Catholic Inquisition. The late 15th and 16th centuries
+marked the high point of religious repression in Europe, including the suppression
+of scientifi c works and the persecution of individual scientists.
+Michael Servetus (c. 1511–1533), the Spanish anatomist who rejected Galen’s
+account of the circulation of the blood in the heart and who was one of the fi rst
+to identify pulmonary circulation, made the mistake of sending a copy of his
+“On the Restoration of Christianity” to John Calvin in Geneva. Calvin denounced
+Servetus to the Catholic Inquisition, and he was arrested and sentenced to death
+by burning. Servetus managed to escape, but he was later recaptured in Geneva
+and burned by Protestant reformers, while the Catholic Inquisition burned his
+effi gy and his books. Although Servetus was persecuted for his religious rather
+than his medical views, the Reformation did little to promote the spirit of intel-
+lectual curiosity that motivated him.
+THE SCIENTIFIC REVOLUTION
+The period characterized as the scientifi c revolution was marked by revolutions
+in theory, particularly in astronomy, physics, and medicine. The most famous
+of these was the overthrow of the Aristotelian and Ptolemaic geocentric (Earth-
+centered) theory in favor of the Copernican heliocentric (sun-centered) theory.
+According to Ptolemaic theory, the fi xed Earth is the center of the universe, with
+the sun and other planets revolving in circular orbits around it. Yet since the time
+of Aristotle, it had been known that planets do not move in perfect circular orbits.
+As observed from Earth, their orbits appear to be erratic, looping backward in
+their paths from time to time. To accommodate this “wandering,” or retrograde,
+motion, Ptolemy had introduced a system of epicycles, or circles within circles,
+and this system had been modifi ed and extended to a level of great complexity by
+later astronomers. The Ptolemaic theory served as an effective predictive and navi-
+gational device for centuries and was in accord with common sense. The planets
+appear in motion to the naked eye, and everyday experience seems to confi rm a
+stationary Earth (we don’t feel it moving, and don’t fall off).
+The Copernican Revolution
+Nicholaus Copernicus was a Polish monk who studied at the universities of Cracow,
+Bologna, Ferrara, and Padua. He advanced his heliocentric theory in On the Revo-
+lution of the Celestial Spheres, published in 1543. In this work, Copernicus argued
+that the motions of the planets might be better explained by supposing that the
+ggrree5588662244__cchh0044..iinndddd 110044 1122//1144//0077 22::5555::2255 PPMM
+
+<!-- Page 129 -->
+
+THE SCIENTIFIC REVOLUTION 105
+sun, not Earth, is the fi xed center of the universe and that Earth and other planets
+traverse circular orbits around it.
+This was not a new hypothesis. Aristarchus (c. 310–c. 230 BCE) had fi rst advanced
+it about 1,800 years earlier. Copernicus noted this and also ascribed an earlier ver-
+sion of his theory to the Pythagorean mathematician Philolaus (b. c. 480–480 BCE).
+Many were skeptical of the Ptolemaic system, since its complexity seemed incon-
+sistent with Pythagorean requirements of simplicity and harmony. This was the
+view, for example, of Domenico Novara, professor of mathematics and astronomy
+at the University of Bologna, during the period Copernicus was in attendance.
+Copernicus’s heliocentric theory accommodated the same observational data as
+the developed geocentric theory. However, Copernicus was not able to do away with
+Ptolemy’s system of epicycles, although he was able to reduce their number. Coperni-
+cus eliminated one serious anomaly of the geocentric theory, concerning the orbital
+times of planets. According to the geocentric theory, the moon, the closest planet
+to Earth, completes its orbit in four weeks, whereas the sun, which is furthest from
+Earth, takes only one day. According to the heliocentric theory, the orbital times of
+the planets vary inversely with their distance from the sun. Copernicus also provided
+an explanation of observed changes in planetary brightness, a problem for the geo-
+centric theory but a natural consequence of the heliocentric theory (Dolling, Gianelli,
+& Statile, 2003). However, the Copernican theory had its own problems, notably the
+failure to detect stellar parallax, the variation in the angular separation of the stars,
+which was a crucial implication of Earth’s projected orbit around the sun.
+Copernicus’s work was published posthumously, although his delay in pub-
+lishing appears to have had more to do with his anticipation of the incredulity
+with which he thought his theory was likely to be received than out of any fear
+of persecution by the Church. Summaries of his conclusions had been circulated
+for years before, and one was published in 1540. It was not until Kepler’s force-
+ful advocacy of the Copernican theory in the late 1590s and the publication of
+Galileo’s Letters on the Solar Spots (1613/1957) that the Copernican theory encoun-
+tered serious opposition from the Church.
+Realism and Instrumentalism The publication of On the Revolution of the Celestial
+Spheres initially encountered less opposition than might have been expected partly
+because the Lutheran theologian Andreas Osiander (1498–1552), who had been
+authorized to see Copernicus’s work through the press after his death, added an
+introduction. Osiander suggested that Copernicus’s work ought not to be read as
+a potentially true description of astronomical reality (of the relative positions and
+motions of the planets), but as a useful mathematical fi ction that accommodated
+the planetary motions:
+For it is the job of the astronomer to use painstaking and skilled observation in gath-
+ering together the history of the celestial movements, and then—since he cannot by
+ggrree5588662244__cchh0044..iinndddd 110055 1122//1144//0077 22::5555::2255 PPMM
+
+<!-- Page 130 -->
+
+106 CHAPTER 4: THE SCIENTIFIC REVOLUTION
+any line of reasoning reach the true causes of these movements—to think up or con-
+struct whatever causes or hypotheses he pleases such that, by the assumption of these
+causes, those same movements can be calculated from the principles of geometry for
+the past and for the future too . . . For it is not necessary that these hypotheses should
+be true, or even probably; but it is enough that they provide a calculus which fi ts the
+observations.
+—(1543/2003, p. 43)
+Osiander was an instrumentalist, a proponent of the view that scientifi c theories
+are merely calculative devices or “fi ctions” employed to predict observations or
+“save the appearances” and that the best theory is simply the most economical
+predictive device. Copernicus himself was almost certainly a realist, a proponent of
+the view that theories purport to describe reality and that the best theory is the one
+that provides the most accurate description of reality, as were later defenders of the
+Copernican system such as Galileo and Kepler. Kepler, who revealed the identity
+of Osiander as the author of the introduction to On the Revolution of the Celestial
+Spheres in the New Astronomy (1609), claimed that he founded astronomy on real
+causes and not fi ctional hypotheses.
+Not all theologians shared Osiander’s instrumentalist views. The Jesuit
+Christopher Clavius (1538–1612), who was also a realist, argued that Copernicus
+had simply saved the appearances by deducing true observational predictions
+from false theoretical assumptions. Clavius noted that there was nothing remark-
+able about this, since true conclusions (or predictions) can be deduced from any
+number of false assumptions. Thus, to take a modern example, the true conclusion
+“all metals are conductors” can be deduced from the true premises “all metals are
+elements with free electrons in their outer shells” and “all elements with free elec-
+trons in their outer shells are conductors” and from the false premises “all metals
+are elements containing electronic fl uids” and “all elements containing electronic
+fl uids are conductors.” According to Clavius, the Copernican theory was simply
+false and inferior to the Ptolemaic theory, which he held to be consistent with
+both the principles of astronomy and Christian theology.
+The Reception of the Copernican Theory These sorts of considerations led the
+Inquisition, under Cardinal Bellarmine (1542–1621), to adopt the view that the
+Copernican theory could be judged superior to the Ptolemaic theory only in terms
+of its economy as a mathematical model or calculation device and that to defend
+its physical truth was “formally heretical.” On the Revolution of the Celestial Spheres
+was placed on the Catholic Index of Prohibited Books in 1616.
+Galileo Galilei (1564–1642), who had indicated his support for the Coperni-
+can theory in Letters on the Solar Spots (1613/1957), was warned about the judg-
+ment of the Inquisition. For a few years he remained quiet, and the new Pope
+Urban VIII turned a blind eye to the unorthodox doctrines that Galileo advanced
+ggrree5588662244__cchh0044..iinndddd 110066 1122//1144//0077 22::5555::2255 PPMM
+
+<!-- Page 131 -->
+
+THE SCIENTIFIC REVOLUTION 107
+in The Assayer (1623/1957). However, in 1632 Galileo published Dialogue Concern-
+ing the Two Chief World-Systems, Ptolemaic and Copernican. This work was immedi-
+ately prohibited, and the following year Galileo was imprisoned. Rheumatic and
+near blind at age 70, he was examined by the Inquisition and shown the instru-
+ments of torture. He was ordered to do penance for three years (while under house
+arrest) and to recant the Copernican doctrine. According to legend, at the end of
+his recantation he muttered under his breath “And yet it moves.” The Catholic
+Church absolved him of his intellectual sins in 1992.
+Others were not so lucky. It was bad enough that Copernicus had undermined
+the Aristotelian thesis, so congenial to Christian theology, that Earth and human-
+kind are at the privileged center of creation, by suggesting that Earth is just one of
+the many planets orbiting the sun. The Dominican monk and astronomer Giordano
+Bruno (1548–1600) went one stage further and suggested that Earth is merely one
+(insignifi cant) planet among many in an infi nite universe. In On the Infi nite Universe
+and Worlds (1584/1950) Bruno declared that the debate between the Aristotelians
+and Copernicans about whether Earth or the sun is the center of the universe is
+vacuous, since “as the universe is infi nite, no body can properly be said to be in
+the center of the universe or at the frontier thereof.” In 1592, after many years of
+wandering Europe, Bruno unwisely let himself fall within the reach of the Inquisi-
+tion. After seven years in prison, he was fi nally tried and condemned to death by
+burning at the stake (although it is unlikely that he was condemned to death for
+his scientifi c views—he also denied the Immaculate Conception and identifi ed the
+pope with the Beast of Revelations).
+Although the Copernican system eventually came to displace the Ptolemaic
+system, the “Copernican revolution” in astronomy was not an overnight affair.
+As late as 1669, the year Isaac Newton attained his professorship at Cambridge
+University, the Ptolemaic theory was still being defended, and opposition to the
+Copernican theory continued in France into the 18th century. At the time of
+Copernicus, there were no empirical grounds for preferring his system to that
+of Ptolemy, since both theoretical systems accommodated most of the available
+observational data.
+Gradually fortunes shifted in favor of the Copernican theory. Johannes
+Kepler (1571–1630) was a dedicated Pythagorean who believed that God had
+created the world in accord with mathematical harmonies. He was employed as
+a research assistant to Tycho Brahe (1546–1601), the Danish astronomer, when
+the latter took up the position of royal mathematician at the court of the Ger-
+man King Rudolph II in Prague (where he was engaged in the preparation of
+military horoscopes). Working with Brahe’s mass of accumulated observational
+data, which he inherited upon Brahe’s death in 1601, Kepler eliminated many of
+the artifi cialities of the Copernican theory by supposing that the planets move in
+elliptical rather than circular orbits around the sun. In the New Astronomy (1609),
+he demonstrated that the orbital velocities of the planets vary with their distance
+ggrree5588662244__cchh0044..iinndddd 110077 1122//1144//0077 22::5555::2266 PPMM
+
+<!-- Page 132 -->
+
+108 CHAPTER 4: THE SCIENTIFIC REVOLUTION
+from the sun, increasing as they approach the sun and decreasing as they move
+away from it.
+In addition, after hearing of the invention of the telescope by Dutch lens craft-
+ers, Galileo immediately constructed his own and proceeded with record speed to
+observe the mountains and valleys of the moon, the moons of Jupiter, the phases
+of Venus, and the rings of Saturn, as well as a multitude of previously undetected
+stars. These observations undermined the general Aristotelian and Ptolemaic posi-
+tion. The mountains and valleys of the moon indicated that at least one celestial
+body is not perfectly spherical, and the observation of new stars indicated that
+the stars are at different distances from Earth and not fi xed to a celestial sphere.
+The moons of Jupiter appeared to constitute a miniature Copernican system, since
+their orbits vary with their distance from Jupiter, and the phases of Venus could
+only be explained in terms of a sun-centered orbit.
+None of this demonstrated the outright superiority of the Copernican theory,
+but it convinced many people. The crucial observation came with the telescopic
+observation of the stellar parallax predicted by the Copernican theory alone,
+although most astronomers had already abandoned the Ptolemaic theory by the
+time this was observed by Friedrich Bessel (1784–1846) in 1838, nearly 300 years
+after the publication of Copernicus’s theory.
+Galileo and the New Science
+The scientifi c revolution was more than a revolution in astronomical—and physical
+and medical—theories: It amounted to a full-scale revolution in intellectual atti-
+tude. Prior to this time, many scholars were content to assess theoretical claims
+by reference to their consistency with classical and religious authorities. Famously,
+some of Galileo’s colleagues at the University of Pisa refused to look through his
+telescope because they considered it redundant: They maintained that astronomical
+questions had already been settled by Aristotle and scripture. Yet from around the
+16th century onward, natural philosophers came to adopt the view that theories
+ought not to be accepted until they have been empirically tested, ideally via what
+came to be known as a crucial experiment, enabling scientists to adjudicate between
+competing theoretical explanations of the same range of empirical data. They even-
+tually became what the ancients and medievals had deplored, empiriks.
+Galileo best epitomized this new empirical attitude. He was not prepared to
+accept or reject the Ptolemaic or Copernican theories on the basis of classical or
+religious authority and entered the astronomical debates only after he had devel-
+oped the telescope and made what he believed to be crucial observations in support
+of the Copernican theory. Although earlier investigators anticipated him in both
+theory and practice, none matched his ability to integrate and propagate those
+elements that have since come to be treated as constitutive of modern s cience.
+ggrree5588662244__cchh0044..iinndddd 110088 1122//1144//0077 22::5555::2266 PPMM
+
+<!-- Page 133 -->
+
+THE SCIENTIFIC REVOLUTION 109
+Galileo was appointed professor of mathematics at the University of Pisa at the
+age of 25. He served as professor of mathematics at the University of Padua from
+1592 until 1610, when he became mathematician-in-residence to the Grand Duke
+of Tuscany. He made important contributions to astronomy and physics, subjecting
+entrenched Aristotelian theories to critical empirical scrutiny. He continued his sci-
+entifi c work right up to his death in 1642, albeit in secret, since his later years were
+spent under house arrest imposed by the Inquisition. His last work, Dialogue Con-
+cerning Two New Sciences (1638/1974), was smuggled out of Italy for publication.
+Galileo was committed to the empirical evaluation of scientifi c theories and
+the development of instruments that enable and facilitate the testing of scien-
+tifi c theories. He constructed his fi rst telescope in 1609 to test the Copernican
+theory. He also took a critical empirical look at Aristotle’s theory of falling bodies,
+according to which bodies of different weight fall with different velocities. He
+demonstrated that bodies of different weight, such as a 100-pound cannon ball
+and 1-pound musket ball, fall with approximately the same velocity (according
+to legend, by dropping them off the Leaning Tower of Pisa). Using an improved
+water clock and a gently sloping inclined wooden plane down which he released
+polished bronze balls, Galileo developed and tested his own theory of falling bod-
+ies. This led him to recognize that forces act on bodies not to produce motion, as
+Aristotle had argued, but to change it, or produce acceleration.
+Galileo not only rejected particular Aristotelian theories, but also the general
+form of Aristotelian explanation in physics. He renounced all attempts to explain
+the motion of bodies in terms of Aristotelian fi nal causes, in terms of their pro-
+pensity to move toward their “natural resting place,” and employed only effi cient
+causal explanations of matter in motion. This latter type of explanation, in terms
+of antecedent conditions suffi cient to produce an effect, came to be characterized
+as mechanistic explanation and became associated with the popular 17th-c entury
+conception of the universe as a giant (usually clockwork) mechanism, governed
+by fi xed laws of nature.
+Galileo also insisted that the business of science is to explain quantitative and
+not merely qualitative changes and to do so by reference to quantitative changes in
+fundamental variables such as time, space, and motion, which led him to declare
+that mathematics is the language of science:
+Philosophy is written in this grand book, the universe, which stands continually open
+to our gaze. But the book cannot be understood unless one fi rst learns to comprehend
+the language and read the letters in which it is composed. It is written in the language
+of mathematics.
+—(1623/1957, pp. 237–238)
+Galileo also reprised the ancient distinction between primary and secondary
+qualities. He maintained that primary qualities, such as size, shape, and motion,
+ggrree5588662244__cchh0044..iinndddd 110099 1122//1144//0077 22::5555::2266 PPMM
+
+<!-- Page 134 -->
+
+110 CHAPTER 4: THE SCIENTIFIC REVOLUTION
+are real properties of material bodies and explain how bodies affect our senses.
+Secondary qualities, such as colors, tastes, and smells, are nothing more than the
+manner in which material bodies affect our senses:
+Hence I think that tastes, odors, colors and so on are no more than mere names so far
+as the object in which we place them is concerned, and that they reside only in the
+consciousness. Hence if the living creature were removed, all those qualities would be
+wiped away and annihilated.
+—(1623/1957, p. 274)
+Galileo explained differences in secondary qualities, such as tastes and smells,
+in terms of differences in primary qualities, such as the shapes, sizes, and velocities
+of microscopic particles:
+There are bodies which constantly dissolve into minute particles, some of which are
+heavier than air and descend, while others are lighter and rise up. The former may
+strike upon a certain part of our bodies that is much more sensitive than the skin,
+which does not feel the invasion of such subtle matter. This is the upper surface of
+the tongue; here the tiny particles are received, and mixing with and penetrating its
+moisture, they give rise to tastes, which are sweet or unsavory according to the vari-
+ous shapes, numbers and speeds of the particles.
+—(1623/1957, p. 276)
+Galileo’s new science represented an integration of the ancient natural-
+ist (Ionian) and mathematical (Pythagorean) traditions. It also marked a new
+beginning, by combining these traditions with a new emphasis on empirical and
+experimental evaluation and the rejection of fi nal causal explanation in favor of
+effi cient causal or mechanistic explanation. These paradigmatic elements are also
+to be found in the work of the major scientists of the scientifi c revolution, such
+as R obert Boyle (1627–1691), Descartes, William Gilbert (1544–1603), William
+Harvey (1578–1657), Robert Hooke (1635–1703), Kepler, and Newton.
+In these important respects, the work of such theorists was discontinuous with
+the work of most ancient and medieval theorists and marked a decisive break with
+the prior historical tradition. However, the scientifi c revolution was neither as
+sudden nor as revolutionary as its name might suggest. As noted earlier, anticipa-
+tions of the new science can be found in the writings of scholastics such as Robert
+Grosseteste, Roger Bacon, and William of Occam; and empirical research played
+a signifi cant role in the work of Aristotle, Alcmaeon, Hippocrates, and Galen.
+Although Galileo made much of his own break with the Aristotelian tradition, by
+his own day that tradition had become pretty eclectic. The doctrines that form
+the basis of Galileo’s Assayer, for example, are to be found in his notes from his
+Aristotelian teachers at the Jesuit Collegío Romano (Wallace, 1984).
+ggrree5588662244__cchh0044..iinndddd 111100 1122//1144//0077 22::5555::2277 PPMM
+
+<!-- Page 135 -->
+
+THE SCIENTIFIC REVOLUTION 111
+However, the rejection of classical orthodoxy came to play a major role in
+the rhetoric of the new science. Post-Galilean thinkers came to see themselves as
+making a new scientifi c beginning by breaking with tradition, rejecting ancient
+and medieval theories precisely because they were not empirically grounded.
+Thus, to take but one of many examples, Descartes felt obliged to preface his
+study of physiological psychology in The Passions of the Soul (1649) with the fol-
+lowing remarks:
+The defects of the sciences we have from the ancients are nowhere more apparent
+than in their writings on the passions. . . . The teachings of the ancients about the
+passions are so meagre and for the most part so implausible that I cannot hope to
+approach the truth except by departing from the paths they have followed. This is
+why I shall be obliged to write just as if I were considering a topic that no one had
+dealt with before me.
+—(1649/1985, p. 328)
+Andreas Vesalius and the Scientifi c
+Revolution in Medicine
+Galileo did not reject Aristotle’s astro-
+nomical and physical theories out of
+hand, but only when they failed to survive
+empirical evaluation. Similarly, Andreas
+Vesalius (1514–1564) subjected the clas-
+sical medical theories of Galen to empiri-
+cal evaluation and found them wanting.
+A native of Belgium, Vesalius came from
+a line of royal physicians. He studied at
+the universities of Louvain and Paris and
+was appointed professor of surgery and
+anatomy at the University of Padua.
+The dissection of cadavers had
+become commonplace in medical teach-
+ing by the time Vesalius took up his
+professorship. However, a butcher or
+barber would usually conduct the dis-
+sections. They would cut portions from
+a cadaver for a demonstrator to display
+to students, while the lecturer read from Vesalius: dissection; cover plate of On the Fabric of the Human
+Latin translations of Galen or Avicenna. Body (1543).
+ggrree5588662244__cchh0044..iinndddd 111111 1122//1144//0077 22::5555::2277 PPMM
+
+<!-- Page 136 -->
+
+112 CHAPTER 4: THE SCIENTIFIC REVOLUTION
+Vesalius performed his own dissections and demonstrations and quickly identifi ed
+many errors in Galen, which led him to conclude that much of Galen’s system was
+based upon the physiology of pigs and goats rather than that of humans.
+In 1543 Vesalius published his revolutionary On the Structure of the Human Body,
+which contained detailed descriptions and illustrations of the bones, muscles, veins,
+arteries, viscera, and brain of the human body. Although his challenges to Galen
+generated the same reactionary response as Galileo’s challenges to A ristotle, his pio-
+neering studies transformed medical theory and practice. He abandoned his own
+research in 1544 when he was appointed court physician to the Emperor Charles
+V, but his work was continued by his student Realdo C olumbus (c. 1516–1559),
+who made important contributions to the study of circulation and respiration, and
+by later generations of anatomists such as Giovanni Battista M orgagni of Padua
+(1682–1771), Hermann Boerhaave (1668–1738), Joseph Lieutaud (1703–1780), and
+William Hunter (1718–1783).
+Francis Bacon and the Inductive Method
+One of the most articulate advocates of the new science was the Englishman
+Francis Bacon (1561–1626), who titled his major work on scientifi c method the
+New Organon, or “new method,” (1620/1994), in explicit contrast to the Aristo-
+telian corpus, which had come to be known as the Organon. Bacon was educated
+at the University of Cambridge, which he entered at age 13, and was admitted
+to the bar after studying at Gray’s Inn. Although his attempts to obtain a high
+government position were thwarted (or at least ignored) by Queen Elizabeth I,
+his star rose (at least temporarily) when James I gained the throne in 1603. Bacon
+acquired various titles, including a knighthood, and high government offi ce; he
+was appointed Attorney General in 1613 and Lord Chancellor in 1618. In 1621
+he was publicly disgraced and imprisoned for having accepted bribes during his
+tenure as Lord Chancellor. In his defense, Bacon claimed that although he had
+taken bribes, he had not allowed them to infl uence his judgment. He spent his
+last years in seclusion and died as a consequence of one of his own experiments.
+He caught a cold while stuffi ng a chicken with snow in order to assess its utility
+as a preservative.
+Bacon was a harsh critic of ancient and medieval natural philosophy and an
+optimistic and spirited promoter of the new science. He argued that the vener-
+ation of the ancients and the contemplative ideals of scholastic thought were
+major obstacles to the progress of scientifi c knowledge. He recommended a more
+active and critical approach, in which “vexed nature” was interrogated through
+experimental intervention. He maintained that a true science of nature should be
+grounded in mechanical crafts such as alchemy rather than scholastic contempla-
+tion and refl ection (although he was also critical of many alchemical practices,
+and practitioners such as Paracelsus).
+ggrree5588662244__cchh0044..iinndddd 111122 1122//1144//0077 22::5555::2288 PPMM
+
+<!-- Page 137 -->
+
+THE SCIENTIFIC REVOLUTION 113
+Bacon was a committed realist and materialist, who believed that the “secrets
+of nature” could be revealed through observation and experiment. He was dis-
+missive of Renaissance skepticism, which he thought could be overcome by the
+employment of a proper method for revealing the “subtlety of Nature.” He fol-
+lowed Galileo in maintaining that fi nal causality has no place in the explanation of
+the motion of physical bodies, although, like many other 16th- and 17th- century
+scientists (including Galileo), he acknowledged that fi nal causal explanations are
+legitimate in their appropriate psychological domain:
+The fi nal cause, so far from assisting the sciences, actually corrupts them, except for
+those concerned with human actions.
+—(1620/1994, p. 134)
+Bacon is often treated as a champion of the inductive method, who abjured
+hypothetical speculation in favor of careful and systematic observation. He did claim
+that his own method involved cautious inferential ascent from carefully established
+“natural and experimental histories” to the establishment of theoretical axioms:
+But there will be hope for the sciences when, and only when, ascent is made by the
+right kind of ladder, through an uninterrupted, connected series of steps, from par-
+ticulars to lesser axioms, one above the other, and last of all to the most general.
+—(1620/1994, p. 110)
+However, Bacon was dismissive of the Aristotelian method of enumerative
+induction, through which general truths of nature are derived by generalization
+from the observation of positive instances of correlation (by generalizing that “All
+swans are white” on the basis of the observation of a number of white swans, for
+example). He insisted that true natural science should be based upon eliminative
+induction, in which causal conditions are identifi ed via the falsifi cation of alterna-
+tive causal hypotheses:
+For induction that proceeds through simple enumeration is childish, its conclusions
+are precarious, and open to danger from a contradicting instance, and it generally
+makes its pronouncement on too few things, and on those only that are ready to
+hand. But induction that will be of use for the discovery and demonstration of the
+arts and sciences must analyse Nature by proper rejections and exclusions, and then,
+after a number of negatives, come to a conclusion on the affi rmative instances.
+—(1620/1994, p. 111)
+Bacon did not advocate a narrow empiricist science restricted to observational
+correlation. He was well aware of the need for creative invention in the formu-
+lation of hypotheses and championed the role of novel prediction in empirical
+ggrree5588662244__cchh0044..iinndddd 111133 1122//1144//0077 22::5555::2288 PPMM
+
+<!-- Page 138 -->
+
+114 CHAPTER 4: THE SCIENTIFIC REVOLUTION
+evaluation. He claimed that hypotheses should be evaluated by their utility in
+“discovering new works”: “axioms properly and methodologically applied can
+very well point to and indicate new particulars” (1620/1994, p. 50). He recog-
+nized that different hypotheses can provide formally adequate explanations of
+the same empirical data (as demonstrated by the Copernican debates) and rec-
+ommended that such confl icts between hypotheses be adjudicated by a crucial
+instance (1620/1994, p. 210): a prediction affi rmed by one hypothesis but denied
+by the other (such as the different predictions about whether light accelerates or
+decelerates in moving from a less dense to a denser medium offered by the particle
+and wave theories of light). Bacon characterized such a prediction as an Instance
+of the Fingerpost, which serves as a “pointer” to the correct theory (in England,
+signposts at rural crossroads often have wooden fi ngers pointing in the direction
+of nearby villages).
+Bacon was opposed to the Aristotelian rational intuition of causal principles
+and essential forms, of proceeding directly to very general theories or axioms:
+The understanding must not be allowed to leap and fl y from particulars to remote and
+nearly the most general axioms . . . and from their [supposed] unshakeable truth, to
+prove and deliver intermediate axioms.
+—(1620/1994, p. 110)
+However, as Newton was shortly to demonstrate with his theory of gravitation, a
+speculative “leap” to very general principles could also be enormously productive.
+Nevertheless, Bacon’s account of inductive ascent from observations to
+increasingly general hypotheses and theories does describe the practice of many
+of the contributors to the scientifi c revolution. Robert Hooke and Robert Boyle
+derived their laws of elasticity and gas expansion from tables of correlation, and
+the works of William Gilbert on magnetism (On Magnetism, 1600/1958), William
+Harvey on the circulation of the blood (On the Circulation of the Blood, 1628/1989)
+and Isaac Newton on optics (Opticks, 1704/1952) include many careful descrip-
+tions of observed effects and tentative empirical laws, followed by conclusions
+that develop cautious speculative theories to integrate and explain these tenta-
+tive laws.
+Bacon was one of the fi rst theorists to stress that scientifi c knowledge enables
+scientists to predict and control the natural world, or establish “dominion over
+nature.” He famously claimed that
+Human knowledge and human power come to the same thing, for where the cause
+is not known the effect cannot be produced. We can only command Nature by
+obeying her, and what in contemplation represents the cause, in operation stands as
+the rule.
+—(1620/1994, p. 43)
+ggrree5588662244__cchh0044..iinndddd 111144 1122//1144//0077 22::5555::2288 PPMM
+
+<!-- Page 139 -->
+
+THE SCIENTIFIC REVOLUTION 115
+He was greatly impressed by the technological potential of scientifi c discoveries,
+citing the recent inventions of printing, gunpowder, and the compass:
+It is worth noticing the great power and value and consequences of discoveries,
+in none more obvious than those three which were unknown to the ancients . . .
+namely, the arts of printing, gunpowder, and the compass. For these three have
+changed the whole face and condition of things throughout the world, in literature,
+in warfare and in navigation.
+—(1620/1994, pp. 130–131)
+In claiming that scientifi c theories should be judged by the success of their “works,”
+Bacon also stressed their contribution to the human condition. In the New A tlantis
+(1627/1966), he envisioned a developed inductive science capable of relieving
+human pain, curing disease, and extending the life span.
+Like many other advocates of the new sci-
+ence, Bacon recommended that practitioners
+should abandon the theories of the ancients
+and medievals and begin anew:
+We can look in vain for advancement in
+scientifi c knowledge from the superinducing
+and grafting of new things on old. A fresh
+start must be made, beginning from the very
+foundations.
+—(1620/1954, p. 51)
+In representing the new science as setting the
+course for new scientifi c discoveries, Bacon
+likened himself to Columbus setting out to
+discover the Americas:
+And so my conjectures, which make what
+is hoped for probable, are set out and made
+known; just as Columbus did, before his won-
+derful voyage across the Atlantic Ocean.
+—(1620/1954, p. 103)
+The frontispiece of the New Organon depicted
+a ship setting out on uncharted waters.
+Social Dimensions of Science Bacon was one Frontispiece of Francis Bacon’s Novum Organum (1620).
+of the earliest practitioners of the psychology Ship of Knowledge setting out on uncharted waters.
+ggrree5588662244__cchh0044..iinndddd 111155 1122//1144//0077 22::5555::2299 PPMM
+
+<!-- Page 140 -->
+
+116 CHAPTER 4: THE SCIENTIFIC REVOLUTION
+and sociology of science and documented a variety of cognitive defi cits and social
+biases, which he called “idols which beset men’s minds.” He argued that the
+method of inductive ascent was the best means of surmounting these cognitive
+and social dimensions of human nature.
+Bacon characterized as Idols of the tribe those innate human propensities
+to project a greater degree of regularity in nature than can actually be found,
+to presume that the “subtleties” of nature can be understood through familiar
+analogies, and to adhere to favored theories in the face of empirical falsifi cation.
+The net result of such cognitive defi cits was what Bacon called “wishful science.”
+Bacon characterized as Idols of the cave those idiosyncratic products of individ-
+ual human development that incline some men to fi xate on novelty and others to
+overproject similarity or difference in nature. He cautioned scientists to be espe-
+cially suspicious of any theoretical notion about which they were individually
+enthusiastic.
+Bacon characterized as Idols of the marketplace those notions derived from
+common linguistic usage employed in the theoretical description of nature that
+impede the development of proper scientifi c terminology. He characterized as
+Idols of the theatre those theoretical systems that are socially maintained by the
+various schools of philosophy as received dogma (such as the Ptolemaic theory)
+and form the bases of most forms of education.
+Although he identifi ed some of the social dimensions of human nature that
+bias scientifi c thought, Bacon was also a forceful advocate of the social commu-
+nity of science. He recognized the benefi ts for scientifi c communication derived
+from the invention of printing and those that could be accrued through the social
+cooperation of scientists. In the New Atlantis (1627/1966) he envisioned a future
+society of scientists and technologists devoted to knowledge and discovery and
+petitioned King James I to fi nance the creation of cooperative research projects.
+Although personally unsuccessful in securing this goal in his own lifetime, the
+“Royal Society of London for Improving Natural Knowledge” was founded in
+London by Charles II in 1662 and implemented both Bacon’s general vision and a
+number of his specifi c research projects.
+Similar societies were founded in Europe at around the same time. The
+Academia del Cimento (Academy of Experiments) was founded in Florence in 1657,
+the Académie des Sciences in Paris in 1666, the Berlin Academy in 1700, and the
+St. Petersburg Academy in 1724 (Pyenson & Sheets-Pyenson, 1999). One conse-
+quence of the formation of these scientifi c societies was the development of the logic
+and practice of what came to be known as the experimental report. In the early meet-
+ings of the Royal Society, when the numbers were relatively small, members used to
+demonstrate their “effects” in front of their colleagues. When time constraints and
+the rapidly increasing membership made it impractical for most members to do so,
+they developed a convention that members should report their results by writing
+a “recipe” that would enable any other member to reproduce their effects. In this
+ggrree5588662244__cchh0044..iinndddd 111166 1122//1144//0077 22::5555::2299 PPMM
+
+<!-- Page 141 -->
+
+THE SCIENTIFIC REVOLUTION 117
+fashion the logic of experimental replication was born. These “recipes” were col-
+lected annually and published as the Philosophical Transactions of the Royal Society
+(Bazerman, 1988). Experimental reports in psychology, with their methods, design,
+and procedure sections, are direct descendants of these “recipes.”
+Philosophical Transactions, fi rst published in 1665, became the model for later
+scientifi c journals, such as the German Miscellanea Curiosa, fi rst published in 1670,
+and the French Histoires et Mémoires, fi rst published in 1702. International scien-
+tifi c communication was also greatly enhanced by the emergence of scientifi c
+correspondents; these initial efforts developed into the institution of correspond-
+ing members of scientifi c societies. Henry Oldenburg (c. 1618–1647), the fi rst
+secretary of the Royal Society, maintained an extensive correspondence network
+with members of the European scientifi c community, as did Marin Mersenne
+(1588–1648) in Paris.
+The Newtonian Synthesis
+In the conclusion of On Magnetism (1600/1958), William Gilbert had speculated
+that the planets are held in their orbits (and their matter held in cohesion)
+by a force analogous if not identical to magnetism. Isaac Newton (1642–1727)
+developed this speculation into the theory of universal gravitation. Born in
+Lincolnshire, Newton was educated at Trinity College, Cambridge, where he
+received his degree in 1665. In the two years following, he secluded himself in
+Lincolnshire to avoid the plague. This was perhaps Newton’s most creative period:
+He developed the binomial theorem, invented the “method of fl uxions” (calculus),
+and created the fi rst refl ecting telescope. It was also during this period that
+Newton fi rst began to develop his theory of universal gravitation. He was appointed
+professor of mathematics at Cambridge in 1669. He became a fellow of the Royal
+Society in 1672 and was elected president in 1703. He published Mathematical
+Principles of Natural Philosophy (Principia) in 1687 and Opticks in 1704.
+In 1696 Newton was appointed warden of the Royal Mint, in order that he
+might apply his mathematical talents to the reformation of the currency—although
+Voltaire maintained that he was appointed because the Treasurer, Lord Halifax,
+was besotted with Newton’s niece. Throughout his life Newton engaged in run-
+ning feuds with Robert Hooke and Gottfried Leibniz (1646–1716) over credit for
+the initial development of the “rectilinear inertial principle” and calculus. With
+respect to the development of calculus, an investigative committee of the Royal
+Society found in favor of Newton, but this was scarcely surprising, since Newton,
+in his capacity as president of the society, appointed the committee and authored
+its fi nal report.
+Newton’s theory of universal gravitation was held to be a triumph of mecha-
+nistic explanation, since it integrated the laws of terrestrial and celestial motion
+ggrree5588662244__cchh0044..iinndddd 111177 1122//1144//0077 22::5555::2299 PPMM
+
+<!-- Page 142 -->
+
+118 CHAPTER 4: THE SCIENTIFIC REVOLUTION
+propounded by Galileo and Kepler (or at least approximations of them) and
+successfully explained a wide range of empirical data, such as the motion of the
+tides and centrifugal motion. Newton also followed Galileo in assuming that
+quantifi ed mechanistic laws could be extended to the atomistic components of
+material bodies, or corpuscles as Robert Boyle called them, and developed his own
+corpuscularian theory of light in Opticks (1704/1952), in which he treated light
+as a stream of material corpuscles. The triumph of the new mechanistic and math-
+ematical science, based upon quantifi ed effi cient causal explanations of matter in
+motion, appeared complete.
+Yet not everyone rushed to embrace Newton’s gravitational theory, at least
+initially. It took almost 80 years for Newton’s theory to displace Descartes’ rival
+vortex theory on the continent of Europe. One of the advantages of Descartes’
+theory was that it explained why all the planetary orbits are in the same direction,
+which Newton’s theory did not. However, Newton’s theory eventually came to
+establish its supremacy, and deservedly so, since later Newtonians transformed
+what initially appeared to be empirical anomalies into substantive developments
+of Newtonian theory. For example, U. J. J. Leverrier (1811–1877) accommodated
+the initial failure of Newton’s theory to correctly predict the orbit of Uranus by
+postulating another planet beyond Uranus, which led to the discovery of the
+planet Neptune.
+Newton, who was a great admirer of Bacon, avowed that he had followed the
+method of inductive ascent in the development of his theories:
+Particular propositions are inferred from the phenomena, and afterwards rendered
+general by induction. Thus it was that the impenetrability, the mobility, and the
+impulsive force of bodies, and the laws of motion and gravitation, were discovered.
+—(1687/1969, p. 547)
+Yet this was patently not the case with respect to the development of Newton’s laws
+of motion, which involved the direct postulation of very abstract axioms. Newton’s
+fi rst law of motion states, “Every body continues in a state of rest, or of uniform
+motion in a right line, unless it is compelled to change that state by forces impressed
+upon it.” Since no body actually moves in a right line, because every body is sub-
+jected to external forces, this cannot be established by induction (Losee, 1980).
+MAN THE MACHINE
+The mechanistic forms of effi cient causal explanation that displaced teleological
+or fi nal causal explanation in astronomy and physics were eventually extended to
+biology and psychology. One of the fi rst and most infl uential mechanistic expla-
+nations of a biological process was William Harvey’s account of the circulation
+ggrree5588662244__cchh0044..iinndddd 111188 1122//1144//0077 22::5555::3300 PPMM
+
+<!-- Page 143 -->
+
+MAN THE MACHINE 119
+of the blood (1628/1989), in which he claimed that the veins and arteries form
+closed loops through which the heart pumps blood.
+The Spanish physician Gómez Pereira (1500–c.1559) extended mechanis-
+tic explanation to the whole human body. Pereira studied at the University of
+Salamanca, where he became acquainted with the work of the Merton mathemati-
+cians, notably Richard Swineshead’s text on motion, Liber Calculationum (Bandrés
+& Llavona, 1992). In Antoniana Margarita (1554), Pereira employed Swineshead’s
+theoretical system to explain the “vital” functions of animals in purely mecha-
+nistic terms. He explained all forms of animal behavior in terms of instincts and
+learned habits, without any reference to consciousness or reason, which he denied
+animals possessed. He provided a detailed account of refl exive behavior, in which
+he described how mechanical activation in sensory organs is transmitted by the
+nerves to the brain, which in turn activates nerves that produce mechanical move-
+ments in muscles. Pereira’s account anticipated the theory of refl exive behavior
+later developed by Descartes.
+René Descartes: Mind and Mechanism
+René Descartes was born in La Haye, France, in 1596, and educated at the Jesuit
+College at La Flèche. He attained a degree in law from the University of Poitiers, but
+did not practice, since his share of the family fortune furnished him with independ-
+ent fi nancial means. He enlisted privately in the Dutch army in 1618 and, while serv-
+ing at Ulm, had a dream “in a stove-heated room” that stimulated his interest in sci-
+ence and methodology. He traveled widely in Europe, returning to take up residence
+in Holland in 1628. During the next 20 years he changed his residence as many
+times, his whereabouts known only to his close friend in Paris, Marin Mersenne,
+with whom he corresponded but rarely saw. The reasons for his voluntary solitude
+are unclear, since few details of his private life are known. He never married, although
+he did have an illegitimate daughter, Francine, who died at the age of 5 in 1640.
+Between 1629 and 1633 Descartes produced his major work on physics and
+mathematics, The World, but suppressed its publication when he heard of Galileo’s
+troubles with the Inquisition. To no avail, as it turned out: Descartes’ works were
+placed on the Catholic Index of Prohibited Books, as was The World when it was
+published posthumously in 1664. In this work Descartes presented his vortex the-
+ory of celestial motion, which dominated continental Europe in the late 17th and
+early 18th century, until it was eventually displaced by Newton’s gravitational
+theory. Descartes introduced analytic geometry, with its system of what are now
+known as Cartesian coordinates, in Discourse on Method in 1637. His other major
+works on knowledge and the relation between mind and body were Meditations on
+First Philosophy (1641) and The Passions of the Soul (1649).
+In 1649 Queen Kristina of Sweden (1626–1689) invited the now famous
+Descartes to be her personal philosopher in residence. He accepted, but it
+ggrree5588662244__cchh0044..iinndddd 111199 1122//1144//0077 22::5555::3300 PPMM
+
+<!-- Page 144 -->
+
+120 CHAPTER 4: THE SCIENTIFIC REVOLUTION
+proved to be a fatal error. The philosopher who had developed many of his
+ideas in his bed (he created analytic geometry by meditating on a means of
+plotting the position of a fl y on the roof above his bed) did not take kindly to
+Queen Kristina’s tutorial schedule, which began at fi ve in the morning, or the
+severe Swedish winter. He died of pneumonia within six months and was buried
+in a Swedish cemetery. His last words are reputed to have been “So, my soul, it
+is time to part.”
+Insult followed injury. In 1666 the French resolved to have Descartes’ remains
+returned to his native land. The French ambassador to Sweden arranged to have
+the body exhumed and returned to France in a special copper coffi n constructed
+for this purpose, but on exhumation it was discovered that the coffi n was too
+short. The ambassador ordered that the head be severed from the body, to be
+returned to France separately. The body was shipped back to Paris, where it was
+buried in the church of Sainte-Genevieve-du-Mont, minus the right forefi nger,
+which the ambassador had cut off as a souvenir. Unfortunately, the head did not
+make it back as quickly. It was purloined by a Swedish army captain and changed
+hands many times among private collectors of exotica before being returned to
+Paris in 1806. For many years it was shelved in the Musée de l’Homme, part of
+the National Academy of Sciences, where it remained until very recently (Boakes,
+1984). The present curator was not happy that the head was being displayed
+among a collection of criminals and primitives and removed it from the shelf.
+Descartes’ skull.
+ggrree5588662244__cchh0044..iinndddd 112200 1122//1144//0077 22::5555::3300 PPMM
+
+<!-- Page 145 -->
+
+MAN THE MACHINE 121
+According to the last report,1 it is now housed in a drawer of one of his fi ling
+cabinets!
+Descartes’ Science Like Bacon, Descartes aimed to reconstruct human knowledge
+and dismissed the “shaky foundations” upon which the ancient and medieval
+tradition was based. He resolved
+never to accept anything as true if I did not have evident knowledge of its truth . . .
+to avoid precipitous conclusions and preconceptions, and to include nothing more in
+my judgments than what is presented to my mind so clearly and so distinctly that I
+had no occasion to doubt it.
+—(1637/1985, p. 120)
+Although he ended up affi rming many doctrines that were congenial to the Catho-
+lic Church, such as the existence of God and the immortality of the soul, Descartes
+insisted that any form of knowledge worth its name ought to be independently
+demonstrable through reason or empirical evidence.
+Also like Bacon, Descartes affi rmed the potential of the new mechanistic
+science to extend the power of humans over nature and to improve the human
+condition, in contrast to the contemplative natural philosophy of the scholas-
+tics. As he put it, the new science “opened my eyes to the possibility of g aining
+knowledge which would be very useful in life, and of discovering a practical
+philosophy which might replace the speculative philosophy taught in the
+schools”:
+Through this philosophy we could know the power and action of fi re, water, air, the
+stars, the heavens and all the other bodies in the environment . . . and we could use
+this knowledge . . . for all the purposes for which it is appropriate, and thus make
+ourselves, as it were, the lords and masters of nature. This is desirable not only for the
+invention of innumerable devices which would facilitate our enjoyment of the fruits
+of the earth and all the goods we fi nd there, but also, more importantly, for the main-
+tenance of health, which is undoubtedly the chief good and the foundation of all the
+other goods in this life.
+—(1637/1985, pp. 142–143)
+Like Galileo, Descartes was committed to the primary and secondary q uality
+distinction and abjured fi nal causal explanation in physics. Indeed, in one fun-
+damental respect his physics represented more of a paradigm of mechanistic
+explanation than Newton’s physics, since Descartes conceived of motion as the
+1I owe this piece of information to a former graduate student, Mark Sheehan, who visited the Musée de
+l’Homme to view Descartes’ skull.
+ggrree5588662244__cchh0044..iinndddd 112211 1122//1144//0077 22::5555::3311 PPMM
+
+<!-- Page 146 -->
+
+122 CHAPTER 4: THE SCIENTIFIC REVOLUTION
+rearrangement of bodies in space. According to Descartes’ vortex theory, planets
+are held in their orbits by swirling vortices of “subtle matter,” analogous to the
+motion of corks caught up in a whirlpool. Many held that such explanations in
+terms of “action-by-contact” were superior to explanations in terms of “action-at-
+a-distance,” such as explanations postulating “occult” forces of gravitational or
+magnetic attraction, which seemed as dubious as Aristotelian fi nal causal explana-
+tions in terms of bodies trying to reach their natural resting place.
+In contrast to Bacon and Galileo, Descartes was a rationalist. He claimed that
+knowledge of the fundamental nature of material bodies could be attained only by
+rational intuition, since it is not given to us in the fl ux of sense experience. Thus
+Descartes maintained that some general theoretical principles are known a priori,
+independently of sense experience. For example, in his discussion of the melting
+of a piece of wax in the Meditations (1641/1985), he argued that we determine that
+extension (in space) is the essential property of material bodies through rational
+intuition rather than by sense experience, since we recognize that it is the only
+property that remains constant throughout changes in the perceived taste, smell,
+color, shape, and size of the wax (1641/1985, p. 20–21).
+Descartes also claimed that very general principles of physics, such as “all
+motion is caused by impact or pressure” and “all bodies at rest remain at rest,
+and bodies in motion remain in motion, unless acted upon by some other body”
+(Newton’s fi rst law), could be rationally intuited, or deduced from rationally intu-
+ited principles (Buchdahl, 1969). He maintained that we have innate ideas and
+knowledge: that our ideas of God, infi nity, and perfection, and our knowledge
+of the axioms of geometry and logic are so “clear and distinct” that they must
+be accepted as true, even though they may have no counterparts in our sense
+experience.
+Descartes’ ideal of knowledge was a deductive structure with rationally intu-
+ited axioms at its apex. His goal was to identify axioms, or “fi rst principles,”
+that were so certain that they were immune from error or doubt. Although he
+rejected Bacon’s claim that such axioms must be established via inductive ascent,
+Descartes recognized that lower-level principles and laws have to be established by
+observation and experiment. For Descartes, rationally induced general laws place
+constraints on our theories of the motion of material bodies, but the particular
+content of laws governing their motion has to be empirically determined (Clark,
+1982). Descartes’ own work in optics and biology was based upon observation
+and experiment, and in the last chapter of Discourse on Method he acknowledged
+that competing scientifi c explanations can be adjudicated only by critical observa-
+tions, or what Bacon called crucial instances:
+I know of no other means to discover this than by seeking further observations whose
+outcomes vary according to which of the ways provide the correct explanation.
+—(1637/1985, p. 144)
+ggrree5588662244__cchh0044..iinndddd 112222 1122//1144//0077 22::5555::3311 PPMM
+
+<!-- Page 147 -->
+
+MAN THE MACHINE 123
+Animal Automatism One of Descartes’ most signifi cant contributions to the
+history of science and psychology was his application of the mechanistic principles
+of effi cient causal explanation to the behavior of organic beings. In his Treatise
+on Man (the second part of The World), he advanced mechanistic explanations
+(in terms of matter in motion) of the biological and psychological functions of
+animals and humans. He maintained that
+the digestion of food, the beating of the heart and arteries, the nourishment and
+growth of the limbs, respiration, waking and sleeping, the reception by the exter-
+nal sense organs of light, sounds, smells, tastes, heat and other such qualities, the
+imprinting of the ideas of these qualities in the organ of the “common” sense and
+the imagination, the retention or stamping of these ideas in the memory, the internal
+movements of the appetites and passions, and fi nally the external movement of all
+the limbs . . . follow from the mere arrangement of the machine’s organs every bit as
+naturally as the movements of a clock or other automaton [moving machine] follow
+from the arrangement of its counter-weights and wheels.
+—(1664/1985, p. 108)
+One of Descartes’ best known contributions in this area was his detailed
+description of refl exive behavior. Although Galen had identifi ed simple refl exes
+such as the pupillary refl ex, Descartes was the fi rst to provide a detailed physi-
+ological account of refl exive behavior, which he characterized as automatic and
+involuntary:
+If someone suddenly thrusts his hand in front of our eyes as if to strike us, then
+even if we know he is our friend, that he is doing this only in fun, and that he will
+take care not to harm us, we still fi nd it diffi cult to prevent ourselves from clos-
+ing our eyes. This shows that it is not through the mediation of our soul that they
+close, since this action is contrary to our volition, which is the only, or at least the
+principle, activity of the soul. They close rather because the mechanism of our body
+is so composed that the movement of the hand towards our eyes produces another
+movement in our brain, which directs the animal spirits into our muscles that make
+our eyelids drop.
+—(1649/1985, pp. 333–334)
+Descartes called such behavior refl exive because he believed that in the case of
+automatic and involuntary behavior, animal spirits are “refl ected” in the brain in
+the fashion that light is refl ected on the surface of a liquid (Boakes, 1984).
+Descartes claimed that sensory organs are connected to pores in the brain
+via a system of “delicate threads” within the nerves and that the pores in the
+brain are capable of directing animal spirits though the nerves to the muscles. In
+the case of a person who withdraws a foot when it comes into contact with fi re,
+ggrree5588662244__cchh0044..iinndddd 112233 1122//1144//0077 22::5555::3322 PPMM
+
+<!-- Page 148 -->
+
+124 CHAPTER 4: THE SCIENTIFIC REVOLUTION
+Descartes supposed that the moving par-
+ticles of the fi re interact with receptors in
+the foot, which pull on the nerve threads
+connected to the pores of the brain. This
+action in turn causes the release of animal
+spirits, which fl ow through the nerves to
+the muscles of the foot, causing it to be
+withdrawn from the fi re:
+Next, to understand how the external
+objects which strike the sense organs
+can prompt this machine to move its
+limbs in numerous different ways, you
+should consider that the tiny fi bres
+(which, as I have already told you,
+come from the innermost region of its
+brain and compose the marrow of the
+nerves) are so arranged in each part of
+the machine that serves as the organ
+of some sense that they can be easily
+moved by the objects of that sense.
+Man refl exively withdrawing foot from fi re, illustrating nerve And when they are moved, with how-
+pathway to brain. From Descartes: Treatise on Man (1664).
+ever little force, they simultaneously
+pull the parts of the brain from which
+they come, and thereby open the entrances to certain pores in the internal surface
+of the brain. Through these pores the animal spirits in the cavities of the brain
+immediately begin to make their way back into the nerves and so to the muscles
+which serve to cause movements in the machine.
+—(1664/1985, p. 101)
+Descartes claimed that this mechanistic refl exive form of explanation could be
+extended to all animal and much of human behavior and suggested that
+This will not seem at all strange to those who know how many kinds of automatons,
+or moving machines, the skill of man can construct with the use of very few parts, in
+comparison with the great multitude of bones, muscles, nerves, arteries, veins, and
+all the other parts that are in the body of any animal. For they will regard this body
+as a machine which, having been made by the hands of God, is incomparably better
+ordered than any machine that can be devised by man, and contains in itself move-
+ments more wonderful than those in any such machine.
+—(1637/1985, p. 139)
+ggrree5588662244__cchh0044..iinndddd 112244 1122//1144//0077 22::5555::3322 PPMM
+
+<!-- Page 149 -->
+
+MAN THE MACHINE 125
+Descartes’ conception of the living body as an automaton or “moving machine”
+may have been inspired by the mechanical statues found in the royal gardens of
+his day, such as those in the chateau of Saint-Germain-en-Laye outside Paris (which
+Descartes may have visited), powered by water and triggered by mechanical plates
+embedded in footpaths. The general form of Descartes’ account did not mark much
+of an advance over the medieval theory of the inner senses. He retained Aristotle’s
+common sense and Galen’s “animal spirits,” and many of the details of his account
+were empirically falsifi ed within his own lifetime. However, Descartes’ account
+was revolutionary because he applied mechanistic refl exive explanation not only
+to innate refl exes such as the pupillary refl ex and involuntary behavior such as
+digestion, yawning, and sleeping, but also to many forms of animal and human
+behavior based upon learning and memory: “movements which are so appropriate
+not only to the actions of objects presented to our senses, but also to the passions
+and the impressions found in memory” (1664/1985, p. 108). Like 20th-century
+behaviorist psychologists, he maintained that the learned behavior of animals,
+and much of the learned behavior of humans, is as automatic and involuntary as
+innate refl exes and instincts and can be explained without reference to consciousness
+or cognition. Like Gómez Pereira, Descartes held that animals lack consciousness
+and reason, which he believed justifi ed his own practice of dissecting live animals,
+whose yelps and howls he treated as merely mechanical noises.
+Mind and Body Although Descartes believed that mechanistic refl exive forms of
+explanation could account for all animal behavior and some human behavior, he
+denied that they could account for voluntary human behavior. Descartes did not
+simply maintain, as many contemporary cognitive psychologists would maintain,
+that some human behaviors are nonrefl exive because they involve some form
+of internal cognitive processing and thus require a more complex mechanistic
+explanation. Rather, he claimed that voluntary human behavior could not be
+explained mechanistically at all. According to Descartes, some human behavior is
+generated through the action of a distinct immaterial soul, whose essence is thought.
+Descartes was perhaps the most famous substance dualist and interactionist. He
+claimed that the immaterial mind, the seat of reason, consciousness, and will,
+interacts with the material body via the pineal gland in the brain, which enables
+the immaterial mind to direct the animal spirits to different muscles and generate
+different forms of behavior at will.
+Why did Descartes hold such a view? It is easy to understand how he might
+have been motivated to do so. To extend mechanistic explanation to the human
+mind would have been to deny the existence of the immortal soul, still a danger-
+ous heresy in Descartes’ day. He was well aware of the fate of Bruno and Galileo
+and withdrew his general mechanistic work The World when he learned of G alileo’s
+ggrree5588662244__cchh0044..iinndddd 112255 1122//1144//0077 22::5555::3333 PPMM
+
+<!-- Page 150 -->
+
+126 CHAPTER 4: THE SCIENTIFIC REVOLUTION
+condemnation by the Inquisition. Later critics have speculated that Descartes did
+not really believe that human psychology is exempt from mechanistic explana-
+tion, but only publicly advocated such a view to avoid persecution (Lafl eur, 1956).
+Julien Offroy de La Mettrie (1709–1751), who did extend the principles of mecha-
+nistic explanation to human thought and voluntary behavior, was one of the fi rst
+to accuse Descartes of being a closet materialist about the mind.
+Descartes’ primary argument for his ontological distinction between mind
+and body was epistemological in nature and was part of his general project to set
+knowledge upon fi rm and certain foundations. In reaction to ancient and Renais-
+sance skepticism about beliefs derived from our sense experience of the world,
+Descartes sought a “fi rst principle” for his knowledge system that was so certain
+that it was immune from error or doubt. He followed Augustine and Avicenna in
+claiming that although he could doubt that he had a material body, he could not
+doubt that he existed as a thinking being, since thinking presupposes existence
+and doubting is a form of thinking. Consequently,
+observing, that this truth “I am thinking, therefore I exist” was so fi rm and sure that
+all the most extravagant suppositions of the skeptics were incapable of shaking it, I
+decided that I could accept it without scruple as the fi rst principle of the philosophy I
+was seeking.
+—(1637/1985, p. 127)
+Given that he could without contradiction or absurdity doubt the existence
+of his body (however exaggerated this doubt might be, including the imagination
+of an “evil demon” intent on deceiving him), but could not doubt his existence
+as a thinking being, Descartes claimed that he could not be identical to his body,
+since “Otherwise, if I had doubts about my body, I would also have doubts about
+myself, and I cannot have doubts about that” (1643/1985, p. 412).
+Whatever the merits of this argument, Descartes’ interactionist account of
+the relation between mind and body created a serious problem. How could an
+immaterial mind, with no physical properties or spatial location, interact with a
+material body extended in space? This was an especially pressing problem for Des-
+cartes, given his commitment to the effi cient causal explanation of the motion of
+material bodies in terms of action by contact and his recognition of the intimate
+connection between mind and body, particularly in relation to the appetites and
+emotions:
+Nature also teaches me, by these sensations of pain, hunger, thirst and so on, that I am
+not merely present in my body as a sailor is present in a ship, but that I am very closely
+joined and, as it were, intermingled with it, so that I and the body form a unit.
+—(1641/1985, p. 56)
+ggrree5588662244__cchh0044..iinndddd 112266 1122//1144//0077 22::5555::3333 PPMM
+
+<!-- Page 151 -->
+
+MAN THE MACHINE 127
+This problem, which had vexed Queen Kristina of Sweden, was one that Descartes
+never resolved.
+Materialist critics such as Pierre Gassendi (1592–1655), Hobbes, and La Mettrie
+maintained that the functions of the human mind, including language and reason-
+ing, could be ascribed to the brain and extended mechanistic causal explanation
+to encompass all human thought and behavior. Other critics defended mind-body
+dualism but rejected interactionism. Arnold Geulincx (1625–1669) and Nicholas
+Malebranche (1638–1715) held that God directly causes the regular correlation
+between mental and bodily states, a view known as occasionalism, and Leibniz
+claimed that God maintains the regular correlation of mental and bodily states
+through a pre-established harmony between mental and bodily states. However,
+neither position proved popular with later dualists.
+Machine and Animal Intelligence Descartes offered arguments in support of his claim
+that mechanistic refl exive explanation could not be extended to voluntary human
+behavior that were independent of his epistemological arguments for mind-body
+dualism. He claimed that voluntary human behavior could always be distinguished
+from the behavior of animals or machines, even if such machines were physically
+modeled upon real people. These arguments are especially interesting because
+they anticipate late-20th-century debates about whether machines such as digital
+computers are capable of simulating language comprehension and problem solving.
+According to Descartes, all machines, including animal automata, are incapa-
+ble of language. Although suitable machines could be created (and animals such as
+parrots taught) to produce appropriate noises in appropriate stimulus s ituations—
+for example, to utter “I am in pain” when their receptors were d amaged— Descartes
+claimed that
+it is not conceivable that such a machine should produce different arrangements of
+words so as to give an appropriately meaningful answer to whatever is said in its pres-
+ence, as even the dullest of men can do.
+—(1637/1985, p. 140)
+Although he acknowledged that machines could perform some complex tasks
+better than humans (a mechanical clock can measure time better than a person
+can), Descartes claimed that no machine is capable of problem solving in the form
+of rational adaptation to novel situations:
+Even though such machines might do some things as well as we do them, or perhaps
+even better, they would inevitably fail in others, which would reveal that they were
+acting not through understanding but only from the disposition of their organs.
+—(1637/1985, p. 140)
+ggrree5588662244__cchh0044..iinndddd 112277 1122//2244//0077 55::2299::5522 PPMM
+
+<!-- Page 152 -->
+
+128 CHAPTER 4: THE SCIENTIFIC REVOLUTION
+These arguments highlight the peculiar nature of Descartes’ contribution to
+psychology. In claiming that mechanistic explanation could be extended to the
+realm of animal and human behavior, he emphasized the continuity of animal
+and human behavior with other material processes in nature. In denying that
+mechanistic refl exive explanation could be extended to human thought and vol-
+untary behavior, he postulated a fundamental discontinuity between animals and
+human beings.
+Descartes believed that the extension of mechanistic explanation to human
+thought and voluntary behavior undermined human freedom and claimed that
+the idea that humans are no different from animals posed a serious threat to
+morality and religion:
+For after the errors of those who deny God . . . there is none that leads weak minds
+further from the path of virtue than that of imagining that the souls of beasts are of
+the same nature as ours, and hence that after this present life we have nothing to fear
+or to hope for, any more than fl ies and ants.
+—(1637/1985, p. 141)
+It is important to recognize that Descartes’ arguments against animal and
+machine language and problem solving were independent of his arguments for
+mind-body dualism. Conwy Lloyd Morgan, the comparative psychologist, and
+John B. Watson, the behaviorist psychologist, were later materialists who also
+maintained that only humans have the capacity for language, and the question
+of whether machines such as digital computers are capable of genuinely creative
+problem solving remains a lively issue for contemporary psychologists and phi-
+losophers (Boden, 2003; Dreyfus, 1992).
+Vitalism Descartes extended the principles of mechanistic explanation to the
+functions of the Aristotelian nutritive and sensitive souls, but not to those of
+the rational soul. In so doing, he took the revolutionary step of separating the
+principles of life and mind.
+From the time of the ancient Greeks, the psyche had been treated as the actu-
+alizing principle of both life and mind. By maintaining that vital processes such as
+digestion, respiration, and sensory-motor refl exes are a product of the organized
+matter of the body machine, Descartes denied that the rational soul or mind is
+responsible for the life of the material body:
+In order to explain these functions, then, it is not necessary to conceive of this machine
+as having any vegetative or sensitive soul or other principle of movement and life.
+—(Treatise on Man, 1664/1985, p. 108)
+ggrree5588662244__cchh0044..iinndddd 112288 1122//1144//0077 22::5555::3344 PPMM
+
+<!-- Page 153 -->
+
+MAN THE MACHINE 129
+This was the fundamental idea behind the mechanistic conception of biological
+functions. Or, as Descartes put it,
+And let us recognize that the difference between the body of a living man and that
+of a dead man is just like the difference between, on the one hand, a watch or other
+automaton (that is, a self-moving machine), when it is wound up and contains in itself
+the corporeal principle of the movements for which it was designed, together with
+everything else required for its operation; and on the other hand, the same watch or
+machine when it is broken and the principle of its movement ceases to be active.
+—(1649/1985, pp. 329–330)
+Thus Descartes did not treat the immaterial soul as the source of the vitality
+of the material body or the departure of the immaterial soul as the cause of bodily
+death. According to Descartes, this common error likely arose from “supposing
+that since dead bodies are devoid of heat and movement, it is the absence of the
+soul which causes this cessation of movement and heat”:
+Thus it has been believed, without justifi cation, that our natural heat and all these
+movements of our bodies depend upon our soul; whereas we ought to hold, on the
+contrary, that the soul takes its leave when we die only because this heat ceases and
+the organs which bring about bodily movement decay.
+—(1649/1985, p. 329)
+This account of biological functions in terms of an emergent vital force of
+organized matter stimulated a fertile tradition of physiological research, although
+it later became the object of criticism by reductive physiologists, notably in the
+19th century.
+Introspection and Images Descartes claimed that we have infallible introspective
+knowledge: that our conscious apprehension of our own mental states such
+as sensations, beliefs, emotions, thoughts, and memories is direct and certain.
+In developing his system of knowledge from fi rst principles, Descartes argued
+that although he could doubt that sense experience provides knowledge of the
+existence and properties of material bodies in the external world, he could not
+doubt the contents of his sense experience—of how things appeared to his senses.
+Consequently, even if his judgment that he was sitting by a bright and crackling
+fi re was false because he was dreaming this while asleep in bed, he could at least
+be certain that this was how things appeared to his consciousness (1641/1985,
+p. 19). In this view, as long as we restrict our judgments to the contents of our
+consciousness they are immune from error. We err only when we make inferences
+about material bodies in the external world on the basis of our sense experience.
+ggrree5588662244__cchh0044..iinndddd 112299 1122//1144//0077 22::5555::3344 PPMM
+
+<!-- Page 154 -->
+
+130 CHAPTER 4: THE SCIENTIFIC REVOLUTION
+The view that our knowledge of mental states is direct and certain was main-
+tained by most psychologists and philosophers throughout the succeeding centu-
+ries and remained popular until the early decades of the 20th century. Empiricists
+such as John Locke (1632–1704), George Berkeley (1685–1753), and David Hume
+(1711–1776), who rejected Descartes’ rationalist claims about innate ideas and the
+rational intuition of fundamental scientifi c principles and maintained that all our
+ideas and knowledge are derived from experience, also embraced this account of
+self-knowledge of mental states.
+Descartes also articulated the problem about our knowledge of the external
+world that vexed later empiricists: What justifi cation do we have for making infer-
+ences about the existence and properties of material bodies in the external world
+on the basis of our sense experience? How do we know that there are material
+bodies in the external world that have the colors and shapes that we attribute to
+them on the basis of sense experience? This was not a problem generated by the
+mere possibility of doubting the existence and properties of material bodies in the
+external world, but was a product of Descartes’ treatment of thoughts and ideas as
+images.
+Descartes characterized the problem about our knowledge of the existence
+and properties of material bodies in the external world as a problem about the
+justifi cation of our belief that our ideas of material bodies and their properties
+resemble material bodies and their properties:
+But the chief question at this point concerns the ideas which I take to be derived from
+things existing outside me: what is my reason for thinking that these resemble these
+things?
+—(1641/1985, p. 26)
+This was a serious problem for Descartes, since his commitment to the distinc-
+tion between primary and secondary qualities forced him to acknowledge that it
+was doubtful if our ideas of secondary qualities resemble the real qualities of mate-
+rial bodies:
+There may be a difference between the sensation we have of light (i.e. the idea of
+light which is formed in our imagination by the mediation of our eyes) and what is
+in the objects that produces that sensation within us (i.e. what is in the fl ame or the
+sun that we call by the name “light”). For although everyone is commonly convinced
+that the ideas we have in our minds are wholly similar to the objects from which they
+proceed, nevertheless I cannot see any reason which assures us that this is so.
+—(1664/1985, p. 81)
+Later empiricists such as Locke, Berkeley, and Hume shared Descartes’ con-
+ception of thoughts and ideas as images. They also recognized that this caused
+ggrree5588662244__cchh0044..iinndddd 113300 1122//1144//0077 22::5555::3344 PPMM
+
+<!-- Page 155 -->
+
+MAN THE MACHINE 131
+a problem for the justifi cation of our claims to have knowledge of the existence
+and properties of material bodies in the external world, since we cannot directly
+compare imagistic thoughts with external reality, in the way that we can compare
+a representational painting to the actual physical scene it is intended to represent
+(a painting of the Grand Canal in Venice with the actual Grand Canal in Venice,
+for example). This conception of thoughts as images remained popular for many
+centuries, and impeded the development of a psychology of thought until the
+early 20th century.
+Nevertheless, Descartes also deserves credit for being one of the earliest theo-
+rists to recognize that thoughts cannot be equated with images. He noted that
+although we can conceive of both a triangle and a chiliagon (a fi gure with a thou-
+sand sides) and can form an image of a triangle, we cannot form an image of a
+chiliagon (1641/1985, p. 50).
+La Mettrie: Machine Man
+Descartes had taken the revolutionary step of extending the principles of mech-
+anistic explanation to all animal and some human behavior by treating such
+behavior as the product of matter in motion, but had resisted extending these
+principles to the human mind, whose material basis he denied. The French mili-
+tary physician Julien Offroy de La Mettrie had no such qualms and boldly declared
+that “man is a machine” and “there is in the whole universe only one diversely
+modifi ed substance” (1748/1996, p. 39).
+A native of Brittany, La Mettrie received his medical education at the Uni-
+versity of Leiden in Holland. He practiced as a physician in Leiden for a number
+of years, publishing papers on smallpox, venereal disease, and vertigo until
+commissioned as an army physician during the Franco-Austrian war. He is
+reputed to have developed his materialist views as a consequence of a fever
+contracted during the siege of Freiburg: The disorders of thought and emotion
+induced by the fever left a lasting impression on him. La Mettrie published
+The Natural History of the Soul in 1745, in which he argued that humans are
+complex animals. This work created such an uproar amongst the French clergy
+that La Mettrie was forced to return to Holland. In 1748 he produced his major
+work Man Machine, in which he argued that the principles of mechanistic expla-
+nation should be extended to all human behavior, including human thought
+and language. When the blatant materialism and implicit atheism of this work
+proved too much even for the enlightened Dutch, La Mettrie moved to Berlin at
+the invitation of Frederick the Great, who became his biographer. There he died
+prematurely, through hedonistic overindulgence, according to his meaner crit-
+ics. He expired during a bout of indigestion brought on by a surfeit of pheasant
+and truffl es.
+ggrree5588662244__cchh0044..iinndddd 113311 1122//1144//0077 22::5555::3344 PPMM
+
+<!-- Page 156 -->
+
+132 CHAPTER 4: THE SCIENTIFIC REVOLUTION
+Organized Matter La Mettrie believed that the organization of matter held the
+key to the understanding of all animal and human behavior:
+Since all the soul’s faculties depend so much on the specifi c organization of the brain
+and of the whole body that they are clearly nothing but that very organization, the
+machine is perfectly explained!
+—(1748/1996, p. 26)
+He claimed that “organized matter is endowed with a motive principle, which
+alone distinguishes it from unorganized matter” and that the gradations of com-
+plexity of animal and human behavior are “dictated by the diversity of this organ-
+ization” (1748, p. 33). He consequently maintained that human thought is an
+emergent property of matter at a complex level of organization:
+I believe thought to be so little incompatible with organized matter, that it seems to
+be one of its properties, like electricity, motive power, impenetrability, extension, etc.
+—(1748/1996, p. 35)
+The extension of mechanistic explanation to thought was so obvious and
+natural, according to La Mettrie, that Descartes must have been convinced of it.
+Although Descartes, who “understood animal nature and was the fi rst to demon-
+strate perfectly that animals were mere machines,” publicly avowed that mind
+and body are distinct substances, “it is obvious that it was only a trick, a cunning
+device to make the theologians swallow the poison hidden behind an analogy
+that strikes everyone and that they alone cannot see”:
+For it is precisely that strong analogy which forces all scholars and true judges to
+admit that, however much these haughty, vain beings . . . may wish to exalt them-
+selves, they are basically only animals and vertically crawling machines.
+—(1748/1996, p. 35)
+La Mettrie claimed that the man machine is materially continuous with the
+animal machine: “From animals to man there is no abrupt transition” (1748/1996,
+p. 13). He maintained that the man machine differs from the animal machine
+only in terms of the degree of complexity of its material organization:
+We can see that there is only one substance in the universe and that man is the most
+perfect one. He is to the ape and the cleverest animals what Huygen’s planetary clock
+is to one of Julien Leroy’s watches.
+—(1748/1996, pp. 33–34)
+La Mettrie held that physicians were “the only natural philosophers who have
+the right to speak on this subject” (1748, p. 5), since only their views were based
+ggrree5588662244__cchh0044..iinndddd 113322 1122//1144//0077 22::5555::3355 PPMM
+
+<!-- Page 157 -->
+
+MAN THE MACHINE 133
+upon “experience and observation alone” (1748, p. 4). He offered two forms of
+evidence in support of his materialist theory of mind and his claims about the
+continuity between animal and human machines. He documented the effects
+of various ingested substances, such as opium, wine, coffee, and red meat upon
+human thought and emotion and noted how damage caused to the “springs” of
+the human machine by fever or poisoning can produce severe disruption to men-
+tal functioning in the form of delusions and mania. He also appealed to the stud-
+ies in “comparative anatomy” conducted by the Oxford neuroanatomist Thomas
+Willis (1621–1675), author of The Anatomy of the Brain (1664) and Two Discourses
+Concerning the Soul of Beasts (1672):
+In general, the form and composition of the quadruped’s brain is more or less the
+same as man’s. Everywhere we fi nd the same shape and the same arrangement, with
+one essential difference: man, of all the animals, is the one with the largest and most
+convoluted brain, in relation to the volume of his body. Next come the ape, beaver,
+elephant, dog, fox, cat, etc.: these are the animals that are most like man, for we can
+also see in them the same graduated analogy concerning the corpus callosum.
+—(1748/1996, pp. 9–10)
+However, La Mettrie’s appeal to the effects of ingested substances, fever, and
+poisoning on mental functioning hardly established materialism. Although he
+demonstrated that many “states of the soul are . . . related to those of the body”
+(1748/1996, p. 9), regular correlation between mental and bodily states was entirely
+consistent with Descartes’ interactionist dualism and was in fact presupposed by
+it. Although the evidence from comparative anatomy supported the hierarchical
+gradation of human and animal psychology and behavior, it did not demonstrate
+their continuity. Many ancient and medieval theorists acknowledged the hier-
+archical gradation of humans and animals, but maintained that some psycho-
+logical capacities, such as abstract thought and language, are attributable only to
+humans.
+Strong and Weak Continuity La Mettrie avowed two forms of continuity between
+humans and animals, which should be carefully distinguished. One is the weak
+continuity between humans and animals presupposed by materialism: the notion
+that humans and animals, like vegetables and minerals, are composed of the same
+basic material, differently organized. La Mettrie rejected Descartes’ claim that
+humans and animals are fundamentally discontinuous because humans have an
+immaterial mind and animals do not. As he put it,
+Man is not molded from a more precious clay; nature has used one and the same
+dough, merely changing the yeast.
+—(1748/1996, p. 20)
+ggrree5588662244__cchh0044..iinndddd 113333 1122//1144//0077 22::5555::3355 PPMM
+
+<!-- Page 158 -->
+
+134 CHAPTER 4: THE SCIENTIFIC REVOLUTION
+Thus he maintained that human thought is materially instantiated in the human
+brain.
+However, La Mettrie also argued for strong continuity between human and
+animal psychology and behavior. He claimed that differences between human
+and animal psychology and behavior are merely differences in degree and not
+fundamental differences in kind. According to this view, human psychology
+and behavior are fundamentally identical to animal psychology and behavior.
+Human psychology and behavior may be re-identifi ed in other animals, albeit
+in attenuated form, since human psychology and behavior are merely more
+complex forms of animal psychology and behavior. Thus La Mettrie argued that
+thought and language could be attributed to animals, although in attenuated
+form.
+However, the weak continuity of materialism does not entail the strong con-
+tinuity of human and animal psychology and behavior, any more than the weak
+continuity of the inorganic and organic presupposed by materialism entails strong
+continuity of structure and function between the inorganic and organic. Rocks
+and plants are both composed of organized matter, but plants have properties,
+such as the ability to perform photosynthesis, that are not instantiated to any
+degree in rocks. Consequently, although humans and animals are both composed
+of o rganized matter, it might still be the case that humans have some psychologi-
+cal capacities, such as the capacity for abstract thought or language, that are not
+instantiated to any degree in animals. Whether or not the capacity for abstract
+thought or language is in fact instantiated in animals is a separate empirical
+matter.
+The weak continuity of materialism and strong continuity between human
+and animal psychology and behavior became associated historically because
+Descartes rejected both materialism and strong continuity and because most
+later evolutionary theorists, comparative psychologists, and behaviorists were
+materialists who, like La Mettrie, affi rmed strong continuity. However, there is
+no i ntrinsic c onnection between materialism and strong continuity. Aristotle and
+other ancient and medieval theorists affi rmed the weak continuity of materialism
+but denied strong continuity between human and animal psychology and behav-
+ior, as did the comparative psychologist Conwy Lloyd Morgan and the behaviorist
+psychologist John B. Watson, who were both materialists but maintained that
+only humans have the capacity for language.
+Animals and Language Although it was not mandated by his materialism, La
+Mettrie maintained that human and animal psychology and behavior are strongly
+continuous. He acknowledged that only humans speak a language, but denied
+that machines and animals are incapable of learning a language. He believed
+that language is the product of intelligence and learning, which he held to be a
+function of brain size. Given the anatomical and behavioral similarities between
+ggrree5588662244__cchh0044..iinndddd 113344 1122//1144//0077 22::5555::3355 PPMM
+
+<!-- Page 159 -->
+
+MAN THE MACHINE 135
+apes and humans, La Mettrie was convinced that apes are capable of learning
+language:
+The similarity of the ape’s structure and functions is such that I hardly doubt at all that
+if this animal were perfectly trained, we would succeed in teaching him to utter sounds
+and consequently to learn a language. Then he would no longer be a wild man, nor an
+imperfect man, but a perfect man, a little man of the town, with as much substance or
+muscle for thinking and taking advantage of his education as we have.
+—(1748/1996, p. 12)
+He suggested teaching apes language using the techniques developed by J. C.
+Amman (1700/1965) for teaching sign language to deaf-mutes. In the 20th cen-
+tury, Allen and Beatrice Gardner used similar techniques to teach the sign lan-
+guage of the deaf to chimpanzees (Gardner & Gardner, 1969).
+La Mettrie claimed that the linguistic competencies of humans, like their
+developed forms of social and cultural behavior, are based upon interpersonal
+imitation or “mimicry,” a form of refl exive learning that is as automatic as the
+pupillary refl ex:
+We take everything—gestures, accents, etc.—from those we live with, in the same way
+as the eyelid blinks under the threat of a blow that is foreseen, or as the body of a spec-
+tator imitates mechanically, and despite himself, all the movements of a good mime.
+—(1748/1996, p. 9)
+He maintained that animals are also capable of imitation or “mimicry,” and noted
+how a monkey can learn “to put on and take off his little hat or to ride a trained
+dog” (1748/1996, p. 13). Similar accounts of imitative learning formed the basis
+of the theories of social behavior developed by Gustav Le Bon (1841–1931) and
+Gabriel Tarde (1843–1904) in the late 19th century, which played a major role
+in shaping the development of 20th-century American social psychology. Like
+20th-century behaviorist psychologists, La Mettrie believed that the same basic
+principles of learning applied to animals and humans and that these principles
+could be exploited to improve their condition through training and education.
+God, Nature, and Morality Although La Mettrie affi rmed the probability of the
+existence of a “supreme Being” (1748/1996, p. 22), he denied that it vouchsafed
+the doctrines of any established religion. He was scornful of academic arguments
+for the existence of God, particularly those based upon the diversity and functional
+adaptation of animal species, and the apparently purposive nature of biological
+development. He acknowledged that it was unlikely that such features were the
+product of blind chance, but claimed that “destroying chance does not prove the
+ggrree5588662244__cchh0044..iinndddd 113355 1122//1144//0077 22::5555::3355 PPMM
+
+<!-- Page 160 -->
+
+136 CHAPTER 4: THE SCIENTIFIC REVOLUTION
+existence of a supreme Being” (1748/1996, p. 24). La Mettrie suggested another
+alternative, that functionality and apparent teleology are simply a product of the
+ordered development of nature itself:
+The eye sees only because it happens to be organized and placed as it is; and that,
+given the same rules of movement followed by nature in the generation and devel-
+opment of bodies, it was not possible for that wonderful organ to be organized and
+placed otherwise.
+—(1748/1996, p. 25)
+Certainly La Mettrie took seriously the possibility that there is no purpose or
+design informing human existence:
+Who knows after all whether the reason for man’s existence is not his existence itself.
+Perhaps he was thrown by chance on a point on the earth’s surface without being
+able to say how or why, but simply that he has to live and die, like mushrooms which
+appear from one day to the next, or fl owers which grow beside ditches and cover
+walls.
+—(1748/1996, p. 23)
+Such an uncompromising materialist and mechanistic conception appeared
+to paint a very bleak picture of human nature. It suggested that humans are no
+better than animals, concerned only with the satisfaction of sensual desires, espe-
+cially given La Mettrie’s celebration of the sexual nature of the human machine.
+This was precisely the consequence of treating men as machines that Descartes
+had feared.
+Yet La Mettrie was rather more sanguine about the prospects for human-
+ity. He questioned the common assumption that humans are morally superior
+to animals, noting that animals rarely murder or torture each other or engage
+in r eligious wars and claimed that some animals are capable of moral emotions
+such as remorse. More signifi cantly, he stressed that a materialist and mechanistic
+account of human thought and behavior does not preclude human virtue, since it
+treats human virtue as a product of material organization on a par with thought
+and digestion:
+Since thought clearly develops with the organs, why should not the matter that com-
+poses them not also be capable of remorse once it has acquired, with time, the faculty
+of feeling? . . .
+Given the slightest principle of movement, animate bodies will have everything
+they need to move, feel, think, repent, and in a word, behave in the physical sphere
+and in the moral sphere which depends upon it.
+—(1748/1996, p. 26)
+ggrree5588662244__cchh0044..iinndddd 113366 1122//1144//0077 22::5555::3366 PPMM
+
+<!-- Page 161 -->
+
+MAN THE MACHINE 137
+According to La Mettrie, there is no special reason to suppose that human machines
+would pursue their own selfi sh interests at the expense of others. On the contrary:
+The materialist, convinced, whatever his vanity might object, that he is only a machine
+or an animal, will not ill-treat his fellows. . . . Following the law of nature given to all
+animals, he does not want to do to others what he would not like others to do to him.
+—(1748/1996, p. 39)
+Although La Mettrie’s work had a major impact in the 18th century, his name
+became associated with such odium that he was rarely cited and consequently had
+little effect on the later development of psychology. Although his commitment to
+strong continuity presaged a fundamental principle of evolutionary theory and
+behaviorist psychology, later evolutionists and behaviorist psychologists seem to
+have been unaware of his work. When Thomas Huxley (1825–1895) addressed
+the British Association in Belfast in 1874 on “The Hypothesis That Animals Are
+Automata, and Its History,” he gave due credit to Descartes but made no mention
+of La Mettrie (Boakes, 1984).
+Thomas Hobbes: Empiricism, Materialism, and Individualism
+The Englishman Thomas Hobbes (1588–1679) shared La Mettrie’s materialist vision
+of human psychology but took a rather more pessimistic view of its implications.
+Born in Malmesbury, England, Hobbes was educated at Oxford University and served
+as Francis Bacon’s secretary for a short period. He entered the employment of Wil-
+liam Cavendish, third Earl of Devonshire, and for most of the rest of his life served
+as secretary and tutor to the family. This put him in some danger during the period
+leading up to the English Civil War. Hobbes fl ed to France in 1640 and did not return
+until 1651. He made several tours of Europe, where he met many of the leading
+theorists of his day, such as Galileo and Descartes, with whom he became friends. He
+lived to age 91, producing translations of Homer’s Iliad and Odyssey at age 87.
+Hobbes’s main interests were political, and his major work Leviathan (1651) is
+primarily an argument in favor of absolute monarchy. His aim was to devise a politi-
+cal system capable of avoiding the horrors of civil war, having been greatly affected
+by the English Civil War, albeit at a distance. His psychological theories are mainly to
+be found in On Human Nature (1640) and the preliminary chapters of Leviathan.
+Hobbes claimed that his psychological interests were aroused after having
+read Euclid’s Elements at age 40; it induced his reverence for the self-contained
+axiomatic systems of geometry. Consequently, he tried to deduce his claims about
+human psychology and society from a number of self-evident axioms, based upon
+the principles of the new mechanistic science. Although Hobbes followed Des-
+cartes in adopting a deductive approach to explanation, he rejected Descartes’
+rationalist account of knowledge and denied the existence of innate ideas.
+ggrree5588662244__cchh0044..iinndddd 113377 1122//1144//0077 22::5555::3366 PPMM
+
+<!-- Page 162 -->
+
+138 CHAPTER 4: THE SCIENTIFIC REVOLUTION
+Hobbes was a psychological empiricist who maintained that all our ideas or
+concepts are derived from sense experience:
+The original of them all is that which we call sense; for there is no conception in
+a man’s mind which hath not at fi rst, totally, or by parts, been begotten upon the
+organs of sense. The rest are derived from that original.
+—(1651/1966, p. 1)
+Hobbes was also committed to the homogeneity of cognition and sense per-
+ception: He claimed that the difference between cognition and sense perception
+is a matter of degree (of intensity), but not a fundamental difference in kind. On
+this account, thinking of a tree in blossom is like seeing and smelling a tree in
+blossom, only fainter. Hobbes agreed with Descartes that ideas are like pictorial
+images, since he maintained, with later empiricists, that our ideas are copies or
+faint images of sense impressions of objects:
+For after the object is removed, or the eye shut, we still retain an image of the thing
+seen, though more obscure than when we see it. . . . Imagination therefore is nothing
+more than decaying sense.
+—(1651/1966, p. 4)
+Hobbes derived his fi rst principles from the materialism of the new mechanis-
+tic science. Adopting a reductive explanatory approach to human psychology, he
+claimed that mental states and processes are “nothing really, but motion in some
+internal substance of the head”:
+which motion not stopping there, but proceeding to the heart, of necessity must
+either help or hinder the motion which is called vital; when it helpeth, it is called
+delight, contentment, or pleasure, which is nothing really but motion about the
+heart, as conception is nothing but motion in the head; and the objects that cause it
+are called pleasant or delightful.
+—(1640/1966, p. 31)
+Hobbes also embraced a form of psychological hedonism, according to which all
+human behavior is determined by the desire to attain pleasure and avoid pain:
+This motion, in which consisteth pleasure or pain, is also a solicitation or provocation
+either to draw near the thing that pleaseth, or to retire from the thing that d ispleaseth;
+and this solicitation is the endeavor or internal beginning of animal motion, which when
+the object delighteth, is called appetite; and when it displeaseth, it is called aversion.
+—(1640/1966, p. 31)
+ggrree5588662244__cchh0044..iinndddd 113388 1122//1144//0077 22::5555::3366 PPMM
+
+<!-- Page 163 -->
+
+MAN THE MACHINE 139
+Hobbes famously claimed that the
+unbridled pursuit of selfi sh interest would
+inevitably lead to the war “of every man,
+against every man” and that in such a
+“state of nature” the life of man would
+be “solitary, poor, nasty, brutish, and
+short” (1651/1966, p. 113). He believed
+that humans embrace systems of civic
+government out of self-interest, in order
+to avoid these anticipated consequences.
+He argued that an absolute monarchy, in
+which individuals abandon their rights
+to a sovereign power, is the most just and
+effi cient form of government, although
+he maintained that any form of govern-
+ment is better than none.
+Hobbes’s explanatory reductionism
+is also manifest in his individualism,
+which formed the basis of his account of
+social community in Leviathan. According
+to Hobbes, societies or social groups are
+nothing more than collections of human
+individuals, and social behavior is noth-
+ing more than the aggregate behavior of
+collections of human individuals, deter-
+mined by their pursuit of pleasure and
+avoidance of pain. This individualistic
+conception of the social was characteristic
+of later empiricist concepts of the social,
+Frontispiece of Hobbes’s Leviathan (1651). Body of state
+from Adam Smith (1723–1790) to Floyd represented as aggregation of individual persons.
+Allport (1890–1978), who determined the
+course of American social psychology in
+the early 20th century (Katz, 1991).
+In advancing these materialist and mechanistic explanations of human psy-
+chology and behavior, Hobbes denied that humans have free will. He claimed that
+the “will” is just the most powerful appetite, or effi cient cause, and is the same in
+animals and men. He thus reduced fi nal causation in the realm of human psychol-
+ogy and behavior to effi cient causation:
+A fi nal cause has no place but in such things as have sense and will, and this also I . . .
+prove . . . to be an effi cient cause.
+—(1655/1966, p. 132)
+ggrree5588662244__cchh0044..iinndddd 113399 1122//1144//0077 22::5555::3366 PPMM
+
+<!-- Page 164 -->
+
+140 CHAPTER 4: THE SCIENTIFIC REVOLUTION
+Like La Mettrie, Hobbes was condemned by the religious establishment for
+his materialist views. He was denied admission to the newly formed Royal Society,
+which is perhaps not that surprising, since although he was a vigorous advocate
+of the new mechanistic science, he did not make any substantive contribution to
+it. He did, however, take the fi rst step in extending mechanistic forms of explana-
+tion to mental processes. He offered tentative explanations of “trains of thought,”
+likening the “coherence” of thought to the “coherence” of matter. He suggested
+that ideas derived from sense experience are connected in our memory by their
+conjunction in our sense experience:
+The cause of the coherence or consequence of one conception to another, is their fi rst
+coherence or consequence at that time when they are produced by sense.
+—(1640/1966, p. 15)
+Hobbes is sometimes treated as the father of British empiricism and the
+founder of what later came to be known as associationist psychology. Yet although
+he was the fi rst to clearly articulate many of the distinctive principles of British
+empiricism, such as the principles of psychological empiricism and the homoge-
+neity of cognition and sense perception, and did suggest a mechanistic treatment
+of the association of thought, his contribution was more programmatic than sub-
+stantive. It was John Locke who detailed the origin of complex ideas in sense
+experience and David Hume and David Hartley (1705–1757) who developed the
+principles of association that grounded the later development of associationist
+psychology.
+MENTAL MECHANISM AND STIMULUSRESPONSE
+PSYCHOLOGY
+By the end of the 17th century the triumph of mechanism was complete in the
+physical sciences, and mechanistic explanation was extended to human psychol-
+ogy and behavior in the 18th and 19th centuries. However, this did not lead
+to a progressive acceptance of materialism, as might have been expected. Most
+of those who developed mechanistic explanations of mental states and proc-
+esses did their best to avoid any association with materialism. Even those who
+explored the material basis of mentality in the brain avowed a form of dualism or
+a neutral parallelism, by maintaining that every mental state is correlated with
+a brain state, while carefully avoiding speculation about the basis of the correla-
+tion between mental and brain states. Although the power of organized religion
+declined over these centuries, the religious establishment still played a powerful
+role within society and civic administration, often determining royal or govern-
+ment patronage and university positions.
+ggrree5588662244__cchh0044..iinndddd 114400 1122//1144//0077 22::5555::3377 PPMM
+
+<!-- Page 165 -->
+
+MENTAL MECHANISM AND STIMULUSRESPONSE PSYCHOLOGY 141
+One of the peculiarities of Descartes’ pioneering account of refl exive behavior
+in animals and humans was that he presumed that the nerves from sensory recep-
+tors are connected in the brain to the nerves that control motor behavior, even
+though it was common knowledge that animals often continue to display refl ex-
+ive behavior after decapitation. For example, La Mettrie noted how
+A drunken soldier cut off the head of a turkey-cock with a sabre. The animal stayed
+upright, then it walked and ran; when it hit the wall it turned around, beat its wings,
+still running, and fi nally fell down.
+—(1748/1996, p. 27)
+The English clergyman Stephen Hales (1677–1761) demonstrated that decapi-
+tated frogs continue to respond to stimulation so long as the marrow of their spi-
+nal cord remains intact (La Mettrie’s Man Machine was provocatively dedicated to
+Hales). Robert Whytt (1714–1766), who taught in the medical school at the Uni-
+versity of Edinburgh, confi rmed these results in a careful series of experiments:
+When any of the muscles of the leg of a frog are irritated some time after cutting off
+its head, almost all the muscles belonging to the legs and thighs are brought into
+contraction, if the spinal marrow be entire.
+—(cited in Smith, 1992, p. 74)
+He also noted that decapitation enhances refl exive activity (Smith, 1992) and that
+some refl exes can be preserved even if only a small portion of the spinal cord
+remains intact (Boakes, 1984).
+Whytt maintained that such experiments demonstrated that
+a certain power of infl uence lodged in the brain, spinal marrow, and nerves, is either
+the immediate cause of the contraction of muscles of animals, or at least necessary to it.
+—(1751/1978, p. 3)
+He claimed that decapitated animals respond selectively to stimulation and noted
+how a brainless frog will use its legs to relieve the irritation caused by an acid-
+soaked tissue applied to its skin, just as many intact animals use their legs to rid
+themselves of fl eas and ticks (Reed, 1997).
+Whytt suggested that such experiments demonstrated the existence of an
+unconscious “sensitive soul” in the spinal cord, capable of making adaptive
+responses to sensory stimulation. Like Thomas Willis, the Oxford neuroanatomist,
+he suggested that mentality is distributed throughout the nervous system and not
+restricted to the brain. This suggestion generated opposition as fi erce as that for
+La Mettrie’s claim that mentality is a property of the brain. However, it indirectly
+stimulated many 19th-century neurophysiologists, who often saw themselves as
+ggrree5588662244__cchh0044..iinndddd 114411 1122//1144//0077 22::5555::3388 PPMM
+
+<!-- Page 166 -->
+
+142 CHAPTER 4: THE SCIENTIFIC REVOLUTION
+opponents of such crass materialism, to locate mentality in the higher regions of
+the brain, such as the cerebral cortex.
+In his Essay on the Vital and Other Involuntary Motions of Animals (1751), Whytt
+identifi ed a range of innate refl exive behavior, such as digestion, coughing, sneez-
+ing, and penile erection (Boakes, 1984). He introduced the notion of a stimulus
+into the theoretical vocabulary, defi ned as the application of any form of physical
+energy to a nerve (Reed, 1997). He also noted how certain originally neutral stim-
+uli can acquire the capacity to generate innate refl exes by association with their
+precipitating stimuli (Boakes, 1984), anticipating Pavlov’s account of conditioned
+refl exes, including the form of conditioned salivation that became the primary
+focus of his experimental studies:
+Thus the sight, or even the recalled idea of grateful food causes an uncommon fl ow of
+spittle into the mouth of a hungry person; and the seeing of a lemon cut produces the
+same effect in many people.
+—(cited in Boakes, 1984, p. 95)
+DISCUSSION QUESTIONS
+1. Bacon claimed that scientifi c theories should be judged by the utility of
+their “works” or “discoveries” and that genuine scientifi c knowledge leads
+to “dominion” over nature. What useful works or discoveries have scientifi c
+psychological theories promoted? Is dominion over humans an appropriate
+goal for scientifi c psychology? If so, to what degree? In what sense?
+2. Descartes believed that animals lack sensory awareness and consciousness.
+Do you? How could you tell? Can you think of a “crucial instance” or “cru-
+cial experiment” that would demonstrate sensory awareness or conscious-
+ness in animals? Could a machine have sensory awareness or consciousness?
+How could you tell?
+3. Does thinking of animals as machines incline us to think they are more or
+less likely to be capable of language and problem solving?
+4. Does materialism imply strong continuity between human and animal psy-
+chology and behavior?
+5. Hobbes was an individualist about social community. Are social attitudes
+and behavior just the common attitudes and behavior of a collection of indi-
+viduals? Is contemporary social psychology individualist, or does it conceive
+of social attitudes and behavior as something more than (or different from)
+the aggregation of attitudes and behavior?
+ggrree5588662244__cchh0044..iinndddd 114422 1122//1144//0077 22::5555::3388 PPMM
+
+<!-- Page 167 -->
+
+GLOSSARY 143
+GLOSSARY
+automaton A moving machine.
+corpuscle Seventeenth-century term for the atomistic components of material
+bodies, coined by Robert Boyle.
+corpuscularian theory of light Theory of light in which it is treated as a
+stream of material corpuscles, or atoms.
+epicycles A system of circles within circles introduced by Ptolemy (and
+Copernicus) to accommodate the “wandering” motion of planets.
+geocentric theory The theory that Earth is the fi xed center of the universe,
+around which the sun and other planets orbit.
+heliocentric theory The theory that the sun is the fi xed center of the uni-
+verse, around which Earth and other planets orbit.
+homogeneity of cognition and sense perception The claim that cogni-
+tion and sense perception differ in degree (of intensity) but not fundamental
+kind, usually via the claim that ideas are weaker images of sense impressions.
+Idols of the cave Cognitive biases in scientifi c thinking that are idiosyncratic
+products of individual human development.
+Idols of the marketplace Social biases in scientifi c thinking based upon
+notions derived from common linguistic usage.
+Idols of the theatre Social biases in scientifi c thinking based upon theories
+maintained by schools of philosophy as received dogma.
+Idols of the tribe Cognitive biases in scientifi c thinking based upon innate
+human propensities.
+individualism The view that societies or social groups are nothing more
+than collections of human individuals and that social behavior is
+nothing more than the aggregate behavior of collections of human
+individuals.
+Instance of the Fingerpost Francis Bacon’s name for a crucial instance that
+enables the empirical adjudication of competing theories.
+interactionism The view that mind and body causally interact.
+introspective knowledge The conscious apprehension of mental states, usu-
+ally held to be direct and certain.
+mechanistic explanation Effi cient causal explanation in terms of antecedent
+conditions suffi cient to produce an effect, often associated with a conception
+of the universe as a giant (usually clockwork) machine.
+neutral parallelism The view that every mental state is correlated with a
+brain state, without commitment to any theory about the nature of the
+relation between mental and brain states.
+ggrree5588662244__cchh0044..iinndddd 114433 1122//1144//0077 22::5555::3388 PPMM
+
+<!-- Page 168 -->
+
+144 CHAPTER 4: THE SCIENTIFIC REVOLUTION
+occasionalism The view that God directly causes the regular correlation
+between mental and bodily states.
+pre-established harmony The view that God maintains the regular correla-
+tion between mental and bodily states.
+psychological hedonism The view that all human behavior is motivated by
+the desire to attain pleasure and avoid pain.
+refl exive behavior Automatic and involuntary behavior in response to stimu-
+lation.
+Reformation The Protestant religious movement founded by Martin Luther.
+Renaissance The cultural movement that began in southern Italy in the 14th
+century and promoted innovative developments in art, literature, architec-
+ture, and music, as well as in mathematics, religion, and science.
+Renaissance humanism The Renaissance focus on human psychology and
+celebration of its potential.
+stellar parallax The variation in the angular separation of the stars that was a
+crucial implication of the Copernican heliocentric theory.
+stimulus Term introduced by the Edinburgh physician Thomas Whytt to
+describe the application of any form of physical energy to a nerve.
+strong continuity The view that the differences between human and animal
+psychology and behavior are differences in degree and not fundamental dif-
+ferences in kind.
+vital force An emergent force of organized matter held to explain biological
+functions such as bodily heat and movement.
+vortex theory of motion Descartes’ theory of motion in terms of “action by
+contact.”
+weak continuity The view that humans and animals are composed of the
+same basic material, differently organized.
+REFERENCES
+Amman, J. C. (1965). A dissertation on speech (C. Baker, Trans.). Amsterdam:
+North-Holland. (Original work published 1700; original translation 1873)
+Bacon, F. (1966). New Atlantis. In The advancement of learning and New Atlantis.
+Oxford: Oxford University Press. (Original work published 1627)
+Bacon, F. (1994). Novum organum (P. Urbach & J. Gibson, Eds. & Trans.). Chicago,
+IL: Open Court. (Original work published 1620)
+Bandrés, J., & Llavona, R. (1992). Minds and machines in Renaissance Spain:
+Gómez Pereira’s theory of animal behavior. Journal of the History of the Behav-
+ioral Sciences, 28, 158–168.
+ggrree5588662244__cchh0044..iinndddd 114444 1122//1144//0077 22::5555::3388 PPMM
+
+<!-- Page 169 -->
+
+REFERENCES 145
+Bazerman, C. (1988). Reporting the experiment: The changing account of scien-
+tifi c doings in the Philosophical Transactions of the Royal Society, 1665–1800. In
+C. Bazerman, Shaping scientifi c knowledge: The genre and activity of the experi-
+mental article in science. Madison: University of Wisconsin Press.
+Boakes, R. (1984). From Darwin to behaviorism: Psychology and the minds of ani-
+mals. Cambridge: Cambridge University Press.
+Boden, M. (2003). The creative mind: Myths and mechanisms. New York: Routledge.
+Brett, G. S. (1912–1921). A history of psychology (Vols. 1–3). London: Macmillan.
+Bruno, G. (1950). On the infi nite universe and worlds. In D. W. Singer, Giordano
+Bruno: His life and thought. New York: Schuman. (Original work published
+1584)
+Buchdahl, G. (1969). Metaphysics and the philosophy of science. Oxford: Blackwell.
+Clark, D. (1982). Descartes’ philosophy of science. Manchester, England:
+Manchester University Press.
+Clemens, R. D. (1967). Physiological-psychological thought in Juan Luis Vives.
+Journal of the History of the Behavioral Sciences, 3, 219–235.
+Copernicus, N. (1976). On the revolutions of the heavenly spheres (A. M. Duncan,
+Trans.). New York: Barnes & Noble. (Original work published 1543)
+Descartes, R. (1985). Discourse on the method. In J. Cottingham, R. Stoothhoff,
+& D. Murdoch (Trans.), The philosophical writings of Descartes (Vol. 1).
+Cambridge: Cambridge University Press. (Original work published 1637)
+Descartes, R. (1985). Meditations on fi rst philosophy. In J. Cottingham, R.
+Stoothhoff, & D. Murdoch (Trans.), The philosophical writings of Descartes
+(Vol. 2). Cambridge: Cambridge University Press. (Original work published
+1641)
+Descartes, R. (1985). Search after truth. In J. Cottingham, R. Stoothhoff, & D.
+Murdoch (Trans.), The philosophical writings of Descartes (Vol. 2). Cambridge:
+Cambridge University Press. (Original work published 1643)
+Descartes, R. (1985). The passions of the soul. In J. Cottingham, R. Stoothhoff,
+& D. Murdoch (Trans.), The philosophical writings of Descartes (Vol. 1).
+Cambridge: Cambridge University Press. (Original work published 1649)
+Descartes, R. (1985). The world. In J. Cottingham, R. Stoothhoff, & D. Murdoch
+(Trans.), The philosophical writings of Descartes (Vol. 1). Cambridge:
+Cambridge University Press. (Originally published 1664; includes Treatise
+on Man)
+Dolling, L. M., Gianelli, A. F., & Statile, G. N. (Eds.). (2003). The tests of time:
+Readings in the development of physical theory. Princeton: Princeton University
+Press.
+Dreyfus, H. (1992). What computers still can’t do: A critique of artifi cial intelligence.
+Cambridge, MA: MIT Press.
+Erasmus, D. (1979). The praise of folly (C. H. Miller, Trans.). New Haven: Yale
+University Press. (Original work published 1512)
+ggrree5588662244__cchh0044..iinndddd 114455 1122//1144//0077 22::5555::3388 PPMM
+
+<!-- Page 170 -->
+
+146 CHAPTER 4: THE SCIENTIFIC REVOLUTION
+Foote, T. (1991). Where Columbus was coming from. Smithsonian (December),
+28–41.
+Galileo, G. (1957). Letters on the solar spots. In S. Drake (Trans.), Discoveries and opin-
+ions of Galileo. Garden City, NY: Doubleday. (Original work published 1613)
+Galileo, G. (1957). The assayer. In S. Drake (Trans.), Discoveries and opinions of
+Galileo. Garden City, NY: Doubleday. (Original work published 1623)
+Galileo, G. (1967). Dialogue concerning the two chief world-systems, Ptolemaic
+and Copernican (S. Drake, Trans.). Berkeley: University of California Press.
+( Original work published 1632)
+Galileo, G. (1974). Dialogues concerning two new sciences (S. Drake, Trans.).
+Madison: University of Wisconsin Press. (Original work published 1638)
+Gardner, B. T., & Gardner, R. A. (1969). Teaching language to a chimpanzee.
+Science, 165, 664–672.
+Gilbert. W. (1958). On magnetism (P. F. Mottelay, Trans.). New York: Dover.
+( Original work published 1600)
+Harvey, W. (1989). On the circulation of the blood. In R. Willis (Trans.), The works
+of William Harvey. Philadelphia: University of Pennsylvania Press. (Original
+work published 1628)
+Hobbes, T. (1966). Leviathan. In W. Molesworth (Ed.), The English works of Thomas
+Hobbes. Darmstadt, Germany: Scientia Verlag Aalen. (Original work pub-
+lished 1651)
+Hobbes, T. (1966). On human nature. In W. Molesworth (Ed.), The English works of
+Thomas Hobbes. Darmstadt, Germany: Scientia Verlag Aalen. (Original work
+published 1640)
+Hobbes, T. (1966). On matter. In W. Molesworth (Ed.), The English works of Thomas
+Hobbes. Darmstadt, Germany: Scientia Verlag Aalen. (Original work pub-
+lished 1655)
+Katz, D. (1991). Floyd Henry Allport: Founder of social psychology as a behav-
+ioral science. In G. A. Kimble, M. Wertheimer, & C. White (Eds.), Portraits of
+pioneers in psychology (Vol. 1). Hillsdale, NJ: Erlbaum.
+Lafl eur, L. J. (1956). Introduction to Descartes’ Discourse on Method. Indianapolis:
+Bobbs-Merrill.
+La Mettrie, J. O. de la. (1996). Machine man. In A. Thompson (Trans. & Ed.),
+Machine man and other writings. Cambridge: Cambridge University Press.
+(Original work published 1748)
+La Mettrie, J. O. de la. (1996). Natural history of the soul. In A. Thompson (Trans.
+& Ed.), Machine man and other writings. Cambridge: Cambridge University
+Press. (Original work published 1745)
+Losee, J. (1980). A historical introduction to the philosophy of science. New York:
+Oxford University Press.
+Newton, I. (1952). Opticks; or, A treatise of the refl ections, refractions, infl ections &
+colors of light. New York: Dover. (Original work published 1704)
+ggrree5588662244__cchh0044..iinndddd 114466 1122//1144//0077 22::5555::3399 PPMM
+
+<!-- Page 171 -->
+
+REFERENCES 147
+Newton, I. (1969). Mathematical principles of natural philosophy (F. Cajori, Trans.).
+New York: Greenwood Press. (Original work published 1687)
+Osiander, A. (2003). Preface to N. Copernicus, On the revolutions of the heavenly
+spheres. In L. M. Dolling, A. F. Gianelli, & G. N. Statile (Eds.), The tests of time:
+Readings in the development of physical theory. Princeton: Princeton University
+Press. (Original work published 1543)
+Pyenson, L., & Sheets-Pyenson, S. (1999). Servants of nature: A history of scientifi c
+institutions, enterprises, and sensibilities. New York: Norton.
+Reed, E. S. (1997). From soul to mind. New Haven, CT: Yale University Press.
+Smith, R. (1992). Inhibition: History and meaning in the sciences of mind and brain.
+Berkeley: University of California Press.
+Wallace, W. A. (1984). Galileo and his sources: The heritage of the Collegio Romano in
+Galileo’s science. Princeton: Princeton University Press.
+Whytt, R. (1978). An essay on the vital and other involuntary motions of animals.
+In D. N. Robinson (Ed.), Signifi cant contributions to the history of psychol-
+ogy, 1750–1920. Series E: Physiological Psychology. Vol. 1. Washington, DC:
+University Publications of America. (Original work published 1751)
+Willis, T. (1672). Two discourses concerning the soul of brutes. London.
+Willis, T. (1965). The anatomy of the brain (W. Feindel, Ed.). Montreal: McGill
+University Press. (Original work published 1664)
+ggrree5588662244__cchh0044..iinndddd 114477 1122//1144//0077 22::5555::3399 PPMM
+
+<!-- Page 172 -->
+
+C H A P T E R 5
+The Newtonian Psychologists
+T
+HE ACHIEVEMENTS OF THE SCIENTIFIC REVOLUTION REPRESENTED THE
+vanguard of the Enlightenment, that period in European thought in the 17th
+and 18th centuries when confi dence in human reason and experience gradually
+came to supersede faith in religion and traditional authority. One central feature
+of Enlightenment thought, which fl ourished in France, Scotland, England, and
+Germany, was a commitment to human progress and an optimistic belief in the
+applicability of scientifi c knowledge, including social and psychological knowl-
+edge, to the improvement of the human condition. The Enlightenment saw the
+emergence of more liberal, secular, and utilitarian concepts of humanity and the
+development of more democratic societies, such as the United States. Although
+not universally embraced, these Enlightenment ideals continue to inform con-
+temporary confi dence in the theoretical progress and social utility of the sciences,
+including social and psychological science.
+The rejection of the Aristotelian tradition was good news for the natural sci-
+ences. The rejection of Aristotle’s geocentric theory and fi nal causal explanations
+of motion led to advances in astronomy and physics. However, it was not so obvi-
+ously good news for psychology. One of the casualties of the scientifi c revolution
+was Aristotle’s biologically grounded functional psychology, which came to be
+replaced by a variety of mechanistic psychological theories. This was not the intent
+of the pioneers of the new science, such as Galileo, Bacon, and Newton. Although
+they maintained that fi nal causal explanation has no place in physical science,
+most recognized that fi nal causal explanation is entirely appropriate in the realm
+of human and animal behavior. Yet this qualifi cation was generally ignored by the
+protopsychologists of the 17th and 18th centuries, who tried to create a science
+of psychology based upon the mechanistic forms of effi cient causal explanation
+characteristic of the new science, for which Newton’s physics came to serve as a
+paradigm.
+Newton’s theory of universal gravitation was hugely infl uential, not only
+in physical science, where it continued to reign supreme throughout the 18th
+and 19th centuries, but also with respect to the forms of psychological theory
+that developed during these centuries. These were either attempts to model psy-
+chological theory upon Newtonian science, such as associationist psychology, or
+ggrree5588662244__cchh0055..iinndddd 114488 1122//1144//0077 22::5577::0011 PPMM

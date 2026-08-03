@@ -1,0 +1,710 @@
+ARTICLE
+doi:10.1038/nature13595
+Biological insights from 108
+schizophrenia-associated genetic loci
+SchizophreniaWorkingGroupofthePsychiatricGenomicsConsortium*
+Schizophreniaisahighlyheritabledisorder.Geneticriskisconferredbyalargenumberofalleles,includingcommon
+allelesofsmalleffectthatmightbedetectedbygenome-wideassociationstudies.Herewereportamulti-stageschizo-
+phreniagenome-wideassociationstudyofupto36,989casesand113,075controls.Weidentify128independentasso-
+ciations spanning 108 conservatively defined loci that meet genome-wide significance, 83 of which have not been
+previouslyreported.Associationswereenrichedamonggenesexpressedinbrain,providingbiologicalplausibilityfor
+thefindings.Manyfindingshavethepotentialtoprovideentirelynewinsightsintoaetiology,butassociationsatDRD2
+andseveralgenesinvolvedinglutamatergicneurotransmissionhighlightmoleculesofknownandpotentialtherapeutic
+relevancetoschizophrenia,andareconsistentwithleadingpathophysiologicalhypotheses.Independentofgenesexpressed
+inbrain,associationswereenrichedamonggenesexpressedintissuesthathaveimportantrolesinimmunity,providing
+supportforthespeculatedlinkbetweentheimmunesystemandschizophrenia.
+Schizophreniahasalifetimeriskofaround1%,andisassociatedwith ThesecomprisetheprimaryPGCGWASdataset.Weprocessedthe
+substantialmorbidityandmortalityaswellaspersonalandsocietalcosts1–3. genotypesfromallstudiesusingunifiedqualitycontrolproceduresfol-
+Althoughpharmacologicaltreatmentsareavailableforschizophrenia, lowedbyimputationofSNPsandinsertion-deletionsusingthe1000
+theirefficacyispoorformanypatients4.Allavailableantipsychoticdrugs GenomesProjectreferencepanel25.Ineachsample,associationtesting
+arethoughttoexerttheirmaintherapeuticeffectsthroughblockadeof wasconductedusingimputedmarkerdosagesandprincipalcomponents
+thetype2dopaminergicreceptor5,6but,sincethediscoveryofthismech- (PCs)tocontrolforpopulationstratification.Theresultswerecombined
+anismover60yearsago,nonewantipsychoticdrugofprovenefficacy usinganinverse-varianceweightedfixedeffectsmodel26.Afterquality
+hasbeendevelopedbasedonothertargetmolecules.Therapeuticstasis control(imputationINFOscore$0.6,MAF$0.01,andsuccessfully
+isinlargepartaconsequenceofthefactthatthepathophysiologyof imputedin$20samples),weconsideredaround9.5millionvariants.
+schizophreniaisunknown.Identifyingthecausesofschizophreniais TheresultsaresummarizedinFig.1.Toenableacquisitionoflargesam-
+thereforeacriticalsteptowardsimprovingtreatmentsandoutcomes ples,somegroupsascertainedcasesviacliniciandiagnosisratherthana
+forthosewiththedisorder. research-basedassessmentandprovidedevidenceofthevalidityofthis
+Highheritabilitypointstoamajorroleforinheritedgeneticvariants approach(SupplementaryInformation)11,13.Posthocanalysesrevealed
+intheaetiologyofschizophrenia7,8.Althoughriskvariantsrangeinfre- thepatternofeffectsizesforassociatedlociwassimilaracrossdifferent
+quencyfromcommontoextremelyrare9,estimates10,11suggesthalftoa assessmentmethodsandmodesofascertainment(ExtendedDataFig.1),
+thirdofthegeneticriskofschizophreniaisindexedbycommonalleles supportingouraprioridecisiontoincludesamplesofthisnature.
+genotypedbycurrentgenome-wideassociationstudy(GWAS)arrays. Forthesubsetoflinkage-disequilibrium-independentsinglenucleotide
+Thus,GWASispotentiallyanimportanttoolforunderstandingthe polymorphisms(SNPs)withP,131026inthemeta-analysis,wenext
+biologicalunderpinningsofschizophrenia. obtainedresultsfromdeCODEgenetics(1,513casesand66,236controls
+Todate,around30schizophrenia-associatedloci10–23havebeeniden- ofEuropeanancestry).Wedefinelinkage-disequilibrium-independent
+tifiedthroughGWAS.Postulatingthatsamplesizeisoneofthemost SNPsasthosewithlowlinkagedisequilibrium(r2,0.1)toamoresig-
+importantlimitingfactorsinapplyingGWAStoschizophrenia,wecreated nificantlyassociatedSNPwithina500-kbwindow.Givenhighlinkage
+theSchizophreniaWorkingGroupofthePsychiatricGenomicsCon- disequilibriumintheextendedmajorhistocompatibilitycomplex(MHC)
+sortium(PGC).Ourprimaryaimwastocombineallavailableschizo- regionspans,8Mb,weconservativelyincludeonlyasingleMHCSNP
+phreniasampleswithpublishedorunpublishedGWASgenotypesinto torepresentthislocus.ThedeCODEdatawerethencombinedwiththose
+asingle,systematicanalysis24.Herewereporttheresultsofthatanalysis, fromtheprimaryGWAStogiveadatasetof36,989casesand113,075
+includingatleast108independentgenomiclocithatexceedgenome- controls.Inthisfinalanalysis,128linkage-disequilibrium-independent
+widesignificance.Someofthefindingssupportleadingpathophysio- SNPsexceededgenome-widesignificance(P#531028)(Supplemen-
+logicalhypothesesofschizophreniaortargetsoftherapeuticrelevance, taryTable2).
+butmostofthefindingsprovidenewinsights. Asinmeta-analysesofothercomplextraitswhichidentifiedlargenum-
+bersofcommonriskvariants27,28,theteststatisticdistributionfromour
+108independentassociatedloci GWASdeviatesfromthenull(ExtendedDataFig.2).Thisisconsistent
+Weobtainedgenome-widegenotypedatafromwhichweconstructed49 withthepreviouslydocumentedpolygeniccontributiontoschizophrenia10,11.
+ancestrymatched,non-overlappingcase-controlsamples(46ofEuropean Thedeviationintheteststatisticsfromthenull(l 51.47,l 51.01)
+GC 1000
+andthreeofeastAsianancestry,34,241casesand45,604controls)and isonlyslightlylessthanexpected(l 51.56)underapolygenicmodel
+GC
+3family-basedsamplesofEuropeanancestry(1,235parentaffected- givenfullyinformativegenotypes,thecurrentsamplesize,andthelife-
+offspringtrios)(SupplementaryTable1andSupplementaryMethods). timeriskandheritabilityofschizophrenia29.
+*Alistofauthorsandaffiliationsappearsattheendofthepaper.
+24 JULY 2014 | VOL 511 | NATURE | 421
+©2014Macmillan Publishers Limited. All rights reserved
+
+Additionallinesofevidenceallowustoconcludethedeviationbetween ofteststatisticsfromthenullprimarilyrepresentspolygenicassociation
+theobservedandnulldistributionsinourprimaryGWASindicatesa signalandtheconsiderableexcessofassociationsatthetailofextreme
+truepolygeniccontributiontoschizophrenia.First,applyinganovel significancelargelycorrespondtotrueassociations.
+method30thatuseslinkagedisequilibriuminformationtodistinguish IndependentlyassociatedSNPsdonottranslatetowell-boundedchro-
+betweenthemajorpotentialsourcesofteststatisticinflation,wefound mosomalregions.Nevertheless,itisusefultodefinephysicalboundaries
+ourresultsareconsistentwithpolygenicarchitecturebutnotpopula- fortheSNPassociationstoidentifycandidateriskgenes.Wedefinedan
+tionstratification(ExtendedDataFig.3).Second,theschizophrenia- associatedlocusasthephysicalregioncontainingallSNPscorrelatedat
+associatedallelesat78%of234linkage-disequilibrium-independent r2.0.6witheachofthe128indexSNPs.Associatedlociwithin250kb
+SNPsexceedingP,131026inthecase-controlGWASwereagain ofeachotherweremerged.Thisresultedin108physicallydistinctasso-
+overrepresentedincasesintheindependentsamplesfromdeCODE. ciatedloci,83ofwhichhavenotbeenpreviouslyimplicatedinschizo-
+Thisdegreeofconsistencybetweenthecase-controlGWASandthe phreniaandthereforeharbourpotentialnewbiologicalinsightsinto
+replicationdataishighlyunlikelytooccurbychance(P56310219). diseaseaetiology(SupplementaryTable3;regionalplotsinSupplemen-
+ThetestedallelessurpassedtheP,1026thresholdinourGWASbefore taryFig.1).Thesignificantregionsincludeallbut5locipreviouslyreported
+weaddedeitherthetriosordeCODEdatatothemeta-analysis.Thistrend tobegenome-widesignificantinlargesamples(SupplementaryTable3).
+testisthereforeindependentoftheprimarycase-controlGWAS.Third,
+analysingthe1,235parent-probandtrios,weagainfoundexcesstrans- Characterizationofassociatedloci
+missionoftheschizophrenia-associatedalleleat69%ofthe263linkage- Ofthe108loci,75%includeprotein-codinggenes(40%,asinglegene)
+disequilibrium-independentSNPswithP,131026inthecase-control andafurther8%arewithin20kbofagene(SupplementaryTable3).
+GWAS.Thisisagainunlikelytooccurbychance(P5131029)and Notableassociationsrelevanttomajorhypothesesoftheaetiologyand
+additionallyexcludespopulationstratificationasfullyexplainingthe treatmentofschizophreniaincludeDRD2(thetargetofalleffectiveanti-
+associationsreachingourthresholdforseekingreplication.Fourth,we psychoticdrugs)andmanygenes(forexample,GRM3,GRIN2A,SRR,
+usedthetriostrenddatatoestimatetheexpectedproportionoftrue GRIA1)involvedinglutamatergicneurotransmissionandsynapticplas-
+associationsatP,131026inthediscoveryGWAS,allowingforthe ticity.Inaddition,associationsatCACNA1C,CACNB2andCACNA1I,
+factthathalfoftheindexSNPsareexpectedtoshowthesameallelic whichencodevoltage-gatedcalciumchannelsubunits,extendprevious
+trendinthetriosbychance,andthatsometrueassociationswillshow findingsimplicatingmembersofthisfamilyofproteinsinschizophrenia
+oppositetrendsgiventhelimitednumberoftriosamples(Supplemen- andotherpsychiatricdisorders11,13,31,32.Genesencodingcalciumchan-
+taryMethods).Giventheobservedtrendtestresults,around67%(95% nels,andproteinsinvolvedinglutamatergicneurotransmissionandsyn-
+confidenceinterval:64–73%)orn5176oftheassociationsinthescan apticplasticityhavebeenindependentlyimplicatedinschizophreniaby
+atP,131026areexpectedtobetrue,andthereforethenumberof studiesofraregeneticvariation33–35,suggestingconvergenceatabroad
+associationsthatwillultimatelybevalidatedfromthissetofSNPswill functionallevelbetweenstudiesofcommonandraregeneticvariation.
+beconsiderablymorethanthosethatnowmeetgenome-widesignifi- WehighlightintheSupplementaryDiscussiongenesofparticularinterest
+cance.Takentogether,theseanalysesindicatethattheobserveddeviation withinassociatedlociwithrespecttocurrenthypothesesofschizophrenia
+)P
+gol–(
+noitaicossa
+fo
+ecnacfiingiS
+01
+RESEARCH ARTICLE
+30
+27
+24
+21
+18
+15
+12
+9
+6
+3
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 2122 X
+Chromosome
+Figure1|Manhattanplotshowingschizophreniaassociations. Manhattan positionandtheyaxisisthesignificance(–log P;2-tailed)ofassociation
+10
+plotofthediscoverygenome-wideassociationmeta-analysisof49casecontrol derivedbylogisticregression.Theredlineshowsthegenome-widesignificance
+samples(34,241casesand45,604controls)and3familybasedassociation level(531028).SNPsingreenareinlinkagedisequilibriumwiththeindexSNPs
+studies(1,235parentaffected-offspringtrios).Thexaxisischromosomal (diamonds)whichrepresentindependentgenome-widesignificantassociations.
+422 | NATURE | VOL 511 | 24 JULY 2014
+©2014Macmillan Publishers Limited. All rights reserved
+
+ARTICLE RESEARCH
+aetiologyortreatment(althoughwedonotimplythatthesegenesare Hippocampus middle
+necessarilythecausalelements). Anterior caudate
+Substania nigra
+Foreachoftheschizophrenia-associatedloci,weidentifiedacredible Cingulate gyrus
+Mid-frontal lobe
+causalsetofSNPs(fordefinition,seeSupplementaryMethods)36.Inonly Angular gyrus
+10instances(SupplementaryTable4)wastheassociationsignalcredibly Inferior temporal lobe
+Neurosphere
+attributabletoaknownnon-synonymousexonicpolymorphism.The HUES 6
+HUES64
+apparentlylimitedroleofprotein-codingvariantsisconsistentbothwith hiPS–20b
+exomesequencingfindings33andwiththehypothesisthatmostasso- hiPS–18a
+H1
+ciatedvariantsdetectedbyGWASexerttheireffectsthroughaltering Kidney
+Pancreatic islets
+geneexpressionratherthanproteinstructure37,38andwiththeobser- Liver1
+Duodenum mucosa
+vationthatschizophreniarisklociareenrichedforexpressionquanti- Colonic mucosa
+tativetraitloci(eQTL)39. Rectal mucosa
+Adipose nuclei
+TotrytoidentifyeQTLsthatcouldexplainassociationswithschizo- Skeletal muscle
+Duodenum smooth muscle
+phrenia,wemergedthecrediblecausalsetofSNPsdefinedabovewith Rectal smooth muscle
+eQTLsfromameta-analysisofhumanbraincortexeQTLstudies(n5550) Stomach smooth muscle
+Colon smooth muscle
+andaneQTLstudyofperipheralvenousblood(n53,754)40(Supplemen- BM–MSC
+Chondrogenic dif cells
+taryMethods).MultipleschizophrenialocicontainedatleastoneeQTL NH–osteoblast
+foragenewithin1Mbofthelocus(SupplementaryTable4).However, NHDF
+NHLF
+inonly12instanceswastheeQTLplausiblycausal(twoinbrain,andnine NH–A
+HSMM–myotube
+inperipheralblood,oneinboth).Thislowproportionsuggeststhatif HSMM
+SK–N–MC
+mostriskvariantsareregulatory,availableeQTLcataloguesdonotyet
+A673
+providepower,cellularspecificity,ordevelopmentaldiversitytopro- K562
+HepG2
+videclearmechanistichypothesesforfollow-upexperiments. Huvec
+NHEK
+HMEC
+Thebrainandimmunity HeLaS3
+DND–41
+Tofurtherexploretheregulatorynatureoftheschizophreniaassociations, Mobilized CD34
+Adult CD14
+wemappedthecrediblesets(n5108)ofcausalvariantsontosequences GM12878
+Adult CD20
+withepigeneticmarkerscharacteristicofactiveenhancersin56differ- CD19
+enttissuesandcelllines(SupplementaryMethods).Schizophreniaasso- Th2
+Th1
+ciationsweresignificantlyenrichedatenhancersactiveinbrain(Fig.2) Th0
+CD25– IL17– Th stim MACS
+butnotintissuesunlikelytoberelevanttoschizophrenia(forexample, CD25– IL17+ Th17 stim
+bone,cartilage,kidneyandfibroblasts).Braintissuesusedtodefineenhanc- CD25int CD127+ Tmem
+CD25+ CD127– Treg
+ersconsistofheterogeneouspopulationsofcells.Seekinggreaterspe- CD25– CD45RA+ naive
+CD3 primary cells
+cificity,wecontrastedgenesenrichedforexpressioninneuronsand
+0 1 2 3 4 5 6 7 8 9 10
+gliausingmouseribotaggedlines41.Geneswithstrongexpressionin
+Enrichment (–log P)
+multiplecorticalandstriatalneuronallineageswereenrichedforasso- 10
+ciations,providingsupportforanimportantneuronalpathologyin Figure2|EnrichmentinenhancersofcredibleSNPs. Cellandtissuetype
+schizophrenia(ExtendedDataFig.4)butthisisnotstatisticallymore specificenhancerswereidentifiedusingChIP-seqdatasets(H3K27acsignal)
+significantthan,orexclusionaryof,contributionsfromotherlineages42. from56celllineandtissuesamples(yaxis).Wedefinedcellandtissuetype
+Schizophreniaassociationswerealsostronglyenrichedatenhancers enhancersasthetop10%ofenhancerswiththehighestratioofreadsinthatcell
+ortissuetypedividedbythetotalnumberofreads.Enrichmentofcredible
+thatareactiveintissueswithimportantimmunefunctions,particularly
+causalassociatedSNPsfromtheschizophreniaGWASwascomparedwith
+B-lymphocytelineagesinvolvedinacquiredimmunity(CD19andCD20
+frequencymatchedsetsof1000GenomesSNPs(SupplementaryMethods).
+lines,Fig.2).Theseenrichmentsremainsignificantevenafterexclud-
+Thexaxisisthe–log Pforenrichment.Pvaluesareuncorrectedforthe
+10
+ingtheextendedMHCregionandregionscontainingbrainenhancers numberoftissuesorcellstested.A–log Pofroughly3canbeconsidered
+(enrichmentPforCD20,1026),demonstratingthatthisfindingis
+significantafterBonferronicorrection.D
+10
+escriptionsofcellandtissuetypesat
+notanartefactofcorrelationbetweenenhancerelementsindifferent theRoadmapEpigenomewebsite(http://www.roadmapepigenomics.org).
+tissuesandnotdrivenbythestronganddiffuseassociationattheextended
+MHC.Epidemiologicalstudieshavelonghintedataroleforimmune withdeleteriousdenovomutations34.Herewefindsignificantoverlap
+dysregulationinschizophrenia,thepresentfindingsprovidegenetic betweengenesintheschizophreniaGWASassociatedintervalsandthose
+supportforthishypothesis43. withdenovonon-synonymousmutationsinschizophrenia(P50.0061)
+Todevelopadditionalbiologicalhypothesesbeyondthosethatemerge (ExtendedDataTable2),suggestingthatmechanisticstudiesofrare
+frominspectionoftheindividualloci,wefurtherundertookalimited geneticvariationinschizophreniawillbeinformativeforschizophrenia
+miningofthedatathroughgene-setanalysis.However,asthereisnocon- morewidely.Wealsofindevidenceforoverlapbetweengenesinschizo-
+sensusmethodologybywhichsuchanalysesshouldbeconducted,nor phreniaGWASregionsandthosewithdenovonon-synonymousmuta-
+anestablishedoptimalsignificancethresholdforincludingloci,wesought tionsinintellectualdisability(P50.00024)andASD(P50.035),providing
+tobeconservative,usingonlytwoofthemanyavailableapproaches44,45 furthersupportforthehypothesisthatthesedisordershavepartlyover-
+andrestrictinganalysestogeneswithingenome-widesignificantloci. lappingpathophysiologies9,34.
+Neitherapproachidentifiedgene-setsthatweresignificantlyenriched
+forassociationsaftercorrectionforthenumberofpathwaystested(Sup- Polygenicriskscoreprofiling
+plementaryTable5)althoughnominallysignificantlyenrichmentswere Previousstudieshaveshownthatriskprofilescores(RPS)constructed
+observedamongseveralpredefinedcandidatepathways(ExtendedData fromallelesshowingmodestassociationwithschizophreniainadis-
+Table1).Afullerexploratoryanalysisofthedatawillbepresentedelsewhere. coveryGWAScanpredictcase-controlstatusinindependentsamples,
+albeitwithlowsensitivityandspecificity10,11,16.Thisfindingwasrobustly
+Overlapwithraremutations confirmedinthepresentstudy.TheestimateofNagelkerkeR2(amea-
+CNVsassociatedwithschizophreniaoverlapwiththoseassociatedwith sureofvarianceincase-controlstatusexplained)dependsonthespe-
+autismspectrumdisorder(ASD)andintellectualdisability9,asdogenes cifictargetdatasetandthreshold(P )forselectingriskallelesforRPS
+T
+24 JULY 2014 | VOL 511 | NATURE | 423
+©2014Macmillan Publishers Limited. All rights reserved
+
+analysis(ExtendedDataFig.5and6a).However,usingthesametarget supportitsuseasapredictivetest.Forexample,intheDanishepide-
+sampleasearlierstudiesandP 50.05,R2isnowincreasedfrom0.03 miologicalsample,theareaunderthereceiveroperatingcurveisonly
+T
+(ref.10)to0.184(ExtendedDataFig.5).Assumingaliability-threshold 0.62(ExtendedDataFig.6c,SupplementaryTable6).
+model,alifetimeriskof1%,independentSNPeffects,andadjustingfor Finally,seekingevidencefornon-additiveeffectsonrisk,wetested
+case-controlascertainment,RPSnowexplainsabout7%ofvariationon forstatisticalinteractionbetweenallpairsof125autosomalSNPsthat
+theliabilityscale46toschizophreniaacrossthesamples(ExtendedData reachedgenome-widesignificance.Pvaluesfortheinteractionterms
+Fig.6b),abouthalfofwhich(3.4%)isexplainedbygenome-widesigni- weredistributedaccordingtothenull,andnointeractionwassignificant
+ficantloci. aftercorrectionformultiplecomparisons.Thus,wefindnoevidencefor
+WealsoevaluatedthecapacityofRPStopredictcase-controlstatus epistaticornon-additiveeffectsbetweenthesignificantloci(Extended
+usingastandardepidemiologicalapproachtoacontinuousriskfactor. DataFig.7).Itispossiblethatsucheffectscouldbepresentbetween
+Weillustratethisinthreesamples,eachwithdifferentascertainment otherloci,oroccurintheformofhigher-orderinteractions.
+schemes(Fig.3).TheDanishsampleispopulation-based(thatis,inpa-
+tientandoutpatientfacilities),theSwedishsampleisbasedonallcases Discussion
+hospitalizedforschizophreniainSweden,andtheMolecularGenetics Inthelargest(toourknowledge)moleculargeneticstudyofschizophre-
+ofSchizophrenia(MGS)samplewasascertainedspeciallyforgenetic nia,orindeedofanyneuropsychiatricdisorder,everconducted,wedem-
+studiesfromclinicalsourcesintheUSandAustralia.Wegroupedindi- onstratethepowerofGWAStoidentifylargenumbersofriskloci.We
+vidualsintoRPSdecilesandestimatedtheoddsratiosforaffectedstatus showthattheuseofalternativeascertainmentanddiagnosticschemes
+foreachdecilewithreferencetothelowestriskdecile.Theoddsratios designedtorapidlyincreasesamplesizedoesnotinevitablyintroducea
+increasedwithgreaternumberofschizophreniariskallelesineachsam- cripplingdegreeofheterogeneity.Thatthisistrueforaphenotypelike
+ple,maximizingforthetenthdecileinallsamples:Denmark7.8(95% schizophrenia,inwhichtherearenobiomarkersorsupportivediagnostic
+confidenceinterval(CI):4.4–13.9),Sweden15.0(95%CI:12.1–18.7) tests,providesgroundstobeoptimisticthatthisapproachcanbesuc-
+andMGS20.3(95%CI:14.7–28.2).Giventheneedformeasuresthat cessfullyappliedtoGWASofotherclinicallydefineddisorders.
+indexliabilitytoschizophrenia47,48,theabilitytostratifyindividualsby Wefurthershowthattheassociationsarenotrandomlydistributed
+RPSoffersnewopportunitiesforclinicalandepidemiologicalresearch. acrossgenesofallclassesandfunction;rathertheyconvergeupongenes
+Nevertheless,westressthatthesensitivityandspecificityofRPSdonot thatareexpressedincertaintissuesandcellulartypes.Thefindingsinclude
+moleculesthatarethecurrent,orthemostpromising,targetsforther-
+apeutics,andpointtosystemsthatalignwiththepredominantaeti-
+ologicalhypothesesofthedisorder.Thissuggeststhatthemanynovel
+findingswereportalsoprovideanaetiologicallyrelevantfoundation
+formechanisticandtreatmentdevelopmentstudies.Wealsofindover-
+lapbetweengenesaffectedbyrarevariantsinschizophreniaandthose
+25
+withinGWASloci,andbroadconvergenceinthefunctionsofsomeof
+theclustersofgenesimplicatedbybothsetsofgeneticvariants,parti-
+cularlygenesrelatedtoabnormalglutamatergicsynapticandcalcium
+channelfunction.Howvariationinthesegenesimpactfunctiontoincrease
+20 riskforschizophreniacannotbeansweredbygenetics,buttheoverlap
+stronglysuggeststhatcommonandrarevariantstudiesarecomplemen-
+taryratherthanantagonistic,andthatmechanisticstudiesdrivenbyrare
+geneticvariationwillbeinformativeforschizophrenia.
+15 OnlineContentMethods,alongwithanyadditionalExtendedDatadisplayitems
+andSourceData,areavailableintheonlineversionofthepaper;referencesunique
+tothesesectionsappearonlyintheonlinepaper.
+Received6March;accepted18June2014.
+Publishedonline22July2014.
+10
+9 1. Saha,S.,Chant,D.&McGrath,J.Asystematicreviewofmortalityinschizophrenia:
+8 isthedifferentialmortalitygapworseningovertime?Arch.Gen.Psychiatry64,
+7 1123–1131(2007).
+2. WorldHealthOrganization.TheGlobalBurdenofDisease:2004Update(WHO
+6
+Press,2008).
+5
+3. Knapp,M.,Mangalore,R.&Simon,J.Theglobalcostsofschizophrenia.Schizophr.
+4 Bull.30,279–293(2004).
+3 4. Lieberman,J.A.etal.Effectivenessofantipsychoticdrugsinpatientswithchronic
+2 schizophrenia.N.Engl.J.Med.353,1209–1223(2005).
+1 5. Carlsson,A.&Lindqvist,M.Effectofchlorpromazineorhaloperidolonformationof
+3-methoxytyramineandnormetanephrineinmousebrain.ActaPharmacol.
+Toxicol.20,140–144(1963).
+1 2 3 4 5 6 7 8 9 10 6. vanRossum,J.M.Thesignificanceofdopamine-receptorblockadeforthe
+Decile mechanismofactionofneurolepticdrugs.Arch.Int.Pharmacodyn.Ther.160,
+492–494(1966).
+7. Lichtenstein,P.etal.RecurrencerisksforschizophreniainaSwedishnational
+cohort.Psychol.Med.36,1417–1425(2006).
+8. Sullivan,P.F.,Kendler,K.S.&Neale,M.C.Schizophreniaasacomplextrait:
+evidencefromameta-analysisoftwinstudies.Arch.Gen.Psychiatry60,
+1187–1192(2003).
+9. Sullivan,P.F.,Daly,M.J.&O’Donovan,M.Geneticarchitecturesofpsychiatric
+disorders:theemergingpictureanditsimplications.NatureRev.Genet.13,
+537–551(2012).
+10. InternationalSchizophreniaConsortium.Commonpolygenicvariation
+contributestoriskofschizophreniaandbipolardisorder.Nature460,748–752
+(2009).
+oitar
+sddO
+RESEARCH ARTICLE
+Sample
+Denmark
+MGS
+Sweden
+Figure3|Oddsratiobyriskscoreprofile. Oddsratioforschizophreniaby
+riskscoreprofile(RPS)decileintheSweden(Sw1-6),Denmark(Aarhus),and
+MolecularGeneticsofSchizophreniastudies(SupplementaryMethods).
+Riskallelesandweightswerederivedfrom‘leaveoneout’analysesinwhich
+thosesampleswereexcludedfromtheGWASmeta-analysis(Supplementary
+Methods).ThethresholdforselectingriskalleleswasP ,0.05.TheRPS
+T wereconvertedtodeciles(15lowest,105highestRPS),andninedummy
+variablescreatedtocontrastdeciles2-10todecile1asthereference.Oddsratios
+and95%confidenceintervals(bars)wereestimatedusinglogisticregression
+withPCstocontrolforpopulationstratification.
+424 | NATURE | VOL 511 | 24 JULY 2014
+©2014Macmillan Publishers Limited. All rights reserved
+
+ARTICLE RESEARCH
+11. Ripke,S.etal.Genome-wideassociationanalysisidentifies13newrisklocifor SupplementaryInformationisavailableintheonlineversionofthepaper.
+schizophrenia.NatureGenet.45,1150–1159(2013).
+12. Ikeda,M.etal.Genome-wideassociationstudyofschizophreniainaJapanese AcknowledgementsCorefundingforthePsychiatricGenomicsConsortiumisfromthe
+population.Biol.Psychiatry69,472–478(2011). USNationalInstituteofMentalHealth(U01MH094421).WethankT.Lehner(NIMH).
+13. Hamshere,M.L.etal.Genome-widesignificantassociationsinschizophreniato Theworkofthecontributinggroupswassupportedbynumerousgrantsfrom
+ITIH3/4,CACNA1CandSDCCAG8,andextensivereplicationofassociations governmentalandcharitablebodiesaswellasphilanthropicdonation.Detailsare
+reportedbytheSchizophreniaPGC.Mol.Psychiatry18,708–712(2013). providedintheSupplementaryNotes.MembershipoftheWellcomeTrustCaseControl
+14. O’Donovan,M.C.etal.Identificationofnovelschizophrenialocibygenome-wide ConsortiumandofthePsychosisEndophenotypeInternationalConsortiumare
+associationandfollow-up.NatureGenet.40,1053–1055(2008). providedintheSupplementaryNotes.
+15. Rietschel,M.etal.Associationbetweengeneticvariationinaregionon
+AuthorContributionsTheindividualstudiesorconsortiacontributingtotheGWAS
+chromosome11andschizophreniainlargesamplesfromEurope.Mol.Psychiatry
+meta-analysiswereledbyR.A.,O.A.A.,D.H.R.B.,A.D.B.,E.Bramon,J.D.B.,A.C.,D.A.C.,S.C.,
+17,906–917(2012).
+A.D.,E.Domenici,H.E.,T.E.,P.V.G.,M.G.,H.G.,C.M.H.,N.I.,A.V.J.,E.G.J.,K.S.K.,G.K.,J.
+16. SchizophreniaPsychiatricGenome-WideAssociationStudyConsortium.
+Knight,T.Lencz,D.F.L.,Q.S.L.,J.Liu,A.K.M.,S.A.M.,A.McQuillin,J.L.M.,P.B.M.,B.J.M.,
+Genome-wideassociationstudyidentifiesfivenewschizophrenialoci.Nature
+M.M.N.,M.C.O’D.,R.A.O.,M.J.O.,A.Palotie,C.N.P.,T.L.P.,M.R.,B.P.R.,D.R.,P.C.S,P.Sklar.
+Genet.43,969–976(2011).
+D.St.C.,P.F.S.,D.R.W.,J.R.W.,J.T.R.W.andT.W.Togetherwiththecorestatisticalanalysis
+17. IrishSchizophreniaGenomicsConsortium&WellcomeTrustCaseControl
+groupledbyM.J.D.comprisingS.R.,B.M.N.andP.A.H.,thisgroupcomprisedthe
+Consortium.Genome-wideassociationstudyimplicatesHLA-C*01:02asarisk
+managementgroupledbyM.C.O’D.whowereresponsibleforthemanagementofthe
+factoratthemajorhistocompatibilitycomplexlocusinschizophrenia.Biol.
+studyandtheoverallcontentofthemanuscript.Additionalanalysesand
+Psychiatry72,620–628(2012).
+interpretationswerecontributedbyE.A.,B.B.-S.,D.K.,K.-H.F.,M.Fromer,H.H.,P.L.,
+18. Shi,J.etal.Commonvariantsonchromosome6p22.1areassociatedwith
+P.B.M.,S.M.P.,T.H.P.,N.R.W.andP.M.V.Thephenotypesupervisorygroupcomprised
+schizophrenia.Nature460,753–757(2009).
+A.C.,A.H.F.,P.V.G.,K.K.K.andB.J.M.D.A.C.ledthecandidateselectedgenessubgroup
+19. Shi,Y.etal.Commonvariantson8p12and1q24.2conferriskofschizophrenia.
+comprisedofM.J.D.,E.Dominici,J.A.K.,A.M.H.,M.C.O’D,B.P.R.,D.R.,E.M.S.andP.Sklar.
+NatureGenet.43,1224–1227(2011).
+ReplicationresultswereprovidedbyS.S.,H.S.andK.S.Theremainingauthors
+20. Stefansson,H.etal.Commonvariantsconferringriskofschizophrenia.Nature
+contributedtotherecruitment,genotyping,ordataprocessingforthecontributing
+460,744–747(2009).
+componentsofthemeta-analysis.A.C.,M.J.D.,B.M.N.,S.R.,P.F.S.andM.C.O’D.took
+21. Steinberg,S.etal.CommonvariantsatVRK2andTCF4conferringriskof
+responsibilityfortheprimarydraftingofthemanuscriptwhichwasshapedbythe
+schizophrenia.Hum.Mol.Genet.20,4076–4081(2011).
+managementgroup.Allotherauthorssaw,hadtheopportunitytocommenton,and
+22. Yue,W.H.etal.Genome-wideassociationstudyidentifiesasusceptibilitylocusfor
+approvedthefinaldraft.
+schizophreniainHanChineseat11p11.2.NatureGenet.43,1228–1231(2011).
+23. Lencz,T.etal.Genome-wideassociationstudyimplicatesNDST3inschizophrenia AuthorInformationResultscanbedownloadedfromthePsychiatricGenomics
+andbipolardisorder.NatureCommun.4,2739(2013). Consortiumwebsite(http://pgc.unc.edu)andvisualizedusingRicopili(http://
+24. PsychiatricGWASConsortium.Aframeworkforinterpretinggenomewide www.broadinstitute.org/mpg/ricopili).Genotypedataforthesampleswheretheethics
+associationstudiesofpsychiatricdisorders.Mol.Psychiatry14,10–17(2009). permitdepositionareavailableuponapplicationfromtheNIMHGeneticsRepository
+25. The1000GenomesProjectConsortium.Amapofhumangenomevariationfrom (https://www.nimhgenetics.org).Reprintsandpermissionsinformationisavailableat
+population-scalesequencing.Nature467,1061–1073(2010).
+www.nature.com/reprints.Theauthorsdeclarecompetingfinancialinterests:details
+26. Begum,F.,Ghosh,D.,Tseng,G.C.&Feingold,E.Comprehensiveliteraturereview
+areavailableintheonlineversionofthepaper.Readersarewelcometocommenton
+andstatisticalconsiderationsforGWASmeta-analysis.NucleicAcidsRes.40,
+theonlineversionofthepaper.Correspondenceandrequestsformaterialsshouldbe
+3777–3784(2012).
+addressedtotoM.C.O’D.(odonovanmc@cardiff.ac.uk).
+27. LangoAllen,H.etal.Hundredsofvariantsclusteredingenomiclociandbiological
+pathwaysaffecthumanheight.Nature467,832–838(2010).
+SchizophreniaWorkingGroupofthePsychiatricGenomicsConsortium
+28. Jostins,L.etal.Host–microbeinteractionshaveshapedthegeneticarchitectureof
+inflammatoryboweldisease.Nature491,119–124(2012).
+29. Yang,J.etal.Genomicinflationfactorsunderpolygenicinheritance.Eur.J.Hum.
+StephanRipke1,2,BenjaminM.Neale1,2,3,4,AidenCorvin5,JamesT.R.Walters6,
+Genet.19,807–812(2011).
+Kai-HowFarh1,PeterA.Holmans6,7,PhilLee1,2,4,BrendanBulik-Sullivan1,2,DavidA.
+30. Bulik-Sullivan,B.K.etal.LDscoreregressiondistinguishesconfoundingfrom
+Collier8,9,HailiangHuang1,3,TuneH.Pers3,10,11,IngridAgartz12,13,14,Esben
+polygenicityingenome-wideassociationstudies.Preprintathttp://dx.doi.org/
+Agerbo15,16,17,MargotAlbus18,MadelineAlexander19,FarooqAmin20,21,SilviuA.
+10.1101/002931(2014).
+Bacanu22,MartinBegemann23,RichardA.BelliveauJr2,JuditBene24,25,SarahE.
+31. Ferreira,M.A.etal.Collaborativegenome-wideassociationsupportsarolefor Bergen2,26,ElizabethBevilacqua2,TimB.Bigdeli22,DonaldW.Black27,Richard
+ANK3andCACNA1Cinbipolardisorder.NatureGenet.40,1056–1058(2008). Bruggeman28,NancyG.Buccola29,RandyL.Buckner30,31,32,WilliamByerley33,
+32. Cross-DisorderGroupofthePsychiatricGenomicsConsortium.Identificationof WiepkeCahn34,GuiqingCai35,36,DominiqueCampion37,RitaM.Cantor38,VaughanJ.
+risklociwithsharedeffectsonfivemajorpsychiatricdisorders:agenome-wide Carr39,40,NoaCarrera6,StanleyV.Catts39,41,KimberlyD.Chambert2,RaymondC.K.
+analysis.Lancet381,1371–1379(2013). Chan42,RonaldY.L.Chen43,EricY.H.Chen43,44,WeiCheng45,EricF.C.Cheung46,
+33. Purcell,S.M.etal.Apolygenicburdenofraredisruptivemutationsin SiowAnnChong47,C.RobertCloninger48,DavidCohen49,NadineCohen50,Paul
+schizophrenia.Nature506,185–190(2014). Cormican5,NickCraddock6,7,JamesJ.Crowley51,DavidCurtis52,53,Michael
+34. Fromer,M.etal.Denovomutationsinschizophreniaimplicatesynapticnetworks. Davidson54,KennethL.Davis36,FranziskaDegenhardt55,56,JurgenDelFavero57,Ditte
+Nature506,179–184(2014). Demontis17,58,59,DimitrisDikeos60,TimothyDinan61,SrdjanDjurovic14,62,Gary
+35. Kirov,G.etal.DenovoCNVanalysisimplicatesspecificabnormalitiesof Donohoe5,63,ElodieDrapeau36,JubaoDuan64,65,FrankDudbridge66,Naser
+postsynapticsignallingcomplexesinthepathogenesisofschizophrenia.Mol. Durmishi67,PeterEichhammer68,JohanEriksson69,70,71,ValentinaEscott-Price6,
+Psychiatry17,142–153(2012). LaurentEssioux72,AymanH.Fanous73,74,75,76,MartiliasS.Farrell51,JosefFrank77,
+36. WellcomeTrustCaseControlConsortiumBayesianrefinementofassociation LudeFranke78,RobertFreedman79,NelsonB.Freimer80,MarionFriedl81,JosephI.
+signalsfor14lociin3commondiseases.NatureGenet.44,1294–1301(2012). Friedman36,MenachemFromer1,2,4,82,GiulioGenovese2,LyudmilaGeorgieva6,Ina
+37. Nicolae,D.L.etal.Trait-associatedSNPsaremorelikelytobeeQTLs:annotationto Giegling81,83,PaolaGiusti-Rodr´ıguez51,StephanieGodard84,JacquelineI.
+enhancediscoveryfromGWAS.PLoSGenet.6,e1000888(2010). Goldstein1,3,VeraGolimbet85,SrihariGopal86,JacobGratten87,LieuwedeHaan88,
+38. Maurano,M.T.etal.Systematiclocalizationofcommondisease-associated ChristianHammer23,MarianL.Hamshere6,MarkHansen89,ThomasHansen17,90,
+variationinregulatoryDNA.Science337,1190–1195(2012). VahramHaroutunian36,91,92,AnnetteM.Hartmann81,FransA.Henskens39,93,94,
+39. Richards,A.L.etal.Schizophreniasusceptibilityallelesareenrichedforallelesthat StefanHerms55,56,95,JoelN.Hirschhorn3,11,96,PerHoffmann55,56,95,Andrea
+affectgeneexpressioninadulthumanbrain.Mol.Psychiatry17,193–201(2012). Hofman55,56,MadsV.Hollegaard97,DavidM.Hougaard97,MasashiIkeda98,Inge
+40. Wright,F.A.etal.Heritabilityandgenomicsofgeneexpressioninperipheralblood. Joa99,AntonioJulia`100,Rene´S.Kahn34,LubaKalaydjieva101,102,Sena
+NatureGenet.46,430–437(2014). Karachanak-Yankova103,JuhaKarjalainen78,DavidKavanagh6,MatthewC.Keller104,
+41. Doyle,J.P.etal.Applicationofatranslationalprofilingapproachforthe JamesL.Kennedy105,106,107,AndreyKhrunin108,YunjungKim51,JanisKlovins109,
+comparativeanalysisofCNScelltypes.Cell135,749–762(2008). JamesA.Knowles110,BettinaKonte81,VaidutisKucinskas111,ZitaAusrele
+42. Tkachev,D.etal.Oligodendrocytedysfunctioninschizophreniaandbipolar Kucinskiene111,HanaKuzelova-Ptackova112,AnnaK.Ka¨hler26,Claudine
+disorder.Lancet362,798–805(2003). Laurent19,113,JimmyLeeCheeKeong47,114,S.HongLee87,SophieE.Legge6,Bernard
+43. Benros,M.E.,Mortensen,P.B.&Eaton,W.W.Autoimmunediseasesandinfections Lerer115,MiaoxinLi43,44,116,TaoLi117,Kung-YeeLiang118,JeffreyLieberman119,
+asriskfactorsforschizophrenia.Ann.NYAcad.Sci.1262,56–66(2012). SvetlanaLimborska108,CarmelM.Loughland39,120,JanLubinski121,Jouko
+44. Holmans,P.etal.GeneontologyanalysisofGWAstudydatasetsprovidesinsights Lo¨nnqvist122,MilanMacekJr112,PatrikK.E.Magnusson26,BrionS.Maher123,
+intothebiologyofbipolardisorder.Am.J.Hum.Genet.85,13–24(2009). WolfgangMaier124,JacquesMallet125,SaraMarsal100,ManuelMattheisen17,58,59,126,
+45. Lee,P.H.,O’Dushlaine,C.,Thomas,B.&Purcell,S.InRich:interval-based MortenMattingsdal14,127,RobertW.McCarley128,129,ColmMcDonald130,AndrewM.
+enrichmentanalysisforgenome-wideassociationstudies.Bioinformatics28, McIntosh131,132,SandraMeier77,CarinJ.Meijer88,BelaMelegh24,25,Ingrid
+1797–1799(2012). Melle14,133,RaquelleI.Mesholam-Gately128,134,AndresMetspalu135,PatriciaT.
+46. Lee,S.H.,Goddard,M.E.,Wray,N.R.&Visscher,P.M.Abettercoefficientof Michie39,136,LiliMilani135,VihraMilanova137,YounesMokrab8,DerekW.Morris5,63,
+determinationforgeneticprofileanalysis.Genet.Epidemiol.36,214–224(2012). OleMors17,58,138,KieranC.Murphy139,RobinM.Murray140,InezMyin-Germeys141,
+47. Gottesman,I.I.&Gould,T.D.Theendophenotypeconceptinpsychiatry: BertramMu¨ller-Myhsok142,143,144,MariNelis135,IgorNenadic145,DeborahA.
+etymologyandstrategicintentions.Am.J.Psychiatry160,636–645(2003). Nertney146,GeraldNestadt147,KristinK.Nicodemus148,LieneNikitina-Zake109,Laura
+48. Insel,T.etal.Researchdomaincriteria(RDoC):towardanewclassification Nisenbaum149,AnnelieNordin150,EadbhardO’Callaghan151,ColmO’Dushlaine2,F.
+frameworkforresearchonmentaldisorders.Am.J.Psychiatry167,748–751 AnthonyO’Neill152,Sang-YunOh153,AnnOlincy79,LineOlsen17,90,JimVanOs141,154,
+(2010). PsychosisEndophenotypesInternationalConsortium155,ChristosPantelis39,156,
+24 JULY 2014 | VOL 511 | NATURE | 425
+©2014Macmillan Publishers Limited. All rights reserved
+
+RESEARCH ARTICLE
+GeorgeN.Papadimitriou60,SergiPapiol23,ElenaParkhomenko36,MicheleT.Pato110, SouthWales,SydneyNSW2031,Australia.41RoyalBrisbaneandWomen’sHospital,
+TiinaPaunio157,158,MilicaPejovic-Milovancevic159,DianaO.Perkins160,Olli UniversityofQueensland,Brisbane,StLuciaQLD4072,Australia.42Instituteof
+Pietila¨inen158,161,JonathanPimm53,AndrewJ.Pocklington6,JohnPowell140,Alkes Psychology,ChineseAcademyofScience,Beijing100101,China.43Departmentof
+Price3,162,AnnE.Pulver147,ShaunM.Purcell82,DigbyQuested163,HenrikB. Psychiatry,LiKaShingFacultyofMedicine,TheUniversityofHongKong,HongKong,
+Rasmussen17,90,AbrahamReichenberg36,MarkA.Reimers164,AlexanderL. China.44StateKeyLaboratoryforBrainandCognitiveSciences,LiKaShingFacultyof
+Richards6,JoshuaL.Roffman30,32,PanosRoussos82,165,DouglasM.Ruderfer6,82, Medicine,TheUniversityofHongKong,HongKong,China.45DepartmentofComputer
+VeikkoSalomaa71,AlanR.Sanders64,65,UlrichSchall39,120,ChristianR.Schubert166, Science,UniversityofNorthCarolina,ChapelHill,NorthCarolina27514,USA.46Castle
+ThomasG.Schulze77,167,SibylleG.Schwab168,EdwardM.Scolnick2,RodneyJ. PeakHospital,HongKong,China.47InstituteofMentalHealth,Singapore539747,
+Scott39,169,170,LarryJ.Seidman128,134,JianxinShi171,EngilbertSigurdsson172, Singapore.48DepartmentofPsychiatry,WashingtonUniversity,St.Louis,Missouri63110,
+TeimurazSilagadze173,JeremyM.Silverman36,174,KangSim47,PetrSlominsky108, USA.49DepartmentofChildandAdolescentPsychiatry,AssistancePubliqueHopitauxde
+JordanW.Smoller2,4,Hon-CheongSo43,ChrisC.A.Spencer175,EliA.Stahl3,82,Hreinn Paris,PierreandMarieCurieFacultyofMedicineandInstituteforIntelligentSystemsand
+Stefansson176,StacySteinberg176,ElisabethStogmann177,RichardE.Straub178,Eric Robotics,Paris75013,France.50BlueNoteBiosciences,Princeton,NewJersey08540,
+Strengman179,34,JanaStrohmaier77,T.ScottStroup119,MythilySubramaniam47, USA51DepartmentofGenetics,UniversityofNorthCarolina,ChapelHill,NorthCarolina
+JaanaSuvisaari122,DraganM.Svrakic48,JinP.Szatkiewicz51,ErikSo¨derman12, 27599-7264,USA.52DepartmentofPsychologicalMedicine,QueenMaryUniversityof
+SrinivasThirumalai180,DragaToncheva103,SarahTosato181,JuhaVeijola182,183,John London,LondonE11BB,UK.53MolecularPsychiatryLaboratory,DivisionofPsychiatry,
+Waddington184,DermotWalsh185,DaiWang86,QiangWang117,BradleyT.Webb22, UniversityCollegeLondon,LondonWC1E6JJ,UK.54ShebaMedicalCenter,TelHashomer
+MarkWeiser54,DieterB.Wildenauer186,NigelM.Williams6,StephanieWilliams51, 52621,Israel.55DepartmentofGenomics,LifeandBrainCenter,D-53127Bonn,
+StephanieH.Witt77,AaronR.Wolen164,EmilyH.M.Wong43,BrandonK.Wormley22, Germany.56InstituteofHumanGenetics,UniversityofBonn,D-53127Bonn,Germany.
+HualinSimonXi187,ClementC.Zai105,106,XuebinZheng188,FritzZimprich177,Naomi 57AppliedMolecularGenomicsUnit,VIBDepartmentofMolecularGenetics,Universityof
+R.Wray87,KariStefansson176,PeterM.Visscher87,WellcomeTrustCase-Control Antwerp,B-2610Antwerp,Belgium.58CentreforIntegrativeSequencing,iSEQ,Aarhus
+Consortium2189,RolfAdolfsson150,OleA.Andreassen14,133,DouglasH.R. University,DK-8000AarhusC,Denmark.59DepartmentofBiomedicine,Aarhus
+Blackwood132,ElviraBramon190,JosephD.Buxbaum35,36,91,191,AndersD. University,DK-8000AarhusC,Denmark.60FirstDepartmentofPsychiatry,Universityof
+Børglum17,58,59,138,SvenCichon55,56,95,192,ArielDarvasi193,EnricoDomenici194, AthensMedicalSchool,Athens11528,Greece.61DepartmentofPsychiatry,University
+HanneloreEhrenreich23,To˜nuEsko3,11,96,135,PabloV.Gejman64,65,MichaelGill5, CollegeCork,Co.Cork,Ireland.62DepartmentofMedicalGenetics,OsloUniversity
+HughGurling53,ChristinaM.Hultman26,NakaoIwata98,AssenV. Hospital,0424Oslo,Norway.63CognitiveGeneticsandTherapyGroup,Schoolof
+Jablensky39,102,186,195,ErikG.Jo¨nsson12,14,KennethS.Kendler196,GeorgeKirov6,Jo PsychologyandDisciplineofBiochemistry,NationalUniversityofIrelandGalway,Co.
+Knight105,106,107,ToddLencz197,198,199,DouglasF.Levinson19,QingqinS.Li86,Jianjun Galway,Ireland.64DepartmentofPsychiatryandBehavioralNeuroscience,Universityof
+Liu188,200,AnilK.Malhotra197,198,199,StevenA.McCarroll2,96,AndrewMcQuillin53, Chicago,Chicago,Illinois60637,USA.65DepartmentofPsychiatryandBehavioral
+JenniferL.Moran2,PrebenB.Mortensen15,16,17,BryanJ.Mowry87,201,MarkusM. Sciences,NorthShoreUniversityHealthSystem,Evanston,Illinois60201,USA.
+No¨then55,56,RoelA.Ophoff38,80,34,MichaelJ.Owen6,7,AarnoPalotie2,4,161,CarlosN. 66DepartmentofNon-CommunicableDiseaseEpidemiology,LondonSchoolofHygiene
+Pato110,TraceyL.Petryshen2,128,202,DaniellePosthuma203,204,205,Marcella andTropicalMedicine,LondonWC1E7HT,UK.67DepartmentofChildandAdolescent
+Rietschel77,BrienP.Riley196,DanRujescu81,83,PakC.Sham43,44,116,Pamela Psychiatry,UniversityClinicofPsychiatry,Skopje1000,RepublicofMacedonia.
+Sklar82,91,165,DavidStClair206,DanielR.Weinberger178,207,JensR.Wendland166, 68DepartmentofPsychiatry,UniversityofRegensburg,93053Regensburg,Germany.
+ThomasWerge17,90,208,MarkJ.Daly1,2,3,PatrickF.Sullivan26,51,160&MichaelC. 69DepartmentofGeneralPractice,HelsinkiUniversityCentralHospital,Universityof
+O’Donovan6,7 HelsinkiP.O.Box20,Tukholmankatu8B,FI-00014,Helsinki,Finland70Folkha¨lsan
+ResearchCenter,Helsinki,Finland,BiomedicumHelsinki1,Haartmaninkatu8,FI-00290,
+Helsinki,Finland.71NationalInstituteforHealthandWelfare,P.O.Box30,FI-00271
+1AnalyticandTranslationalGeneticsUnit,MassachusettsGeneralHospital,Boston, Helsinki,Finland.72TranslationalTechnologiesandBioinformatics,PharmaResearch
+Massachusetts02114,USA.2StanleyCenterforPsychiatricResearch,BroadInstituteof
+andEarlyDevelopment,F.Hoffman-LaRoche,CH-4070Basel,Switzerland.
+MITandHarvard,Cambridge,Massachusetts02142,USA.3MedicalandPopulation 73DepartmentofPsychiatry,GeorgetownUniversitySchoolofMedicine,WashingtonDC
+GeneticsProgram,BroadInstituteofMITandHarvard,Cambridge,Massachusetts 20057,USA.74DepartmentofPsychiatry,KeckSchoolofMedicineoftheUniversityof
+02142,USA.4PsychiatricandNeurodevelopmentalGeneticsUnit,Massachusetts SouthernCalifornia,LosAngeles,California90033,USA.75DepartmentofPsychiatry,
+GeneralHospital,Boston,Massachusetts02114,USA.5NeuropsychiatricGenetics
+VirginiaCommonwealthUniversitySchoolofMedicine,Richmond,Virginia23298,USA.
+ResearchGroup,DepartmentofPsychiatry,TrinityCollegeDublin,Dublin8,Ireland. 76MentalHealthServiceLine,WashingtonVAMedicalCenter,WashingtonDC20422,
+6MRCCentreforNeuropsychiatricGeneticsandGenomics,InstituteofPsychological USA.77DepartmentofGeneticEpidemiologyinPsychiatry,CentralInstituteofMental
+MedicineandClinicalNeurosciences,SchoolofMedicine,CardiffUniversity,CardiffCF24 Health,MedicalFacultyMannheim,UniversityofHeidelberg,Heidelberg,D-68159
+4HQ,UK.7NationalCentreforMentalHealth,CardiffUniversity,CardiffCF244HQ,UK.8Eli Mannheim,Germany.78DepartmentofGenetics,UniversityofGroningen,University
+LillyandCompanyLimited,ErlWoodManor,SunninghillRoad,Windlesham,Surrey MedicalCentreGroningen,9700RBGroningen,TheNetherlands.79Departmentof
+GU206PH,UK.9Social,GeneticandDevelopmentalPsychiatryCentre,Instituteof Psychiatry,UniversityofColoradoDenver,Aurora,Colorado80045,USA.80Centerfor
+Psychiatry,King’sCollegeLondon,LondonSE58AF,UK.10CenterforBiologicalSequence NeurobehavioralGenetics,SemelInstituteforNeuroscienceandHumanBehavior,
+Analysis,DepartmentofSystemsBiology,TechnicalUniversityofDenmark,DK-2800, UniversityofCalifornia,LosAngeles,California90095,USA.81DepartmentofPsychiatry,
+Denmark.11DivisionofEndocrinologyandCenterforBasicandTranslationalObesity UniversityofHalle,06112Halle,Germany.82DivisionofPsychiatricGenomics,
+Research,BostonChildren’sHospital,Boston,Massachusetts02115,USA.12Department DepartmentofPsychiatry,IcahnSchoolofMedicineatMountSinai,NewYork,NewYork,
+ofClinicalNeuroscience,PsychiatrySection,KarolinskaInstitutet,SE-17176Stockholm, NewYork10029,USA.83DepartmentofPsychiatry,UniversityofMunich,80336,Munich,
+Sweden.13DepartmentofPsychiatry,DiakonhjemmetHospital,0319Oslo,Norway. Germany.84DepartmentsofPsychiatryandHumanandMolecularGenetics,INSERM,
+14NORMENT,KGJebsenCentreforPsychosisResearch,InstituteofClinicalMedicine, InstitutdeMyologie,HoˆpitaldelaPitie`-Salpeˆtrie`re,Paris75013,France.85MentalHealth
+UniversityofOslo,0424Oslo,Norway.15CentreforIntegrativeRegister-basedResearch, ResearchCentre,RussianAcademyofMedicalSciences,115522Moscow,Russia.
+CIRRAU,AarhusUniversity,DK-8210Aarhus,Denmark.16NationalCentrefor 86NeuroscienceTherapeuticArea,JanssenResearchandDevelopment,Raritan,New
+Register-basedResearch,AarhusUniversity,DK-8210Aarhus,Denmark.17TheLundbeck Jersey08869,USA.87QueenslandBrainInstitute,TheUniversityofQueensland,
+FoundationInitiativeforIntegrativePsychiatricResearch,iPSYCH,Denmark.18State Brisbane,Queensland,QLD4072,Australia.88AcademicMedicalCentreUniversityof
+MentalHospital,85540Haar,Germany.19DepartmentofPsychiatryandBehavioral Amsterdam,DepartmentofPsychiatry,1105AZAmsterdam,TheNetherlands.
+Sciences,StanfordUniversity,Stanford,California94305,USA.20Departmentof 89Illumina,LaJolla,California,California92122,USA.90InstituteofBiologicalPsychiatry,
+PsychiatryandBehavioralSciences,AtlantaVeteransAffairsMedicalCenter,Atlanta, MentalHealthCentreSct.Hans,MentalHealthServicesCopenhagen,DK-4000,Denmark.
+Georgia30033,USA.21DepartmentofPsychiatryandBehavioralSciences,Emory 91FriedmanBrainInstitute,IcahnSchoolofMedicineatMountSinai,NewYork,NewYork
+University,Atlanta,Georgia30322,USA.22VirginiaInstituteforPsychiatricandBehavioral 10029,USA.92J.J.PetersVAMedicalCenter,Bronx,NewYork,NewYork10468,USA.
+Genetics,DepartmentofPsychiatry,VirginiaCommonwealthUniversity,Richmond, 93PriorityResearchCentreforHealthBehaviour,UniversityofNewcastle,NewcastleNSW
+Virginia23298,USA.23ClinicalNeuroscience,MaxPlanckInstituteofExperimental 2308,Australia.94SchoolofElectricalEngineeringandComputerScience,Universityof
+Medicine,Go¨ttingen37075,Germany.24DepartmentofMedicalGenetics,Universityof Newcastle,NewcastleNSW2308,Australia.95DivisionofMedicalGenetics,Department
+Pe´cs,Pe´csH-7624,Hungary.25SzentagothaiResearchCenter,UniversityofPe´cs,Pe´cs ofBiomedicine,UniversityofBasel,BaselCH-4058,Switzerland.96Departmentof
+H-7624,Hungary.26DepartmentofMedicalEpidemiologyandBiostatistics,Karolinska Genetics,HarvardMedicalSchool,Boston,Massachusetts,Massachusetts02115,USA.
+Institutet,StockholmSE-17177,Sweden.27DepartmentofPsychiatry,UniversityofIowa 97SectionofNeonatalScreeningandHormones,DepartmentofClinicalBiochemistry,
+CarverCollegeofMedicine,IowaCity,Iowa52242,USA.28UniversityMedicalCenter ImmunologyandGenetics,StatensSerumInstitut,CopenhagenDK-2300,Denmark.
+Groningen,DepartmentofPsychiatry,UniversityofGroningenNL-9700RB,The 98DepartmentofPsychiatry,FujitaHealthUniversitySchoolofMedicine,Toyoake,
+Netherlands.29SchoolofNursing,LouisianaStateUniversityHealthSciencesCenter,New Aichi,470-1192,Japan.99RegionalCentreforClinicalResearchinPsychosis,Department
+Orleans,Louisiana70112,USA.30AthinoulaA.MartinosCenter,MassachusettsGeneral ofPsychiatry,StavangerUniversityHospital,4011Stavanger,Norway.100Rheumatology
+Hospital,Boston,Massachusetts02129,USA.31CenterforBrainScience,Harvard ResearchGroup,Valld’HebronResearchInstitute,Barcelona08035,Spain.101Centrefor
+University,Cambridge,Massachusetts02138,USA.32DepartmentofPsychiatry, MedicalResearch,TheUniversityofWesternAustralia,PerthWA6009,Australia.102The
+MassachusettsGeneralHospital,Boston,Massachusetts02114,USA.33Departmentof PerkinsInstituteforMedicalResearch,TheUniversityofWesternAustralia,Perth
+Psychiatry,UniversityofCaliforniaatSanFrancisco,SanFrancisco,California94143, WA6009,Australia.103DepartmentofMedicalGenetics,MedicalUniversity,Sofia1431,
+USA.34UniversityMedicalCenterUtrecht,DepartmentofPsychiatry,RudolfMagnus Bulgaria.104DepartmentofPsychology,UniversityofColoradoBoulder,Boulder,
+InstituteofNeuroscience,3584Utrecht,TheNetherlands.35DepartmentofHuman Colorado80309,USA.105CampbellFamilyMentalHealthResearchInstitute,Centrefor
+Genetics,IcahnSchoolofMedicineatMountSinai,NewYork,NewYork10029,USA. AddictionandMentalHealth,Toronto,OntarioM5T1R8,Canada.106Departmentof
+36DepartmentofPsychiatry,IcahnSchoolofMedicineatMountSinai,NewYork,NewYork Psychiatry,UniversityofToronto,Toronto,OntarioM5T1R8,Canada.107Instituteof
+10029,USA.37CentreHospitalierduRouvrayandINSERMU1079FacultyofMedicine, MedicalScience,UniversityofToronto,Toronto,OntarioM5S1A8,Canada.108Instituteof
+76301Rouen,France.38DepartmentofHumanGenetics,DavidGeffenSchoolof MolecularGenetics,RussianAcademyofSciences,Moscow123182,Russia.109Latvian
+Medicine,UniversityofCalifornia,LosAngeles,California90095,USA.39Schizophrenia BiomedicalResearchandStudyCentre,Riga,LV-1067,Latvia.110Departmentof
+ResearchInstitute,SydneyNSW2010,Australia.40SchoolofPsychiatry,UniversityofNew PsychiatryandZilkhaNeurogeneticsInstitute,KeckSchoolofMedicineatUniversityof
+426 | NATURE | VOL 511 | 24 JULY 2014
+©2014Macmillan Publishers Limited. All rights reserved
+
+ARTICLE RESEARCH
+SouthernCalifornia,LosAngeles,California90089,USA.111FacultyofMedicine,Vilnius MolecularMedicineFinland,FIMM,UniversityofHelsinki,P.O.Box20FI-00014,Helsinki,
+University,LT-01513Vilnius,Lithuania.112DepartmentofBiologyandMedicalGenetics, Finland162DepartmentofEpidemiology,HarvardSchoolofPublicHealth,Boston,
+2ndFacultyofMedicineandUniversityHospitalMotol,15006Prague,CzechRepublic. Massachusetts02115,USA.163DepartmentofPsychiatry,UniversityofOxford,Oxford,
+113DepartmentofChildandAdolescentPsychiatry,PierreandMarieCurieFacultyof OX37JX,UK.164VirginiaInstituteforPsychiatricandBehavioralGenetics,Virginia
+Medicine,Paris75013,France.114Duke-NUSGraduateMedicalSchool,Singapore CommonwealthUniversity,Richmond,Virginia23298,USA.165InstituteforMultiscale
+169857.115DepartmentofPsychiatry,Hadassah-HebrewUniversityMedicalCenter, Biology,IcahnSchoolofMedicineatMountSinai,NewYork,NewYork10029,USA.
+Jerusalem91120,Israel.116CentreforGenomicSciences,TheUniversityofHongKong, 166PharmaTherapeuticsClinicalResearch,PfizerWorldwideResearchandDevelopment,
+HongKong,China.117MentalHealthCentreandPsychiatricLaboratory,WestChina Cambridge,Massachusetts02139,USA.167DepartmentofPsychiatryand
+Hospital,SichuanUniversity,Chengdu,610041Sichuan,China.118Departmentof Psychotherapy,UniversityofGottingen,37073Go¨ttingen,Germany.168Psychiatryand
+Biostatistics,JohnsHopkinsUniversityBloombergSchoolofPublicHealth,Baltimore, PsychotherapyClinic,UniversityofErlangen,91054Erlangen,Germany.169HunterNew
+Maryland21205,USA.119DepartmentofPsychiatry,ColumbiaUniversity,NewYork,New EnglandHealthService,NewcastleNSW2308,Australia.170SchoolofBiomedical
+York10032,USA.120PriorityCentreforTranslationalNeuroscienceandMentalHealth, Sciences,UniversityofNewcastle,NewcastleNSW2308,Australia.171DivisionofCancer
+UniversityofNewcastle,NewcastleNSW2300,Australia.121DepartmentofGeneticsand
+EpidemiologyandGenetics,NationalCancerInstitute,Bethesda,Maryland20892,USA.
+Pathology,InternationalHereditaryCancerCenter,PomeranianMedicalUniversityin 172UniversityofIceland,Landspitali,NationalUniversityHospital,101Reykjavik,Iceland.
+Szczecin,70-453Szczecin,Poland.122DepartmentofMentalHealthandSubstance 173DepartmentofPsychiatryandDrugAddiction,TbilisiStateMedicalUniversity(TSMU),
+AbuseServices;NationalInstituteforHealthandWelfare,P.O.BOX30,FI-00271Helsinki, N33,0177Tbilisi,Georgia.174ResearchandDevelopment,BronxVeteransAffairsMedical
+Finland.123DepartmentofMentalHealth,BloombergSchoolofPublicHealth,Johns Center,NewYork,NewYork10468,USA.175WellcomeTrustCentreforHumanGenetics,
+HopkinsUniversity,Baltimore,Maryland21205,USA.124DepartmentofPsychiatry, OxfordOX37BN,UK.176deCODEGenetics,101Reykjavik,Iceland.177Departmentof
+UniversityofBonn,D-53127Bonn,Germany.125CentreNationaldelaRecherche ClinicalNeurology,MedicalUniversityofVienna,1090Wien,Austria.178LieberInstitute
+Scientifique,LaboratoiredeGe´ne´tiqueMole´culairedelaNeurotransmissionetdes forBrainDevelopment,Baltimore,Maryland21205,USA.179DepartmentofMedical
+ProcessusNeurode´ge´ne´ratifs,HoˆpitaldelaPitie´Salpeˆtrie`re,75013Paris,France.
+Genetics,UniversityMedicalCentreUtrecht,Universiteitsweg100,3584CG,Utrecht,The
+126DepartmentofGenomicsMathematics,UniversityofBonn,D-53127Bonn,Germany.
+Netherlands.180BerkshireHealthcareNHSFoundationTrust,BracknellRG121BQ,UK.
+127ResearchUnit,SørlandetHospital,4604Kristiansand,Norway.128Departmentof
+181SectionofPsychiatry,UniversityofVerona,37134Verona,Italy.182Departmentof
+Psychiatry,HarvardMedicalSchool,Boston,Massachusetts02115,USA.129VABoston
+Psychiatry,UniversityofOulu,P.O.Box5000,90014,Finland.183UniversityHospitalof
+HealthCareSystem,Brockton,Massachusetts02301,USA.130DepartmentofPsychiatry,
+Oulu,P.O.Box20,90029OYS,Finland.184MolecularandCellularTherapeutics,Royal
+NationalUniversityofIrelandGalway,Co.Galway,Ireland.131CentreforCognitiveAgeing
+CollegeofSurgeonsinIreland,Dublin2,Ireland.185HealthResearchBoard,Dublin2,
+a 13 n 2 d D C iv o is g i n on iti o ve fP E s p y id ch e i m at i r o y lo ,U gy n , iv U e n rs iv it e y rs o i f ty E o d f in E b d u in rg b h u , r E g d h i , n E b d u in rg b h ur E g H h 1 E 6 H 4 1 S 6 B 4 , S U B K , . U 13 K 3 . Division I A r u el s a t n ra d l . ia 1 , 8 P 6S er c t h h o W ol A o 6 f 0 P 0 s 9 yc ,A hi u a s t t r r y a a li n a. d 1 C 87 li C n o ic m al p N u e ta u t r io o n sc a i l e S n c c i e e s n , c T e h s e C U o n E i , v P e f r i s z i e ty rW of o W rld es w t i e d r e n
+o 1 D 3 f e 4 M a M c e a o n s n t s e a a s l c s H h M e u a s e l e t d h t i t c s a a n M l d C e e A n n t d a t d e l i r H c , t B e io a o n l s t , h to O C n s e , lo M nt U a e n s r s i P v a e u c r b h s u l i i t c s y e P H t s t o s y s c 0 p h 2 i i t 1 a a t 1 l r , 4 y 0 , D 4 U 2 iv S 4 i A s O i . o 1 s n 3 lo 5 o E , f N s t t h o o e r n w i B a a e n y t . h Ge Is n r o a m el e G Re e s n e e a ti r c c s h ,G an en d o D m e e ve In lo s p ti m tu e te nt o , f C S a i m ng b a r p id o g re e , , A M * a S s T s A a R ch ,S u i s n e g t a ts p 0 or 2 e 1 1 3 3 9 8 ,U 67 S 2 A . . 1 1 8 8 9 8 A H l u is m to a f n authors
+Center,UniversityofTartu,Tartu50090,Estonia.136SchoolofPsychology,Universityof
+andaffiliationsappearintheSupplementaryInformation.190UniversityCollegeLondon,
+Newcastle,NewcastleNSW2308,Australia.137FirstPsychiatricClinic,MedicalUniversity,
+LondonWC1E6BT,UK.191DepartmentofNeuroscience,IcahnSchoolofMedicineat
+Sofia1431,Bulgaria.138DepartmentP,AarhusUniversityHospital,DK-8240Risskov,
+MountSinai,NewYork,NewYork10029,USA.192InstituteofNeuroscienceandMedicine
+Denmark.139DepartmentofPsychiatry,RoyalCollegeofSurgeonsinIreland,Dublin2,
+(INM-1),ResearchCenterJuelich,52428Juelich,Germany.193DepartmentofGenetics,
+Ireland.140King’sCollegeLondon,LondonSE58AF,UK.141MaastrichtUniversityMedical
+TheHebrewUniversityofJerusalem,91905Jerusalem,Israel.194NeuroscienceDiscovery
+andTranslationalArea,PharmaResearchandEarlyDevelopment,F.Hoffman-LaRoche,
+Centre,SouthLimburgMentalHealthResearchandTeachingNetwork,EURON,6229HX
+Maastricht,TheNetherlands.142InstituteofTranslationalMedicine,Universityof CH-4070Basel,Switzerland.195CentreforClinicalResearchinNeuropsychiatry,School
+Liverpool,LiverpoolL693BX,UK.143MaxPlanckInstituteofPsychiatry,80336Munich, ofPsychiatryandClinicalNeurosciences,TheUniversityofWesternAustralia,Medical
+Germany.144MunichClusterforSystemsNeurology(SyNergy),80336Munich,Germany. ResearchFoundationBuilding,PerthWA6000,Australia.196VirginiaInstitutefor
+145DepartmentofPsychiatryandPsychotherapy,JenaUniversityHospital,07743Jena, PsychiatricandBehavioralGenetics,DepartmentsofPsychiatryandHumanand
+Germany.146DepartmentofPsychiatry,QueenslandBrainInstituteandQueensland MolecularGenetics,VirginiaCommonwealthUniversity,Richmond,Virginia23298,USA.
+CentreforMentalHealthResearch,UniversityofQueensland,Brisbane,Queensland,St
+197TheFeinsteinInstituteforMedicalResearch,Manhasset,NewYork11030,USA.
+LuciaQLD4072,Australia.147DepartmentofPsychiatryandBehavioralSciences,Johns 198TheHofstraNS-LIJSchoolofMedicine,Hempstead,NewYork11549,USA.199The
+HopkinsUniversitySchoolofMedicine,Baltimore,Maryland21205,USA.148Department ZuckerHillsideHospital,GlenOaks,NewYork11004,USA.200SawSweeHockSchoolof
+ofPsychiatry,TrinityCollegeDublin,Dublin2,Ireland.149EliLillyandCompany,Lilly PublicHealth,NationalUniversityofSingapore,Singapore117597,Singapore.
+CorporateCenter,Indianapolis,46285Indiana,USA.150DepartmentofClinicalSciences, 201QueenslandCentreforMentalHealthResearch,UniversityofQueensland,Brisbane
+Psychiatry,Umea˚University,SE-90187Umea˚,Sweden.151DETECTEarlyIntervention 4076,Queensland,Australia.202CenterforHumanGeneticResearchandDepartmentof
+ServiceforPsychosis,Blackrock,Co.Dublin,Ireland.152CentreforPublicHealth,Institute Psychiatry,MassachusettsGeneralHospital,Boston,Massachusetts02114,USA.
+ofClinicalSciences,Queen’sUniversityBelfast,BelfastBT126AB,UK.153Lawrence 203DepartmentofChildandAdolescentPsychiatry,ErasmusUniversityMedicalCentre,
+BerkeleyNationalLaboratory,UniversityofCaliforniaatBerkeley,Berkeley,California Rotterdam3000,TheNetherlands.204DepartmentofComplexTraitGenetics,
+94720,USA.154InstituteofPsychiatry,King’sCollegeLondon,LondonSE58AF,UK.155A NeuroscienceCampusAmsterdam,VUUniversityMedicalCenterAmsterdam,
+listofauthorsandaffiliationsappearintheSupplementaryInformation.156Melbourne Amsterdam1081,TheNetherlands.205DepartmentofFunctionalGenomics,Centerfor
+NeuropsychiatryCentre,UniversityofMelbourne&MelbourneHealth,Melbourne,Vic NeurogenomicsandCognitiveResearch,NeuroscienceCampusAmsterdam,VU
+3053,Australia.157DepartmentofPsychiatry,UniversityofHelsinki,P.O.Box590, University,Amsterdam1081,TheNetherlands.206UniversityofAberdeen,Instituteof
+FI-00029HUS,Helsinki,Finland.158PublicHealthGenomicsUnit,NationalInstitutefor MedicalSciences,AberdeenAB252ZD,UK.207DepartmentsofPsychiatry,Neurology,
+HealthandWelfare,P.O.BOX30,FI-00271Helsinki,Finland159MedicalFaculty, NeuroscienceandInstituteofGeneticMedicine,JohnsHopkinsSchoolofMedicine,
+UniversityofBelgrade,11000Belgrade,Serbia.160DepartmentofPsychiatry,University Baltimore,Maryland21205,USA.208DepartmentofClinicalMedicine,Universityof
+ofNorthCarolina,ChapelHill,NorthCarolina27599-7160,USA.161Institutefor Copenhagen,Copenhagen2200,Denmark.
+24 JULY 2014 | VOL 511 | NATURE | 427
+©2014Macmillan Publishers Limited. All rights reserved
+
+RESEARCH ARTICLE
+ExtendedDataFigure1|Homogeneityofeffectsacrossstudies. Plotofthe colourareproportionaltothenumberofcasesineachsample(largerand
+firsttwoprincipalcomponents(PCs)fromprincipalcomponentsanalysis darkerredcirclescorrespondtomorecases).Mostsamplescluster.Outliershad
+(PCA)ofthelogisticregressionbcoefficientsforautosomalgenome-wide eithersmallnumbersofcases(‘small’)orweregenotypedonolderarrays.
+significantassociations.Theinputdatawerethebcoefficientsfrom52samples Abbreviations:a500(Affymetrix500K);a5(Affymetrix5.0).Studiesthatdid
+for112independentSNPassociations(excluding3chrXSNPsand13SNPs notuseconventionalresearchinterviewsareinthecentralcluster(CLOZUK,
+withmissingvaluesinAsiansamples).PCAswereweightedbythenumberof Sweden,andDenmark-Aarhusstudies,seeSupplementaryMethodsfor
+cases.EachcircleshowsthelocationofastudyonPC1andPC2.Circlesizeand sampledescriptions).
+©2014Macmillan Publishers Limited. All rights reserved
+
+ARTICLE RESEARCH
+ExtendedDataFigure2|Quantile-quantileplot. Quantile-quantileplotof resultsderivedbylogisticregression(2-tailed)asinFig.1.Forclarity,we
+thediscoverygenome-wideassociationmeta-analysisof49casecontrol avoidedexpansionoftheyaxisbysettingthesmallestassociationPvaluesto
+samples(34,241casesand45,604controls)and3familybasedassociation 10212.Theshadedareasurroundedbyaredlineindicatesthe95%confidence
+studies(1,235parentaffected-offspringtrios).Expected–log Pvaluesare intervalunderthenull.l istheobservedmedianx2teststatisticdivided
+10 GC
+thoseexpectedunderthenullhypothesis.ObservedaretheGWASassociation bythemedianexpectedx2teststatisticunderthenullhypothesis.
+©2014Macmillan Publishers Limited. All rights reserved
+
+RESEARCH ARTICLE
+©2014Macmillan Publishers Limited. All rights reserved
+
+ARTICLE RESEARCH
+ExtendedDataFigure3|Linkagedisequilibriumscoreregression distributedper-normalized-genotypeeffectstoarandomlyselectedsubsetof
+consistentwithpolygenicinheritance. Therelationshipbetweenmarkerx2 variants.c,ResultsfromthePGCschizophreniaGWAS(l51.48).Thereal
+associationstatisticsandlinkagedisequilibrium(LD)asmeasuredbythe dataarestrikinglysimilartothesimulateddatasummarizedinbbutnota.The
+linkagedisequilibriumscore.Linkagedisequilibriumscoreisthesumofthe interceptestimatestheinflationinthemeanx2thatresultsfromconfounding
+r2valuesbetweenavariantandallotherknownvariantswithina1cMwindow, biases,suchascrypticrelatednessorpopulationstratification.Thus,the
+andquantifiestheamountofgeneticvariationtaggedbythatvariant.Variants interceptof1.066fortheschizophreniaGWASsuggeststhat,90%ofthe
+weregroupedinto50equal-sizedbinsbasedonlinkagedisequilibriumscore inflationinthemeanx2resultsfrompolygenicsignal.Theresultsofthe
+rank.Linkagedisequilibriumscorebinandmeanx2denotesmeanlinkage simulationsarealsoconsistentwiththeoreticalexpectation(seeSupplementary
+disequilibriumscoreandteststatisticformarkerseachbin.a,b,Wesimulated Methods).listhemedianx2teststatisticfromthesimulations(a,b)orthe
+(SupplementaryMethods)teststatisticsundertwoscenarios:a,notrue observeddata(c)dividedbythemedianexpectedx2teststatisticunderthe
+association,inflationduetopopulationstratification;andb,polygenic nullhypothesis.
+inheritance(l51.32),inwhichweassignedindependentandidentically
+©2014Macmillan Publishers Limited. All rights reserved
+
+RESEARCH ARTICLE
+ExtendedDataFigure4|Enrichmentofassociationsintissuesandcells. braincellsubsetsobtainedfrommouseribotaggedlines41usingenrichment
+GeneswhosetranscriptionalstartisnearesttothemostassociatedSNPateach analysisdescribedintheSupplementaryMethods.Thereddottedlineindicates
+schizophrenia-associatedlocusweretestedforenrichedexpressioninpurified P50.05.
+©2014Macmillan Publishers Limited. All rights reserved
+
+ARTICLE RESEARCH
+ExtendedDataFigure5|MGSriskprofilescoreanalysis. Polygenicrisk ofestimatesoftheSNPeffectsizes.Theproportionofvarianceexplained
+profilescore(RPS)analysesusingtheMGS18sampleastarget,andderivingrisk (yaxis;Nagelkerke’sR2)wascomputedbycomparisonofafullmodel
+allelesfromthreepublishedschizophreniadatasets(xaxis):ISC(2,615 (covariates1RPS)scoretoareducedmodel(covariatesonly).Tendifferent
+casesand3,338controls)10,PGC1(excludingMGS,9,320casesand10,228 Pvaluethresholds(P )forselectingriskallelesaredenotedbythecolourof
+T
+controls)16,andthecurrentmeta-analysis(excludingMGS)with32,838cases eachbar(legendaboveplot).Forsignificancetesting,seethebottomlegend
+and44,357controls.Samplessizesdifferslightlyfromtheoriginalpublications whichdenotesthePvalueforthetestthatR2isdifferentfromzero.All
+duetodifferentanalyticalprocedures.ThisshowstheincreasingRPS numericaldataandmethodsusedtogeneratetheseplotsareavailablein
+predictionwithincreasingtrainingdatasetsizereflectingimprovedprecision SupplementaryTable6andSupplementaryMethods.
+©2014Macmillan Publishers Limited. All rights reserved
+
+RESEARCH ARTICLE
+ExtendedDataFigure6|Riskprofilescoreanalysis. Wedefined40target plot)asforExtendedDataFig.5,butforclaritywerestricttofewerPvalue
+subgroupsoftheprimaryGWASdatasetandperformed40leave-one-out thresholds(P of531028,131024and0.05)andremovedthesignificance
+T
+GWASanalyses(seeSupplementaryMethodsandSupplementaryTable7) values.b,Theproportionofvarianceontheliabilityscalefromriskscores
+fromwhichwederivedriskallelesforRPSanalysis(xaxis)foreachtarget calculatedattheP 0.05with95%CIbarassumingbaselinepopulationdisease
+T
+subgroup.a,Theproportionofvarianceexplained(yaxis;Nagelkerke’sR2)was riskof1%.c,Areaunderthereceiveroperatingcurve(AUC).Allnumerical
+computedforeachtargetbycomparisonofafullmodel(covariates1RPS) dataandmethodsusedtogeneratetheseplotsareavailableinSupplementary
+scoretoareducedmodel(covariatesonly).Forclarity,3differentPvalue Table7andSupplementaryMethods.
+thresholds(P )arepresenteddenotedbythecolourofeachbar(legendabove
+T
+©2014Macmillan Publishers Limited. All rights reserved
+
+ARTICLE RESEARCH
+ExtendedDataFigure7|PairwiseepistasisanalysisofsignificantSNPs. X andX aregenotypesatthetwoloci,X(cid:2)X istheinteractionbetweenthetwo
+1 2 1 2
+Quantile-quantileplotforallpair-wise(n57,750)combinationsofthe125 genotypesmodelledinamultiplicativefashion,X isthevectorofprincipal
+4
+independentautosomalgenome-widesignificantSNPstestedfornon-additive components,X isthevectorofstudyindicatorvariables.Each^aisthe
+5
+effectsonriskusingcase-controldatasetsofEuropeanancestry(32,405cases regressioncoefficientinthegeneralizedlinearmodelusinglogisticregression.
+and42,221controls).Weincludedascovariatestheprincipalcomponents TheoveralldistributionofPvaluesdidnotdeviatefromthenullandthe
+fromthemainanalysisaswellasastudyindicator.Theinteractionmodelis smallestPvalue(4.2831024)didnotsurpasstheBonferronicorrection
+describedby: threshold(P50.05/775056.4531026).Thelinex5yindicatestheexpected
+nulldistributionwiththegreyareaboundedbyredlinesindicatingtheexpected
+Y~b z^a X z^a X z^a (cid:2)X(cid:2)X z^a X z^a X 95%confidenceintervalforthenull.
+0 1 1 2 2 3 1 2 4 4 5 5
+©2014Macmillan Publishers Limited. All rights reserved
+
+RESEARCH ARTICLE
+ExtendedDataTable1|ALIGATORandINRICH
+Genesetsthathavebeenreportedtobeenrichedforschizophreniaassociationsandorraremutationsweretestedforenrichmentforgenome-widesignificantassociationsusingALIGATOR44andINRICH45.
+Specifically,wetestedtheglutamatergicpostsynapticproteinscomprisingactivity-regulatedcytoskeleton-associatedprotein(ARC)andN-methyl-D-aspartatereceptor(NMDAR)complexes33–35,othercurated
+synapticgene-sets14,49,targetsoffragileXmentalretardationprotein(FMRP)33–35,calciumchannels11,33,andTargetScanpredictedMIR137sets11,16.TheMIR137TargetScansetscontaincomputationally
+predictedconservedmiRNAtargetsitesin39UTRsofhumangenes50.Thecurrentversionisv6,buttheversionusedinthepriorPGCSCZreport16wasbasedonv5(filteredforaprobabilityofconservedtargeting
+.0.9).Wereporttheresultsofbothanalysesforconsistencywithpreviouswork.TheassociationattheextendedMHCcomplexwasnotincludedgiventheextensivelinkagedisequilibriumatthisregionspanslarge
+numbersofgenes.NAmeansthatthepathwayinquestioncontainedfewerthan2significantgenes(forALIGATOR)orregions(INRICH).
+49. Lips,E.S.etal.Functionalgenegroupanalysisidentifiessynapticgene 50. Lewis,B.P.,Burge,C.B.&Bartel,D.P.Conservedseedpairing,oftenflankedby
+groupsasriskfactorforschizophrenia.Mol.Psychiatry17,996–1006 adenosines,indicatesthatthousandsofhumangenesaremicroRNAtargets.Cell
+(2012). 120,15–20(2005).
+©2014Macmillan Publishers Limited. All rights reserved
+
+ARTICLE RESEARCH
+ExtendedDataTable2|denovooverlap
+Testofoverlapbetweengenesmappingtoschizophrenia-associatedlociinthepresentstudyandgenesaffectedbynon-synonymous(NS)denovomutations.Enrichmentwascalculatedusingthednenrich
+permutationframeworkasdescribed34.GeneswithintheGWSloci(SupplementaryTable3)wereweightedby1/N,whereNisthenumberofcodinggeneswithineachassociatedlocus.Theobservedteststatistic
+(stat)isthesumofweightsofgenesimpactedbydenovomutations.Theexpectedteststatisticsarecalculatedbyaveragingover50,000permuteddenovomutationsets.Geneswithinschizophrenia-associated
+lociaffectedbydenovomutationsarelisted(multiplehitslistedinparentheses).Cohorts:SCZ,schizophrenia;ID,intellectualdisability;ASD,autismspectrumdisorder.Allmutationsanalysedannotatedaccording
+toaunifiedsystem(seeSupplementaryTables1and2ofref.34).Geneswithloss-of-functiondenovomutationsareunderlinedandinitalics.
+©2014Macmillan Publishers Limited. All rights reserved

@@ -1,0 +1,29 @@
+{
+  "student": {
+    "name": "Himanshu Singh",
+    "education": "M.A. Psychology, University of Lucknow",
+    "qualifications": "UGC NET Psychology (PhD), preparing for JRF June 2026",
+    "publications": "2 IGI Global book chapters (1st author + co-author), Best Paper Award at NAOP",
+    "skills": "SPSS (advanced), NVivo, Zotero, Mendeley",
+    "interests": "Cognitive Neuroscience, Neuropsychology, Clinical Psychology, Financial Psychology, AI\u00d7Psychology",
+    "experience": "Clinical observership at KGMU Psychiatry, Peer reviewer for IGI Global"
+  },
+  "professor": {
+    "name": "Singh T",
+    "focus": "COVID-19 psychology, gender-based violence, stigma, mental health, qualitative research",
+    "journals": "Frontiers in Psychology, Frontiers in Psychiatry, J Interpersonal Violence"
+  },
+  "paper_counts": {
+    "total_identified": 131,
+    "with_fulltext": 91,
+    "professor_papers": 16,
+    "top_cited": 150
+  },
+  "guide_structure": {
+    "part1": "Foundations of Research (Ch 01-06)",
+    "part2": "Writing Each Section (Ch 07-14)",
+    "part3": "Paper Types - Worked Examples (Ch 15-22)",
+    "part4": "AI \u00d7 Psychology (Ch 23-28)",
+    "part5": "Tools & Resources (Ch 29-35)"
+  }
+}

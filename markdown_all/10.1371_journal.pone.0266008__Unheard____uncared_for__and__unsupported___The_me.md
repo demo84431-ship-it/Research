@@ -1,0 +1,785 @@
+PLOS ONE
+RESEARCHARTICLE
+‘Unheard,’ ‘uncared for’ and ‘unsupported’:
+The mental health impact of Covid -19 on
+healthcare workers in KwaZulu-Natal
+Province, South Africa
+BilkisDawoodID 1*,AndrewTomita2,3,SuviraRamlall1
+1 DisciplineofPsychiatry,SchoolofClinicalMedicine,CollegeofHealthSciences,UniversityofKwaZulu-
+Natal,Durban,SouthAfrica,2 KwaZulu-NatalResearchInnovationandSequencingPlatform(KRISP),
+a1111111111
+CollegeofHealthSciences,UniversityofKwaZulu-Natal,Durban,SouthAfrica,3 CentreforRuralHealth,
+a1111111111
+SchoolofNursingandPublicHealth,CollegeofHealthSciences,UniversityofKwaZulu-Natal,Durban,South
+a1111111111
+Africa
+a1111111111
+a1111111111 *bilkis.dee@gmail.com
+Abstract
+OPENACCESS AsadirectconsequenceoftheCovid-19pandemic,duetobeingexposedtochronicand
+Citation:DawoodB,TomitaA,RamlallS(2022) multiplesourcesofpsychologicalstress,healthcareworkersconstituteavulnerablepopula-
+‘Unheard,’‘uncaredfor’and‘unsupported’:The tion.DespitethepotentialimpactofCovid-19ontheirpsychologicalandphysicalhealth,
+mentalhealthimpactofCovid-19onhealthcare
+insufficientattentionhasbeengiventotheirmentalwell-being.Theprimaryobjectiveofthis
+workersinKwaZulu-NatalProvince,SouthAfrica.
+PLoSONE17(5):e0266008.https://doi.org/ studywastomeasureandunderstandthispsychologicalimpactonpublicsectordoctors
+10.1371/journal.pone.0266008 andnursesinKwaZulu-NatalProvince,SouthAfrica.Thesecondaryobjectivewastoascer-
+Editor:RashidulAlamMahumud,TheUniversityof taintheirperceptionsofpsychosocialsupport,specifictoCovid-19,withintheworkplace.
+Sydney,AUSTRALIA Thiscross-sectionalelectronicsurveywasconductedfromAugusttoOctober2020,follow-
+Received:March29,2021 ingthefirstsurgeofthepandemicinthecountry,andincluded312participants.Depression,
+anxietyandstresssymptomswereassessedwiththeDepressionAnxietyandStressScale-
+Accepted:March11,2022
+21itemandpost-traumaticstresswasmeasuredbytheImpactofEventsScale-Revised
+Published:May4,2022
+version.Measuresofemployersupportwereassessedusinganadaptedclosed-ended
+Copyright:©2022Dawoodetal.Thisisanopen questionnaire.Theparticipants’meanagewas36.6±9.3yearswiththreequartersbeing
+accessarticledistributedunderthetermsofthe
+male(n=234,75.0%)andpredominantly(n=214,72.3%)medicaldoctors.Numbersof
+CreativeCommonsAttributionLicense,which
+permitsunrestricteduse,distribution,and participantswithdepression,anxietyandstresswere121(51.5%),111(47.2%)and104
+reproductioninanymedium,providedtheoriginal (44.3%)respectively,with38(16.2%),50(21.3%)and38(16.2%)inthecombinedsevere/
+authorandsourcearecredited.
+extremelysevererange,respectively.OntheImpactofEventsScale-Revised,34(13.7%)
+DataAvailabilityStatement:Allrelevantdataare participantswereinthesevererange.Subjectively,63.0%feltthattheirconcernswerenot
+withinthepaperanditsSupportingInformation
+‘heard’,75.1%didnotfeel‘caredfor’and81.1%and74.0%didnotfeel‘physically’or‘psy-
+files.
+chologically’supported,respectively.Highlevelsofdepression,anxiety,stressandtrau-
+Funding:ATwassupportedbytheUKGlobal
+maticstress,combinedwithpoorperceptionsofemployersupport,highlighttheneedto
+ChallengeResearchFund(MR/T029803/1).The
+identifyandaddressthepsychosocialsupportneedsandexpectationsofhealthcarework-
+fundershadnoroleinstudydesign,datacollection
+andanalysis,decisiontopublish,orpreparationof ersforthedurationofthepandemic,aswellasforthementalhealthsequelaepost-
+themanuscript.Thecontentissolelythe pandemic.
+responsibilityoftheauthorsanddoesnot
+necessarilyrepresenttheofficialviewsofthe
+funders.
+PLOSONE|https://doi.org/10.1371/journal.pone.0266008 May4,2022 1/17
+
+PLOS ONE COVIDandmentalhealthinSouthAfrica
+Competinginterests:Theauthorshavedeclared
+Introduction
+thatnocompetinginterestsexist.
+Onthe30thofJanuary2020,theWorldHealthOrganization(WHO)declaredtheCovid-19
+outbreakapublichealthemergencyofinternationalconcern[1].Bythe11thofMarch2020,it
+wasdeclaredaglobalpandemic[2].TheCentresforDiseaseControlandPrevention(CDC)
+definesapandemicasanepidemicthathasspreadoverseveralcountriesorcontinents,usually
+affectinglargenumbersofpeople[3].Thisunprecedentedpandemichasplacedseverephysical
+andpsychologicalpressureuponhealthcareworkers(HCWs),significantlysoinlow-income
+andmiddle-incomecountries(LMICs)[4–6].
+Healthcareworkershavebeennotedtohaveanincreasedsusceptibilitytothephysicalrisks
+associatedwithCovid-19[7,8].InthefirstyearofthepandemicinKwaZulu-Natal(KZN),as
+ofthe20thofFebruary2021,15829HCWswerereportedtohavebeeninfectedwithCovid-19
+inthepublicsector,ofwhom335died[9].Inlightofthis,thephysicalprotectionofHCWs
+hasbeenhighlightedasa‘critical’partoftheCovid-19response[10].However,theparadigm
+ofprotectionlargelyfocusesonphysicalrisks,withdecreasedattentionaddressingthecon-
+comitantpsychologicalrisksinherentinfrontlinehealthcareworkduringthepandemic,par-
+ticularlyinLMICs[6].Biologically,chronicstresshasbeenreportedtohaveadverse
+physiologicaleffects,includinghormonal,immunologicalandcognitivefunctioning[11–13].
+Depression,anxietyandstress(DAS)andpost-traumaticstressdisorder(PTSD)havebeen
+showntobeassociatedwithimmuneandinflammatorydysregulationmechanisms,notably,
+responsestoviralinfections.Thepandemichasthereforesetinmotionaviciouscycle,witha
+complexinterplayofnumerousphysiologicalandpsychosocialfactors.Theseimpactboth
+physicalandmentalhealth,andultimately,theimmunesystem,whichiscentraltotheindivid-
+ualimpactofandoutcomefromaviralinfection.Thishighlightsthat,ifhealthyoutcomesare
+tobeachievedforboththehealthcareprovidersandthepatientstheyserve,aholisticpan-
+demicactionplanshouldaddressboththeobviousbiologicalthreataswellastheinherentpsy-
+chosocialstress.Similarly,thecurrentvaccinerollouthighlightsphysicalimmunity,but
+nothingoftheneedfor‘psychologicalimmunity’forHCWswhohavebeenexposedtoanew
+andunpredictablesituationfraughtwithemotionalandethicalcomplexities[14,15].Psycho-
+logicalimmunityisdefinedas“asystemofadaptiveresourcesandpositivepersonalitycharac-
+teristicsthatactsaspsychologicalantibodiesatthetimeofstress”[14].BeneaththisCovid-19
+viralpandemiclurksa‘parallelepidemic’ofdeterioratingmentalhealththatrequiresacknowl-
+edgementandnecessitatesaction[16].
+ResultsfromstudiesconductedonCovid-19todateandpreviousinfectiousdiseaseout-
+breaks,highlightthatinthesesituationsHCWsexperiencehighlevelsofDASandpost-trau-
+maticstress(PTS)symptoms[4,17–22].Studiesconductedduringthispandemichaveshown
+thatmedicalHCWs(medicaldoctorsandnurses)haveahigherprevalenceofmentalhealth-
+relatedsymptomsthannon-medicalHCWs[23,24].A2020rapidsystematicreviewofthe
+impactofviralepidemicoutbreaksonthementalhealthoffrontlineHCWsreportedthe
+pooledprevalenceforclinicallysignificantsymptomsofmentaldisordersashighestforanxi-
+ety,followedbydepressionandpost-traumaticstressdisorder(PTSD)[11].Moreover,after
+theSevereAcuteRespiratorySyndrome(SARS)pandemicin2012,symptomsofpsychological
+distresswerefoundtopersistuptothreeyearsafterthecrisis[25].Oneprospectivesix-month
+study,conductedin2020,duringthefirstyearofthepandemic,reportedapersistenceand
+slightincreaseofstressandburnoutwhichpersistedbeyondlockdownperiods[22].
+AhealthsurveyofSouthAfricanHCWs,conductedduringtheearlypartoftheCovid-19
+pandemic,foundpoorgeneralhealthandwell-beingin23.7%ofparticipants,while19.4%to
+53.6%reportedlevelsof‘psychologicaldistress’[26].InSA,andparticularlyinKZN,HCWs
+representavulnerablepopulation,astheyareexposedtohighworkdemandsinthecontextof
+PLOSONE|https://doi.org/10.1371/journal.pone.0266008 May4,2022 2/17
+
+PLOS ONE COVIDandmentalhealthinSouthAfrica
+aresourceconstrainedhealthsector[27].Mentalhealthservicesforthemmaybeovershad-
+owedbyotherlocalhealthneeds,whichincludethehighburdenofinfectiousdiseases,suchas
+theHumanImmunodeficiencyVirus(HIV)andtuberculosis(TB)[27].Pre-pandemic,the
+KZNDepartmentofHealth(DOH)hadexistingresourceandinfrastructuralchallenges[28],
+andburnout,anxietyanddepressivesymptomshadalreadybeenshowntobehighlyprevalent
+inHCWsinSouthAfrica[27].TheunprecedentedCovid-19pandemichasthusaddedacon-
+siderableadditionalburdentoastrainedandconstrainedhealthforce.
+PsychologicaldistressexperiencedbyHCWsduringthepandemicaremultifactorialinori-
+gin.Personalfearwascombinedwiththeinordinateprofessionaldemandsmadeinthecon-
+textofsub-optimumhealthcareresourcesforbothpatientsandHCWs[22,29].Inaddition,
+grievingforpersonallossesaswellasforpatientsandcolleagues,combinedwiththechallenges
+associatedwithlockdownalltogetherposeaformidabledemandonanyindividual’sresilience
+[30].Notably,thispandemichasintensifiedpre-existing‘professionalgrief’issuesinHCWs,
+whiletheyaresimultaneouslyencountering‘personalgrief’[31].Professionalgriefreferstothe
+griefexperiencedbyHCWsduetothelossofapatientwhereaspersonalgriefreferstothe
+griefexperiencedbyHCWsduetothelossoftheirownlovedones[31].Moreover,restricted
+accesstopsychologicalsupportandtheperformanceoffuneralandgrievingrituals,dueto
+lockdownregulations,canleadtoincreasedratesofpathologicalgriefinHCWsandthis
+increasestheirriskforvarioussymptomsofpsychologicaldistress[31].
+HealthcareworkersareavitalresourceinboththeCovid-19responseandthemaintenance
+ofessentialservicesandtheirmotivationandempathyareessentialtoeffectiveandcompas-
+sionatepatientcare[32].PsychologicaldistressamongHCWscannegativelyjobsatisfaction,
+performanceandcanimpactpatientcareandsafety[10,32,33].Thiscouldhavenegativefinan-
+cialandhealthcarerepercussions[34].PsychologicaldistressexperiencedbyHCWscanthere-
+forehavefar-reachingshort-termandlong-lastingnegativeeffectsontheirmentalhealthand
+overallpsycho-socialwell-being[11,35]aswellasonhealthcareservices.
+Inresponsetothepandemicin2020,theKZNDOHprepareda‘mentalhealthtoolkit’for
+HCWs,whichcanbeaccessedviatheirwebpage,containingappropriateguidelinesand
+resourcestoassistthemwiththepsychologicalimpactofthepandemicandlinksforfurther
+informationandassistance[36].Additionally,theKZNDirectorateofMentalHealth,incol-
+laborationwithitsEAP,setupapsychosocialsupportplatformatthelevelofeachofitseleven
+healthdistrictstoaddressHCWstressanddistress[36].Whileacknowledgingtheseefforts,
+thereisagrowingbodyofevidencetosupporttheneedforunderstandingandmeasuringthe
+psychologicalimpactofglobalhealthcrises[32].However,locallyrelevantdataislimited,and
+datafromAfricancontextsareurgentlyneededtoinformamorecomprehensiveandholistic
+responsetopandemics[32].Thisdatashouldbeutilisedtoinformthedevelopmentoffuture
+studies,policies,improvementsandinterventionstocontributetobetterhealthoutcomesand
+thegeneralwell-beingofHCWs,patientsandcommunities.Therefore,thestudyaimedto
+assessthepsychologicalimpactoftheCovid-19pandemiconpublicsectordoctorsandnurses
+inKZN.
+Methods
+Setting,studydesign,participantsandprocedure
+ThefirstCovid-19pandemicsurgeinKZN‘peaked’duringlateJuly2020[37].Attheonsetof
+thepandemicinKZN,specifichealthcarefacilitiesweredesignatedasCovid-19units.How-
+ever,inthecontextofaresource-constrainedsettingandrisinginfectionrates,thisplanwas
+nolongerfeasible,andthisresultedinCovid-19relatedcarebeingintegratedintoallexisting
+publichealthcarefacilities.ThisstudywasplannedinMarch2020,afewdaysafterthe
+PLOSONE|https://doi.org/10.1371/journal.pone.0266008 May4,2022 3/17
+
+PLOS ONE COVIDandmentalhealthinSouthAfrica
+outbreakinSouthAfrica,andinAugust2020toOctober2020wasconductedasacross-sec-
+tionalsurveyofpublicsectormedicaldoctorsandnursesinKZNandincludedthosefrompri-
+maryandcommunityhealthcentresanddistrict,regionalandtertiaryhospitals.AsatJuly
+2020,therewere4299medicaldoctorsand33422nursingstaffemployedbytheKZNDOH.In
+viewoftheuncertaintyofthecourseofthepandemicandthelikelyimpactonandresponse
+fromlocalHCWs,aminimumsamplesizeof300participantswasplanned.Thiswasinkeep-
+ingwithsimilarstudiesthathadalreadybeenconductedandwhichhadsamplesizesvarying
+from69to184participants[17,29].Convenienceandsnowballsamplingstrategieswereuti-
+lised,withthestudybeingconductedviaelectronicplatforms.Despitetheresearchengaging
+onmultipleplatformsandallowingaccesstothesurveyforaperiodofthreemonths,atotalof
+312HCWsparticipatedinthestudy.EligibleparticipantswereEnglishliterate.Theywere
+requiredtoconfirmthattheyweredoctorsandnursesemployedatpublichealthfacilitiesin
+KZNduringthepandemic.Theelectronicplatformsprecludedscreeningforexclusionarycri-
+teria;itwasassumedthatpersonnelaccessingtheelectronicsurveywerephysicallyandmen-
+tallycapableofparticipation.
+ThestudyquestionnaireswerecreatedusingSurveyMonkey,acommercialonlinesurvey
+platform.Informationandcontactdetailsofavailablementalhealthresourcesandservices
+wereincludedwithinthesurveyforallparticipantstoaccess.Theresearchteamengagedin
+variousactivitiestoensuremaximumvoluntaryparticipation.Thenoticeofthestudyaswell
+asthelinktothesurveyquestionnaireswerecirculatedviavariouselectroniccommunication
+platforms(e-mail/InstantMessagingplatforms/socialmedia)usedbypublicsectorHCWs.
+ThiswaspostedontheKZNDOHintranetwebsite,whichcanbeaccessedbymedicaland
+nursingpersonnelandisavailableoncommunalcomputerswithinhealthcarefacilities.The
+provincialEmployeeAssistanceProgram(EAP)coordinatorcirculatednotificationofthe
+studyandthelinktothesurveyquestionnairestotheEAPstaffatthevarioushealthcarefacili-
+tiestoencourageeligiblepersonstoparticipate.TheEAPcoordinatorhascommunication
+channelswithallKZNDOHhealthcarefacilitiesviaeachfacility’sEAPstaffmembers.The
+SouthAfricanMedicalAssociation(SAMA)alsocirculatedthenotificationandlinkforthe
+studytoalltheirmembersviae-mail,toraiseawarenessandfacilitateparticipationinthis
+study.
+Ideally,astudyofthisnatureisbestundertakenqualitatively.Thiswouldhaveallowedthe
+capturingofindividualnarrativesandallowedforin-depthexplorationoftherampantthemes
+ofpsychologicaldistressthathavebeenassociatedwiththepandemic:fear,anxiety,grief,phys-
+icalandemotionalexhaustionandmoralinjury[38].However,theuniversitybiomedical
+researchethicscommitteeimposedstrictrestrictionsoncontactresearchduringtheCovid-19
+pandemicandonlineinterviewswereprecludedbythelackofhospitale-platforms.Tele-
+phonicinterviewswerenotfeasibleduetothepersonalcostimplicationsfortheparticipants.
+Moreover,staffwereoverwhelmedwithcopingwiththepandemicpersonallyandprofes-
+sionally.PaststudiesconductedinAfricaofasimilarnatureandtopicwerealsoconductedvia
+quantitativemethods[27,39].Thesampleobtainedwasrecruitedwithdifficultydespitethe
+multipleformalandinformalplatformsusedtoadvertiseitandencourageparticipation.
+ThisstudywasapprovedbytheBiomedicalResearchEthicsCommittee(BREC)oftheUni-
+versityofKwaZulu-Natal(UKZN)(BREC00001620/2020)andtheKwaZulu-NatalDOH
+(KZ_202006_021).Allstudyparticipantsprovidedinformedconsentelectronically.
+Studyinstruments
+Themainstudyoutcomesmeasuredwere1)depression,2)anxiety,3)traumaticstressrelated
+symptomsand4)subjectiveperceptionsofemployersupport.Participantscompletedfour
+PLOSONE|https://doi.org/10.1371/journal.pone.0266008 May4,2022 4/17
+
+PLOS ONE COVIDandmentalhealthinSouthAfrica
+questionnaires:asocio-demographicandoccupationalprofile;theDASS-21;theIES-R;anda
+customisedquestionnairerelatingtoperceptionsofemployersupport.
+Thesocio-demographicandoccupationalprofilealsocontainedquestionsrelatedtoper-
+ceptionofriskanddegreeofinvolvementinthemanagementofCovid-19positivepatients.
+Perceptionofriskwaselicitedviaaclosed-endedyes/noquestionregardingwhetherthepar-
+ticipantfeltthattheywereatanincreasedriskofcontractingCovid-19.Iftheparticipant
+answeredintheaffirmative,theywerethendirectedtoanopen-endedquestionrequesting
+themtocitethereasonsfortheirstatedhigherperceptionofrisk.Degreeofinvolvementofthe
+HCWsandtheirrespectivefacilityintheassessmentandmanagementofpatientswithCovid-
+19wasincludedinthequestionnaire.Irrespectiveoftheirdegreeofcontact,allmedicalHCWs
+wereeligibleforparticipationinthisstudyandmostfacilitieseventuallyhadsomedegreeof
+exposuretoCovid-19positivepatients.
+TheDASS-21isa21itemself-reporttooldesignedtomeasuretheemotionalstatesof
+depression,anxietyandstress,andcontainsthreeself-reportscaleswithsevenitemseachthat
+aredividedintosubscaleswithsimilarcontent.Beforeinterpretationofthescores,the
+summednumbersineachsubscalearemultipliedbytwo(asthisisashortenedformofthe
+scale).Thecut-offscoresforeachsubscaleare:Depression:normal(0–4),mild(5–6),moder-
+ate(7–10),severe(11–13),extremelysevere(14ormore);Anxiety:normal(0–3),mild(4–5),
+moderate(6–7),severe(8–9),extremelysevere(10ormore);Stress:normal(0–7),mild(8–9),
+moderate(10–12),severe(13–16),extremelysevere(17ormore)[40].TheDASS-21wasuti-
+lisedinsimilarpreviousstudiesin2020[41].Itwasalsousedinotherstudieslocallyand
+showntobeavalidandreliableinstrumentforresearchpurposesinSouthAfrica[40,42].
+TheIES-Risa22itemself-reportmeasurethatassessessubjectivedistresscausedbytrau-
+maticevents.Itcorrespondsto14ofthe17DiagnosticandStatisticalManualofMentalDisor-
+ders-IV(DSM-IV)symptomsofPTSD,withsubscalesforintrusion,hyperarousaland
+avoidance.TheIES-Ryieldsatotalscorerangingfrom0to88,withacut-offof24beingused
+todefinePTSDofclinicalconcern.ThetotalIES-Rscorecanbegradedforseverityfromnor-
+mal(0–8),mild(9–25),moderate(26–43)toseverepsychologicalimpact(44–48)[43].The
+IES-Risoneofthemostwidelyusedself-reportmeasureswithinthetraumaliterature[44].
+ReviewarticlesreporteditsuseinmultiplerecentstudiesrelatingtotheexperiencesofHCWs
+duringtheCovid-19pandemic[18].Ithasbeenusedinotherstudieslocallyandshowntobea
+validandreliablemeasureofpost-traumaphenomenoninclinicalandresearchsettings
+[35,44,45].Duetotheongoingnatureofthepandemic,thephrasingoftheitemsontheIES-R
+scalehadtobeadaptedtothepresenttense.Effortstocontactitsauthorsforpermissiontodo
+sowereunsuccessful.Thechangeoftensedidnotaffectthecontentvalidityoftheinstrument.
+Subjectiveperceptionsofemployersupportwereassessedusingquestionsadaptedfroma
+studyconductedintheUSA,whichassessedtheconcernsofHCWsduringtheCovid-19pan-
+demic[29].TheirfindingswereorganizedintofiverequestsfromHCWstotheirorganization:
+hearme,protectme,prepareme,supportme,andcareforme[29].Inourstudy,weadapted
+thesefiverequestsintosixclosed-endedquestions,withadistinctionmadebetweenphysical
+andpsychologicalneeds.Thechoiceofthismeasurementwasbasedonthelimitedstudies
+availablethatmeasuredperceptionsofsupport,andtoenableacomparison.
+Statisticalmethods
+Threeanalyseswereconductedforthisinvestigation:thefirstsummarizedthesocio-demo-
+graphic,screening(e.g.depression,anxiety,stressandtraumaticstress)andoccupationalpro-
+filesusingdescriptivestatistics;thesecondsummarizedtheextentofperceivedsocialsupport
+duringtheCOVID-19pandemicusingdescriptivestatistics;thethirdfittedseparateregression
+PLOSONE|https://doi.org/10.1371/journal.pone.0266008 May4,2022 5/17
+
+PLOS ONE COVIDandmentalhealthinSouthAfrica
+modelstoinvestigatetherolesofsocio-demographicfactors,occupationalprofilesandper-
+ceivedsocialsupportagainsteachoftheclinicaloutcomes.Asignificanceofp<0.05wasused
+forstatisticalsignificancetesting,withthedatabeinganalysedusingStataVersion15.
+Results
+Socio-demographicandoccupationalprofile
+Atotalof312HCWsparticipated;theirsocio-demographic,occupationalandclinicalprofiles
+arepresentedinTable1.Themeanagewas36.6;three-quartersweremale(n=234,75.0%),
+andmorethanhalfweremarried(n=175,56.1%)orco-habiting(n=17,5.5%).Themajority
+(n=214,72.3%)weremedicaldoctors.Nearlythree-quarters(n=178,64.3%)had10yearsor
+lessofexperiencepostqualification.
+Amongthe312participants,120hadpre-existingmedicalconditions,themostfrequent
+beinghypertension(n=30),followedbylungdisease(n=25)anddiabetes(n=12).Atotalof
+39participantshadpre-existingpsychiatricconditions.
+Almostall(n=270,97.5%)reportedtheirfacilityasbeinginvolvedintheassessmentand/or
+managementofpatientswithCovid-19,withmost(n=238,85.9%)havinghaddirectcontact
+withCovid-19positivepatients,while90.2%(n=248)confirmedahigherperceptionofper-
+sonalrisk,citingavarietyofreasonsrangingfromhigh-riskexposure,havingmedicalcomor-
+biditiesandissuesrelatingtoPersonalProtectiveEquipment(PPE).Ofthetotalparticipants,38
+(14.1%)hadcontractedCovid-19and10werepersonsunderinvestigation(PUI)forthevirus.
+Justoveronequarter(n=73,27.1%)hadexperiencedthedeathofalovedonedueto
+Covid-19.Justoveronehalf(n=143,53.8%)hadexperiencedtheassociateddeathofapatient.
+Nocorrelationwasfoundbetweendeath,eitherofalovedoneorapatient,andmeasuresof
+distressorfeelingsofbeingsupported.
+Psychologicalimpact
+DASS-21. ThemeanDASS-21scoreofthesamplewas34.8(standarddeviation[SD]
+27.4),withdepressionbeingthemostprevalentofthethreesymptomcategories,followedby
+anxietyandthenstress.AccordingtotheDASS-21(Fig1),prevalenceofstudyparticipants
+withdepression,anxietyandstresswere121(51.5%),111(47.2%)and104(44.3%)respec-
+tively.Thenumberofstudyparticipantswithcombinedsevere/extremelysevererangeswere
+38(16.2%),50(21.3%)and38(16.2%)fordepression,anxietyandstressrespectively.
+IES-R. ThemeanIES-Rscorewas25.8(mildpsychologicalimpact)(SD15.6).According
+totheIES-R,214(86.2%)studyparticipantsscoredbetweennormaltomoderaterange,with
+34(13.7%)consideredtobeinthesevererange(Fig2).
+Perceptionsofsupportfromemployer
+Table2presentstheresultsrelatedtoperceptionsofsupportamongtheparticipants.
+Regressionanalyses
+TheresultsoftheregressionanalysesarereportedinTable3.TheperceptionofCOVID-19
+risk(adjustedβ=9.05,p=0.01)wassignificantlyassociatedwithtraumaticstress,asmeasured
+bytheIES-R.However,theperceptionofpreparednesswassignificantlyassociatedwithlower
+traumaticstress(adjustedβ=-5.53,p=0.02).Sex(malehealthcareworkerscomparedto
+female)wastheonlycovariatethatwassignificantagainstotherclinicaloutcomesinanxiety
+(adjustedβ=-3.69,p=0.01),stress(adjustedβ=-4.08,p=0.01)andtraumaticstress
+(adjustedβ=-5.60,p=0.01).
+PLOSONE|https://doi.org/10.1371/journal.pone.0266008 May4,2022 6/17
+
+PLOS ONE COVIDandmentalhealthinSouthAfrica
+Table1. Socio-demographic,clinicalandoccupationalprofilesofparticipants.
+Overall
+N %
+Gender:
+Male 234 75.0
+Female 77 24.7
+Non-Binary 1 0.3
+Agecategory:
+Under30 79 25.3
+30–59 229 73.4
+60plus 4 1.3
+Race:
+African 98 31.4
+Coloured 25 8.0
+Indian 152 48.7
+White 32 10.3
+Other 5 1.6
+Maritalstatus:
+Single 106 34.0
+Married 175 56.1
+Co-habiting 17 5.5
+Divorcedorwidowed 14 4.5
+Comorbidmedicalcondition:
+Hypertension 30
+Cardiacdisease 3
+Diabetes 12
+Lungdisease 25
+TB 5
+HIV 1
+Endocrinedisease 9
+GIdisease 5
+Musculoskeletal 6
+Hyperlipidaemia 5
+Other 13
+Pregnancy: Yes 6
+Comorbidpsychiatriccondition:
+No 273 87.5
+Yes 39 12.5
+Occupationrole:
+Medicaldoctor 214 72.3
+Nursingstaff 82 27.7
+Yearsofexperiencepostqualification:
+Lessthan10 178 64.3
+10–19 61 22.0
+Morethan20 38 13.7
+Healthcaredistrict:
+eThekwini 196 70.8
+Other 81 29.2
+FacilityinvolvementinCovid-19:
+(Continued)
+PLOSONE|https://doi.org/10.1371/journal.pone.0266008 May4,2022 7/17
+
+PLOS ONE COVIDandmentalhealthinSouthAfrica
+Table1. (Continued)
+Overall
+N %
+Yes 270 97.5
+No 7 2.5
+DirectcontactwithCovid-19positivepatients:
+Yes 238 85.9
+No 39 14.1
+PersonunderInvestigationforCovid-19(HCW):
+Yes 10 3.7
+No 260 96.3
+TestedpositiveforCovid-19: Yes 38 14.07
+No 232 85.93
+PerceptionofCovid-19risk:
+Yes 248 90.2
+No 27 9.8
+DeathofalovedoneduetoCovid-19:
+Yes 73 27.1
+No 196 72.9
+DeathofapatientduetoCovid-19:
+Yes 143 53.8
+No 123 46.2
+Meanage(andSD)was36.6and9.3respectively
+https://doi.org/10.1371/journal.pone.0266008.t001
+Discussion
+InitsaimtoassessthepsychologicalimpactoftheCOVID-19pandemiconpublicsectordoctors
+andnursesinKZN,ourstudyfoundthatatleasthalfoftheparticipantsexperiencedpsychologi-
+calsymptomsintheformofdepression,anxietyandstress,withonefifthbeinginthesevere
+range.Additionally,themajorityoftheparticipantsfeltunheard,uncaredforandunsupported.
+Psychologicalimpact
+MildtoextremelyseveresymptomsofDASandtraumaticstresswerereportedby44.3%to
+86.2%ofparticipants;thesefrequenciesexceedfindingsinsimilarstudiesconductedinterna-
+tionally,althoughthereisnoavailablelocaldataagainstwhichtocompare[18,32,46].Arapid
+reviewofinternationalstudiesrelatedtothementalhealthofHCWsduringtheCovid-19pan-
+demicwasconductedinSeptember2020withtheprevalenceofmentalhealthoutcomesvary-
+ingwidely,from7.0–97.3%foranxiety,10.6–62.1%fordepression,2.2–93.8%forstress,3.8–
+56.6%forPTSD,8.3–88.4%forinsomniaand21.8–46.3%forburnout[46].Possiblereasons
+forthehigherfrequenciesofDASandtraumaticstressrelatedsymptomsidentifiedinour
+studycouldrelatetothepre-existingchallengesexperiencedbyHCWsinKZNthatpreceded
+Covid-19,whichwerecompoundedbythesuperimposeddemandsoftheglobalpandemic
+[27,28],aswellastheperceivedlowlevelsofsupportfromtheemployer.
+Apandemicisclassifiableasatraumaticeventofexceptionalmagnitudethattranscendsthe
+rangeofnormalhumanexperienceofexposuretoriskofdeath[18].Thisexperiencecanlead
+tothedevelopmentofacutestressdisorder(ASD)andPTSD[18].Withrespecttotraumatic
+stress,86.2%ofourparticipantsweresymptomaticand13.7%consideredtobeundersevere
+PLOSONE|https://doi.org/10.1371/journal.pone.0266008 May4,2022 8/17
+
+PLOS ONE COVIDandmentalhealthinSouthAfrica
+Fig1.Frequencyofsymptomsandseverityfordepression,anxietyandstressbytheDASS21.
+https://doi.org/10.1371/journal.pone.0266008.g001
+distress,ontheIES-R.AreviewofstudiesthatexploredtraumaticstressinHCWsinearly2020
+reportedaprevalenceoftraumaticstresssymptoms(TRSs)of7.4%-35%[18].Pathologicsec-
+ondarytraumaticstress(STS)isdefinedas“thestressderivingfromhelpingotherswhoaresuf-
+feringorwhohavebeentraumatized”[17].Underordinarycircumstances,HCWsmaybeat
+higherriskofdevelopingpathologicalsecondarytraumatisation[47,48];however,themagni-
+tude,natureandseverityofthepandemiccombinedwithitsimpactonHCWmorbidityand
+mortalitygloballyrepresentuniquestressorswhichwarrantin-depthstudies.Suchstudies
+shouldideallybeconductedthroughqualitativeexplorationofHCWexperiences,bothduring
+acuteandpost-acutephasesofthepandemic,giventheburdenonfrontlineworkers.
+Perceptionofsupport
+Riskandprotectivefactorsforadversementalhealthoutcomes,inbothpersonalandpro-
+fessionaldomains,havebeenidentifiedintheliterature.Riskfactorsincludefemalegen-
+der,nursingstaff,higherperceptionofrisk,higherdegreeofCovid-19exposure,lackof
+accesstoPPE,lackofspecialisedtrainingreceived,jobstress,lessjobexperience,lower
+levelsoforganizationalsupportandlowerperceptionoforganizationalsupport[11,46].
+Protectivefactorsincludedtheperceptionandprovisionofpsychosocialsupport,includ-
+ingfromtheemployer,andhigherpsychologicalresilience[46].Higherriskperceptionis
+PLOSONE|https://doi.org/10.1371/journal.pone.0266008 May4,2022 9/17
+
+PLOS ONE COVIDandmentalhealthinSouthAfrica
+Fig2.FrequencyofsymptomsandseverityforlevelsoftraumaticstressbytheIES-R.
+https://doi.org/10.1371/journal.pone.0266008.g002
+associatedwiththeincreasedlikelihoodofdevelopingmentalhealthproblemsinfrontline
+HCWs[11].
+Over90%(n=248)ofparticipantsinourstudyconfirmedahigherperceptionofCovid-19
+risk,citingavarietyofreasons,rangingfromhigh-riskexposure,havingmedicalcomorbidi-
+tiesandissuesrelatingtoPPE.AlthoughnoassociationswerefoundbetweenDASandpercep-
+tionofemployersupport,perceptionofrisk(adjustedβ=9.05,p=0.01)wassignificantly
+associatedwithgreatertraumaticstress,asassessedbytheIES-R;conversely,theperceptionof
+preparednesswassignificantlyassociatedwithlowertraumaticstress(adjustedβ=-5.53,
+p=0.02)with107(40.4%)amongparticipantsindicatingthattheyfelt‘prepared’.Aligned
+withthefindingsofourstudy,paststudieshavereportedpreparednesstobeassociatedwitha
+lowerriskofmentalhealthproblems[11,32,49].Thishighlightstheneedtoformallyprepare
+andtrainstaffforboththebiomedicalresponseaswellthepsychosocialsequelaeofapan-
+demic.Whilesuchtrainingcanserveasaninterventioninpreparationforfuturehealthcrises,
+itmayyetsufficetodeconstructandaddress‘preparedness’aspartofanauditofthispan-
+demicandtopossiblyinclude‘preparedness’inthefuturecurriculaofHCWs.
+Perceptionofsupportwasuniformlyratedpoorlybytwothirdstothreequartersofpartici-
+pantsinourstudy.Unfortunately,thenatureofourstudyprecludedin-depthexplorationof
+thereasonsandexpectationsassociatedwiththisfindingandthereisnoavailablelocaldata
+whichfurtherexploresthisconstruct.Aqualitativestudywhich,similartoourstudy,wascon-
+ductedduringtheearlystagesofthepandemicexploredtheperceptionofsupportanditsasso-
+ciatedfactors.HCWneedsweresummarisedasfiverequeststotheirorganizationwhichcould
+PLOSONE|https://doi.org/10.1371/journal.pone.0266008 May4,2022 10/17
+
+PLOS ONE COVIDandmentalhealthinSouthAfrica
+Table2. Perceptionsofsupport.
+Overall
+n %
+“Didyoufeelheard?”
+Yes 98 37.0
+No 167 63.0
+“Didyoufeelprotected?”
+Yes 143 54.0
+No 122 46.0
+“Didyoufeelprepared?”
+Yes 107 40.4
+No 158 59.6
+“Didyoufeelphysicallysupported?”
+Yes 50 18.9
+No 215 81.1
+“Didyoufeelpsychologicallysupported?”
+Yes 69 26.0
+No 196 74.0
+“Didyoufeelcaredfor?”
+Yes 66 24.9
+No 199 75.1
+https://doi.org/10.1371/journal.pone.0266008.t002
+serveasguidingprinciplesinaddressingthepsychologicalneedsofandsupportforHCWs
+duringthecurrentpandemic.
+Themajorityofparticipantsinthisstudy(n=296,95%)reportedhavingaccesstosome
+formofpsychosocialsupportattheirplaceofemployment,althoughthiscontrastsstarklywith
+thepoorlyratedperceptionsofsupportreceived.WhileitisassumedthatHCWsareexpecting
+extrinsicsupport,thenotionofdrawingoninnerresourcesofself-careandself-compassion
+arealsoimportantconstructsthatmustbeconsideredinbuildingamentalhealtharmamen-
+tariuminresponsetostressorsofthemagnitudeofthecurrentpandemic.
+Whilesocialandworkplacesupportareassociatedwithlowerlevelsofstressandexhaus-
+tion,improvedimmunefunctioningandhigheremploymentsatisfaction[50,51],HCWsare
+oftenself-reliant[29].Manydonotexhibithelp-seekingbehaviours,whichmaynotserve
+themwellinatimeofaburgeoningquantitativeandqualitativework-load[15],redeployment
+outsideoftheirareaofexpertiseandtheformidablenatureofanovelpandemic[29].Barriers
+toHCWsaccessingavailablehelpincludepooridentificationofthesymptomsofmentalillness
+inthemselvesortheircolleaguesandstoictrainingenvironmentsthatnormalisestressanddis-
+tressasinherentorevenasrequisitecomponentsoftheiridentities.Otherbarriersinclude
+stigmaagainstmentalillness,rigorousandinflexibleworkschedules,affordabilityandconfi-
+dentialityconcerns[52].TheprovisionofpsychologicalsupporttoHCWsmusttherefore
+simultaneouslyaddressthesemultipleandcomplexbarriersinordertobeeffective.
+TheprotectionandsupportofHCWs,duringandaftertheCovid-19pandemic,should
+focusonthedevelopmentofbothphysicalandpsychologicalimmunity.Inthecontextofthe
+aimofthisstudy,thepromotionanddevelopmentofpsychologicalimmunityofHCWsisa
+keycomponentforHCWs.Asphysicalimmunityprotectsindividualsfromenvironmental
+viralinfections,similarly,psychologicalimmunityactsasabufferagainstenvironmental
+stressors[14].Promotingthese‘antibodies’inHCWswillactasadeterrentagainstthedevel-
+opmentofpsychopathology,promotetheirhelp-seekingbehavioursandempowerthem
+PLOSONE|https://doi.org/10.1371/journal.pone.0266008 May4,2022 11/17
+
+PLOS ONE COVIDandmentalhealthinSouthAfrica
+Table3. Regressionresultsonpredictorsofmentalhealth.
+Depression Anxiety Stress TraumaticStress
+adjβ SE P adjβ SE p adjβ SE p adjβ SE p
+Gender: [Female]
+Male -2.81 1.53 0.07 -3.69 1.39 0.01 -4.08 1.57 0.01 -5.60 2.28 0.01
+Agecategory: [Under30]
+30–59 -2.24 1.69 0.19 -1.66 1.54 0.28 -1.25 1.74 0.47 1.52 2.53 0.55
+60plus -7.51 6.27 0.23 -8.56 5.71 0.14 -3.06 6.44 0.64 9.03 9.53 0.34
+Maritalstatus: [Co-habiting]
+Divorced 1.92 4.61 0.68 1.73 4.20 0.68 -1.50 4.74 0.75 0.96 6.83 0.89
+Married -4.64 3.44 0.18 -0.97 3.13 0.76 -3.03 3.54 0.39 -2.66 5.00 0.60
+Single -3.27 3.48 0.35 -0.58 3.17 0.86 -2.50 3.58 0.49 -2.46 5.07 0.63
+Occupation: [Medical]
+Nursingstaff -1.57 1.64 0.34 0.23 1.49 0.88 -2.84 1.68 0.09 3.45 2.41 0.15
+Years’experiencesincequalification: [Lessthan10]
+10–19 1.83 1.74 0.29 1.16 1.58 0.47 1.24 1.78 0.49 -1.44 2.56 0.58
+Morethan20 0.81 2.23 0.72 1.57 2.03 0.44 -1.58 2.29 0.49 -6.32 3.30 0.06
+PerceptionofCOVIDrisk: [No]
+Yes 3.77 2.24 0.09 3.62 2.04 0.08 4.20 2.30 0.07 9.05 3.27 0.01
+“Didyoufeelprepared?” [No]
+Yes -2.47 1.54 0.11 -1.88 1.40 0.18 -2.06 1.59 0.20 -5.53 2.26 0.02
+“Didyoufeelcaredfor?” [No]
+Yes -0.52 1.59 0.74 0.35 1.45 0.81 0.03 1.64 0.99 -0.98 2.36 0.68
+“Didyoufeelheard?” [No]
+Yes -1.55 1.54 0.31 -2.14 1.40 0.13 -2.38 1.58 0.13 -0.07 2.26 0.98
+Bracketsforreferencecategory
+https://doi.org/10.1371/journal.pone.0266008.t003
+towardspersonalandprofessionalgrowth[53].Thiswillhaveapositiveimpactonthewell-
+beingofHCWandtheirabilitytoperformtheirjobeffectively.
+Asystematicreviewhasconcludedthatthereisinsufficientevidencefromstudiescarried
+outduringorafterdiseaseepidemicsandpandemicsthatcaninformtheselectionofinterven-
+tionsthatarebeneficialtothementalhealthofHCWs[24,54].Alternativesourcesofevidence,
+fromotherhealthcarecrises,andgeneralevidenceaboutinterventionsthatpromotepsycho-
+logicalwell-being,canthereforebeusedtoinformfutureplanning.Studiesconductedduring
+theEbolaoutbreakreportedthatHCWswitheffectivepsychosocialsupportmechanismshad
+thelowestsymptomsofpsychologicaldistressandthebestpsychologicaldiathesis[55].Longi-
+tudinalresearchonthespecificpsychologicalneedsofHCWswillhelptogenerateevidence-
+basedinterventionstomitigatetheadversementalhealthoutcomesamongHCWsasthe
+Covid-19pandemiccontinuesintoitsthirdyear.
+Maintaininganadequatehealthcareworkforceinthiscrisisrequiresnotonlyanincreased
+numberofHCWs,butalsomaximisingtheabilityofeachcliniciantoperformoptimallyina
+holisticmanneroveraprotractedtimeinterval[29].Inparallelwiththemedicalandsocial
+responsetocurbthespreadandimpactofthevirus,comprehensivepsychosocialsupport
+modelsforHCWsaswellasindividual-andorganization-levelinterventionsdirectedatthis
+populationareequallynecessary.Atwo-prongedmodelisrequiredthataddressesin-pan-
+demicneedsandalsocatersforthepost-pandemicaftermathofgrief,burnout,depressionand
+post-traumaticstress.OurHCWsmaybereferredtoasthe‘heroes’[56]oftoday,butwewill
+stillneedthemtomorrow,physicallyandmentallyhealthy[49].
+PLOSONE|https://doi.org/10.1371/journal.pone.0266008 May4,2022 12/17
+
+PLOS ONE COVIDandmentalhealthinSouthAfrica
+Limitations
+Conductedduringanunprecedentedhealthcrisis,withparticipantsthemselvesatthecoal-
+face,ourstudy,unavoidably,hasseverallimitations.TherewasnospecificbaselineforDAS
+andPTSrelatedsymptomsinHCWsinthisparticulararea,conductedduringtheCovid-19
+pandemic.Thesurveywasaquantitativestudy,containinglargelyclosed-endedquestions,
+whichlimitedthedepthofexplorationofkeyconstructs.Contactresearchwasprohibiteddur-
+ingtheCOVID-19pandemic,thusconfiningdatacollectiontoelectronicplatforms,limiting
+communicationaboutthesurveytothosewhowereactiveonline.Telephonicinterviewswere
+notfeasibleduetothepersonalcostimplicationsfortheparticipantsandthechallengesof
+arrangingmutuallyconvenienttimeswiththeprimaryresearcherwhoisalsoafrontline
+healthcareworker.However,inthecontextoflimitedresearchrelevanttothistopicwithina
+resource-constrainedLMICsetting,weproceededwiththisquantitativeresearchstudy.We
+viewthisasanecessary,relevantandwell-timedresearchstudythathasidentifiedsignificant
+findingswhichcaninformanddirectfutureresearchopportunitiesandinterventions.E-liter-
+acy,accesstoonlineplatformsandconnectivityposesignificantchallengesinoursettingfor
+socio-economicreasons,withmanypublichospitalsnothavingawirelesslocalareanetwork
+[28],whichmayhavelimitedtheresponserate.Weattemptedtomitigatesomeofthesechal-
+lengesbyensuringthatthesurveywasdevelopedtobeasuser-friendlyaspossibleandarrang-
+ingfortheEAPstaffatthehealthcarefacilitiestobeabletoassistifrequired.Lockdown
+conditions,whileincreasingonlineactivity,alsoresultedinelectronicinformationoverload.
+This,aswellasthe‘additionalwork’ofcompletinganonlinesurveymayhavebeenadeterrent
+tofatiguedfrontlineworkers.WhileHCWsmayhavehaddifferingdegreesofinvolvement,
+everyHCWwasemployedinafacilitywhichprovidedCovid-19careandwhichcouldhave
+hadapsychologicalimpactonthem.Webelievethatthisisactuallyastrengthfromtheper-
+spectiveofgeneralisabilityofourfindings.
+Conclusionandrecommendations
+Highlevelsofdepression,anxietyandpost-traumaticstressweredetectedamongstpublicsec-
+tordoctorsandnursesemployedinKZNduringtheCovid-19pandemicin2020.Additionally,
+subjectiveperceptionsofemployersupportwerepoorlyrated.Thementalwell-beingandsup-
+portofHCWsshouldbeprioritisedwithanurgentneedformoreresearchinthisarea.The
+importanceofbothphysicalandpsychologicalimmunityinHCWsisnecessarytoprotectand
+preservetheirwell-being,theirabilitytofunctionoptimallyandtherobustnessofhealthcare
+servicesasawhole.HighlevelsofDASandtraumaticstresscombinedwithpoorperceptions
+ofemployersupporthighlighttheneedtoidentifyandaddressthepsychosocialsupportneeds
+andexpectationsofourHCWsforthedurationofthepandemicaswellasforthemental
+healthsequelaepost-pandemic.
+Supportinginformation
+S1Table.Sociodemographic,clinicalandoccupationalprofilesofparticipants.
+(PDF)
+S2Table.Perceptionsofsupportamongparticipants.
+(PDF)
+S3Table.Regressionresultsonpredictorsofmentalhealth.
+(PDF)
+PLOSONE|https://doi.org/10.1371/journal.pone.0266008 May4,2022 13/17
+
+PLOS ONE COVIDandmentalhealthinSouthAfrica
+S1Data.Dataset.
+(CSV)
+Acknowledgments
+TheauthorsaregratefultotheKwaZulu-NatalDOHfortheirsupport,andtoallourfront-line
+HCW‘soldiers’whorespondedwithbraveryandfortitudeagainstthispandemic.
+AuthorContributions
+Conceptualization:BilkisDawood,SuviraRamlall.
+Datacuration:BilkisDawood.
+Formalanalysis:AndrewTomita.
+Investigation:BilkisDawood,AndrewTomita,SuviraRamlall.
+Methodology:BilkisDawood,AndrewTomita,SuviraRamlall.
+Projectadministration:BilkisDawood.
+Supervision:SuviraRamlall.
+Validation:AndrewTomita.
+Writing–originaldraft:BilkisDawood,AndrewTomita,SuviraRamlall.
+Writing–review&editing:BilkisDawood,AndrewTomita,SuviraRamlall.
+References
+1. WorldHealthOrganisationdeclarespublichealthemergencyfornovelcoronavirus.Internet.2020.
+2. MacneilD.Coronavirushasbecomeapandemic,WHOsays.NewYorkTimes.www.nytimes.com.
+2020.
+3. CentersforDiseaseControlandPrevention.IntroductiontoEpidemiology.www.cdc.gov.
+4. ChenQ,LiangM,LiY,GuoJ,FeiD,WangL,etal.MentalhealthcareformedicalstaffinChinaduring
+theCOVID-19outbreak.TheLancetPsychiatry.2020;7(4):e15–e6.https://doi.org/10.1016/S2215-
+0366(20)30078-XPMID:32085839
+5. VizhehM,QorbaniM,ArzaghiSM,MuhidinS,JavanmardZ,EsmaeiliM.Thementalhealthofhealth-
+careworkersintheCOVID-19pandemic:Asystematicreview.JDiabetesMetabDisord.2020:1–12.
+https://doi.org/10.1007/s40200-020-00643-9PMID:33134211
+6. DengD,NaslundJA.PsychologicalImpactofCovid-19PandemiconFrontlineHealthWorkersinLow-
+andMiddle-IncomeCountries.HarvardPublicHealthReview.2021;2020Fall;28.
+7. ShaukatN,AliDM,RazzakJ.PhysicalandmentalhealthimpactsofCOVID-19onhealthcareworkers:
+ascopingreview.IntJEmergMed.2020;13(1):40.https://doi.org/10.1186/s12245-020-00299-5PMID:
+32689925
+8. KarlssonU,FraenkelCJ.Covid-19:riskstohealthcareworkersandtheirfamilies.BMJ.2020;371:
+m3944.https://doi.org/10.1136/bmj.m3944PMID:33115772
+9. UpdateonCovid-19inTheProvince.Pressrelease.www.kznonline.gov.za.PublishedFebruary2021.
+AccessedMarch2021.
+10. BekkerL-G,Delany-MoretlweS,BiccardB,duToitL,LovatLB,DehbiH-M,etal.Protectinghealthcare
+workers:AcriticalpartoftheCOVID-19response.SAMJ:SouthAfricanMedicalJournal.2020;
+110:1154–5.https://doi.org/10.7196/SAMJ.2020.v110i12.15048PMID:33403955
+11. Ricci-CabelloI,Meneses-EchavezJF,Serrano-RipollMJ,Fraile-NavarroD,deRoqueMAF,Moreno
+GP,etal.ImpactofViralEpidemicOutbreaksonMentalHealthofHealthcareWorkers:ARapidSys-
+tematicReview.2020.
+12. YaribeygiH,PanahiY,SahraeiH,JohnstonTP,SahebkarA.Theimpactofstressonbodyfunction:A
+review.EXCLIJ.2017;16:1057–72.https://doi.org/10.17179/excli2017-480PMID:28900385
+PLOSONE|https://doi.org/10.1371/journal.pone.0266008 May4,2022 14/17
+
+PLOS ONE COVIDandmentalhealthinSouthAfrica
+13. SeilerA,FagundesCP,ChristianLM.TheImpactofEverydayStressorsontheImmuneSystemand
+Health.StressChallengesandImmunityinSpace2020.p.71–92.
+14. GuptaT,NebhinaniN.Let’sbuildthepsychologicalimmunitytofightagainstCOVID-19.IndianJournal
+ofPsychiatry.2020;62(5):601–3.https://doi.org/10.4103/psychiatry.IndianJPsychiatry_420_20PMID:
+33678854
+15. RodriguezBO,SanchezTL.ThePsychosocialImpactofCOVID-19onhealthcareworkers.IntBrazJ
+Urol.2020;46(suppl.1):195–200.https://doi.org/10.1590/S1677-5538.IBJU.2020.S124PMID:
+32618464
+16. UnitedN.COVID-19:MentalIllness,a"ParallelPandemic".www.unric.org.2021.
+17. OrruG,MarzettiF,VaghegginiG,ConversanoC,MiccoliM,GemignaniA,etal.Secondarytraumatic
+stressandburnoutinhealthcareworkersduringCovid-19outbreak.medRxiv.2020.
+18. BenfanteA,DiTellaM,RomeoA,CastelliL.TraumaticStressinHealthcareWorkersDuringCOVID-19
+Pandemic:AReviewoftheImmediateImpact.FrontPsychol.2020;11:569935.https://doi.org/10.
+3389/fpsyg.2020.569935PMID:33192854
+19. ChanAO,HuakCY.Psychologicalimpactofthe2003severeacuterespiratorysyndromeoutbreakon
+healthcareworkersinamediumsizeregionalgeneralhospitalinSingapore.OccupMed(Lond).2004;
+54(3):190–6.
+20. McAlonanGM,LeeA.M.,CheungV.,CheungC.,TsangK.W.,ShamP.C.,ChuaS.E.,etal.Immedi-
+ateandsustainedpsychologicalimpactofanemerginginfectiousdiseaseoutbreakonhealthcare
+workers.Canadianjournalofpsychiatry.Revuecanadiennedepsychiatrie, 52(4),241–247.2007.
+https://doi.org/10.1177/070674370705200406PMID:17500305
+21. LeeSM,KangW.S.,ChoA.R.,KimT.,&ParkJ.K.Psychologicalimpactofthe2015MERSoutbreak
+onhospitalworkersandquarantinedhemodialysispatients.Comprehensivepsychiatry, 87,123–127.
+2018.https://doi.org/10.1016/j.comppsych.2018.10.003PMID:30343247
+22. TeoI,ChayJ,CheungYB,SungSC,TewaniKG,YeoLF,etal.Healthcareworkerstress,anxietyand
+burnoutduringtheCOVID-19pandemicinSingapore:A6-monthmulti-centreprospectivestudy.PLoS
+One.2021;16(10):e0258866.https://doi.org/10.1371/journal.pone.0258866PMID:34679110
+23. ZhangWR,WangK,YinL,ZhaoWF,XueQ,PengM,etal.MentalHealthandPsychosocialProblems
+ofMedicalHealthWorkersduringtheCOVID-19EpidemicinChina.PsychotherPsychosom.2020;89
+(4):242–50.https://doi.org/10.1159/000507639PMID:32272480
+24. DeKockJH,LathamHA,LeslieSJ,GrindleM,MunozSA,EllisL,etal.Arapidreviewoftheimpactof
+COVID-19onthementalhealthofhealthcareworkers:implicationsforsupportingpsychologicalwell-
+being.BMCPublicHealth.2021;21(1):104.https://doi.org/10.1186/s12889-020-10070-3PMID:33422039
+25. WuP,FangY.,GuanZ.,FanB.,KongJ.,YaoZ.,etal.ThepsychologicalimpactoftheSARSepidemic
+onhospitalemployeesinChina:exposure,riskperception,andaltruisticacceptanceofrisk.Canadian
+journalofpsychiatryRevuecanadiennedepsychiatrie, 54(5),302–311.2009.https://doi.org/10.1177/
+070674370905400504PMID:19497162
+26. NaidooI,MabasoM,MoshabelaM,SewpaulR,ReddyS.SouthAfricanhealthprofessionals’stateof
+wellbeingduringtheemergenceofCovid-19.SouthAfricanMedicalJournal.2020;110.https://doi.org/
+10.7196/SAMJ.2021.v111i2.15318PMID:33944719
+27. NaidooT,TomitaA,ParukS.Burnout,anxietyanddepressionriskinmedicaldoctorsworkinginKwa-
+Zulu-NatalProvince,SouthAfrica:Evidencefromamulti-sitestudyofresource-constrainedgovern-
+menthospitalsinageneralisedHIVepidemicsetting.PLoSOne.2020;15(10):e0239753.https://doi.
+org/10.1371/journal.pone.0239753PMID:33052921
+28. CommissionPS.InvestigationintohealthcarefacilitiesinKwaZuluNatal:Aspecialfocusonprofes-
+sionalethics.March2018.
+29. ShanafeltT,RippJ,TrockelM.UnderstandingandAddressingSourcesofAnxietyAmongHealthCare
+ProfessionalsDuringtheCOVID-19Pandemic.JAMA.2020;323(21):2133–4.https://doi.org/10.1001/
+jama.2020.5893PMID:32259193
+30. AlnazlyE,KhraisatOM,Al-BashairehAM,BryantCL.Anxiety,depression,stress,fearandsocialsup-
+portduringCOVID-19pandemicamongJordanianhealthcareworkers.PLoSOne.2021;16(3):
+e0247679.https://doi.org/10.1371/journal.pone.0247679PMID:33711026
+31. RabowMW,HuangCS,White-HammondGE,TuckerRO.WitnessesandVictimsBoth:Healthcare
+WorkersandGriefintheTimeofCOVID-19.JPainSymptomManage.2021.https://doi.org/10.1016/j.
+jpainsymman.2021.01.139PMID:33556494
+32. RobertsonLJ,MaposaI,SomarooH,JohnsonO.Mentalhealthofhealthcareworkersduringthe
+COVID-19outbreak:ArapidscopingreviewtoinformprovincialguidelinesinSouthAfrica.SAfrMedJ.
+2020;110(10):1010–9.https://doi.org/10.7196/SAMJ.2020.v110i10.15022PMID:33205731
+PLOSONE|https://doi.org/10.1371/journal.pone.0266008 May4,2022 15/17
+
+PLOS ONE COVIDandmentalhealthinSouthAfrica
+33. DingYQJ,YuX,WangS.Themediatingeffectsofburnoutontherelationshipbetweenanxietysymp-
+tomsandoccupationalstressamongcommunityhealthcareworkersinChina:across-sectionalstudy.
+PLoSOne.2014;9(9):e107130.https://doi.org/10.1371/journal.pone.0107130PMID:25211025
+34. RuotsalainenJH,VerbeekJH,MarineA,SerraC.Preventingoccupationalstressinhealthcareworkers.
+CochraneDatabaseSystRev.2014(11):CD002892.https://doi.org/10.1002/14651858.CD002892.
+pub3PMID:25391582
+35. RanaW,MukhtarS,MukhtarS.MentalhealthofmedicalworkersinPakistanduringthepandemic
+COVID-19outbreak.AsianJPsychiatr.2020;51:102080.https://doi.org/10.1016/j.ajp.2020.102080
+PMID:32283512
+36. DOH-KZN.Covid19MentalHealthToolkit.www.kznhealth.gov.za.2020.
+37. NICD-NHLS.AnupdateonCovid19outbreakinSouthAfricaThefirstandsecondwaveofcasesin
+SouthAfrica.www.nicd.ac.za.January2021.
+38. TremblayS,CastiglioneS,AudetL-A,DesmaraisM,HoraceM,Pela´ezS.ConductingQualitative
+ResearchtoRespondtoCOVID-19Challenges:ReflectionsforthePresentandBeyond.International
+JournalofQualitativeMethods.2021;20.
+39. MigishaR,ArioAR,KwesigaB,BulageL,KadoberaD,KabwamaSN,etal.Riskperceptionandpsy-
+chologicalstateofhealthcareworkersinreferralhospitalsduringtheearlyphaseoftheCOVID-19pan-
+demic,Uganda.BMCPsychol.2021;9(1):195.https://doi.org/10.1186/s40359-021-00706-3PMID:
+34920763
+40. TshabalalaSJ,TomitaA,RamlallS.Depression,anxietyandstresssymptomsinpatientspresenting
+withdyspepsiaataregionalhospitalinKwaZulu-Natalprovince.SAfrJPsychiatr.2019;25:1382.
+https://doi.org/10.4102/sajpsychiatry.v25i0.1382PMID:31745439
+41. ShahSMA,MohammadD,QureshiMFH,AbbasMZ,AleemS.Prevalence,PsychologicalResponses
+andAssociatedCorrelatesofDepression,AnxietyandStressinaGlobalPopulation,DuringtheCoro-
+navirusDisease(COVID-19)Pandemic.CommunityMentHealthJ.2021;57(1):101–10.https://doi.
+org/10.1007/s10597-020-00728-yPMID:33108569
+42. DreyerZ,HennC,HillC.ValidationoftheDepressionAnxietyStressScale-21(DASS-21)inanon-clini-
+calsampleofSouthAfricanworkingadults.JournalofPsychologyinAfrica.2019;29(4):346–53.
+43. LaiJ,MaS,WangY,CaiZ,HuJ,WeiN,etal.FactorsAssociatedWithMentalHealthOutcomes
+AmongHealthCareWorkersExposedtoCoronavirusDisease2019.JAMANetwOpen.2020;3(3):
+e203976.https://doi.org/10.1001/jamanetworkopen.2020.3976PMID:32202646
+44. BeckJG,GrantDM,ReadJP,ClappJD,CoffeySF,MillerLM,etal.Theimpactofeventscale-revised:
+psychometricpropertiesinasampleofmotorvehicleaccidentsurvivors.JAnxietyDisord.2008;22
+(2):187–98.https://doi.org/10.1016/j.janxdis.2007.02.007PMID:17369016
+45. VassarMKKHW,HaleH.AmetaanalysisofcoefficientalphafortheImpactofEventScalesareliability
+generalizationstudySouthAfricanJournalofPsychology2011;41(1):6–16.
+46. MajorA,HlubockyFJ.MentalhealthofhealthcareworkersduringtheCovid-19pandemicandevidence
+basedframeworksformitigation:Arapidreview.medRxiv.2021.
+47. BeckCT.Secondarytraumaticstressinnurses:asystematicreview.Archivesofpsychiatricnursing,
+25(1),1–102011.https://doi.org/10.1016/j.apnu.2010.05.005PMID:21251596
+48. Ogińska-BulikNGP,MichalskaP,KędraEPrevalenceandpredictorsofsecondarytraumaticstress
+symptomsinhealthcareprofessionalsworkingwithtraumavictims:Across-sectionalstudy.PLoS
+ONE 16(2):e0247596.2021.https://doi.org/10.1371/journal.pone.0247596PMID:33621248
+49. GreenbergN,DochertyM,GnanapragasamS,WesselyS.Managingmentalhealthchallengesfaced
+byhealthcareworkersduringcovid-19pandemic.BMJ.2020;368:m1211.https://doi.org/10.1136/bmj.
+m1211PMID:32217624
+50. LedikweJH,KleinmanNJ,MphoM,MothibediH,MawandiaS,SemoBW,etal.Associationsbetween
+healthcareworkerparticipationinworkplacewellnessactivitiesandjobsatisfaction,occupationalstress
+andburnout:across-sectionalstudyinBotswana.BMJOpen.2018;8(3):e018492.https://doi.org/10.
+1136/bmjopen-2017-018492PMID:29549200
+51. UchinoBN,VaughnAA,CarlisleM,BirminghamW.Socialsupportandimmunity.TheOxfordhandbook
+ofpsychoneuroimmunology.Oxfordlibraryofpsychology. NewYork,NY,US: OxfordUniversity
+Press;2012.p.214–33.
+52. KalmoeMC,ChapmanMB,GoldJA,GiedinghagenAM.PhysicianSuicide:ACalltoActionMissouri
+Medicine.2019;May-June(116(3)):211–6.PMID:31527944
+53. JaiswalA,SinghT,AryaYK."PsychologicalAntibodies"toSafeguardFrontlineHealthcareWarriors
+MentalHealthAgainstCOVID-19Pandemic-RelatedPsychopathology.FrontPsychiatry.2020;
+11:590160.https://doi.org/10.3389/fpsyt.2020.590160PMID:33391053
+PLOSONE|https://doi.org/10.1371/journal.pone.0266008 May4,2022 16/17
+
+PLOS ONE COVIDandmentalhealthinSouthAfrica
+54. PollockA,CampbellP,CheyneJ,CowieJ,DavisB,McCallumJ,etal.Interventionstosupporttheresil-
+ienceandmentalhealthoffrontlinehealthandsocialcareprofessionalsduringandafteradiseaseout-
+break,epidemicorpandemic:amixedmethodssystematicreview.CochraneDatabaseSystRev.
+2020;11:CD013779.https://doi.org/10.1002/14651858.CD013779PMID:33150970
+55. DongJiY-JJ,DuanXue-Zhang,LiWen-Gang,SunZhi-Qiang,Xue-AiSongY-HM,TangHong-Mei,
+etal.PrevalenceofpsychologicalsymptomsamongEbolasurvivorsandhealthcareworkersduringthe
+2014–2015EbolaoutbreakinSierraLeone:across-sectionalstudy.Oncotarget,2017,Vol 8,(No
+8),pp:12784–12791.2017.https://doi.org/10.18632/oncotarget.14498PMID:28061463
+56. DOH-KZN.FromTheFrontlines:Anappealfromahealthcarehero.www.sacoronavirus.co.za.2021.
+PLOSONE|https://doi.org/10.1371/journal.pone.0266008 May4,2022 17/17
